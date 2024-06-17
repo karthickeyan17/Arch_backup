@@ -1,0 +1,9 @@
+sxhkd &
+sh ~/.config/polybar/launch.sh & 
+greenclip daemon & 
+sh ~/.scripts/wallpaper &
+picom -b & 
+xsetroot -cursor_name left_ptr & 
+xfce4-power-manager & 
+xmodmap -e 'clear Lock' -e 'keycode 0x42 = v' &
+"/usr/lib/jvm/default/bin/java" -Xmx1024m -jar "/opt/xdman/xdman.jar" -m &

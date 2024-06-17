@@ -2,16 +2,12 @@
 
 # Sxhkd
 sxhkd&
-
-# Default cursor
 xsetroot -cursor_name left_ptr
-
 # Workspaces
-bspc monitor -d 1 2 3 4 5 6 7
-
+bspc monitor -d 1 2 3 4 5 6 7 8 9 10
 # Window
-bspc config border_width         2
-bspc config top_padding         20
+bspc config border_width         0.2
+bspc config top_padding         37
 
 bspc config window_gap          12
 
@@ -40,12 +36,10 @@ bspc rule -a btm desktop='^11'
 bspc rule -a Deluge desktop='^12'
 
 
+# Autostart programs
 dunst&
 picom&
-polybar -c .config/polybar/cuts/config.ini&
-
-
-# Kill previous xob instances
+feh --bg-fill --randomize .fehbg wallpaper/
 pkill xob
 
 # Volume bar
