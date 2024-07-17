@@ -1,0 +1,124 @@
+2024-07-12 14:22:30.338 [error] Reading directory to watch failed Error: ENOENT: no such file or directory, scandir '/home/karthi/Leetcode_daily_progress_scrapper/.pixi/envs'
+    at Object.readdirSync (node:fs:1513:3)
+    at Object.t.readdirSync (node:electron/js2c/node_init:2:11289)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:574598
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:574789
+    at Array.map (<anonymous>)
+    at d.initWatchers (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:574507)
+    at d.ensureWatchersReady (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:536827) {
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path: '/home/karthi/Leetcode_daily_progress_scrapper/.pixi/envs'
+}
+2024-07-12 14:22:30.338 [error] Dir "/home/karthi/Leetcode_daily_progress_scrapper/.pixi/envs" is not watchable (directory does not exist)
+2024-07-12 14:22:30.338 [info] Default formatter is set to null for workspace /home/karthi/Leetcode_daily_progress_scrapper
+2024-07-12 14:22:30.338 [error] Unable to check if shell integration is active Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at a.onDidWriteTerminalData (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:32723)
+    at new m (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:795800)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1647601)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649509
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1647375)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649509
+    at Object.t.resolve (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649772)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1633335
+    at e._get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1633101)
+    at e.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1631813)
+    at e.dynamicValue (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1654877)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648998
+    at c (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648044)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648938
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648457
+    at Array.map (<anonymous>)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648429
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1647375)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649509
+    at Object.t.resolve (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649772)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1633335
+    at e._get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1633101)
+    at e.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1631813)
+    at a.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:476784)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:397213
+    at t.activateComponents (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:395500)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2572500
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2572032)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804)
+2024-07-12 14:22:30.340 [info] Starting Environment refresh
+2024-07-12 14:22:30.340 [info] Starting Environment refresh
+2024-07-12 14:22:30.387 [info] > pixi --version
+2024-07-12 14:22:30.390 [error] Error: spawn pixi ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-07-12 14:22:30.437 [info] > hatch env show --json
+2024-07-12 14:22:30.437 [info] cwd: .
+2024-07-12 14:22:30.660 [info] > conda info --json
+2024-07-12 14:22:32.487 [info] Environments refresh finished (event): 3473 milliseconds
+2024-07-12 14:22:32.487 [info] Environments refresh paths discovered: 3473 milliseconds
+2024-07-12 14:22:32.492 [info] Environments refresh finished (event): 3468 milliseconds
+2024-07-12 14:22:32.492 [info] Environments refresh paths discovered: 3468 milliseconds
+2024-07-12 14:22:32.541 [info] Environment refresh took 3527 milliseconds
+2024-07-12 14:22:32.543 [info] Environment refresh took 3520 milliseconds
+2024-07-12 14:22:32.639 [info] > pyenv which python
+2024-07-12 14:22:32.639 [info] cwd: .
+2024-07-12 14:22:32.780 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-07-12 14:22:32.780 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-07-12 14:22:32.853 [info] > /usr/bin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python_files/interpreterInfo.py
+2024-07-12 14:22:32.860 [info] Python interpreter path: /bin/python
+2024-07-12 14:22:32.874 [error] [
+  'Failed to activate a workspace, Class name = m, completed in 3859ms, has a falsy return value, Arg 1: <Uri:/home/karthi/Leetcode_daily_progress_scrapper/scraper.py>, Arg 2: {"started":1720774333040}, Return Value: undefined',
+  Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+      at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+      at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25429)
+      at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:824391)
+      at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2460
+      at Array.map (<anonymous>)
+      at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2450)
+]
+2024-07-12 14:22:32.875 [error] Failure during activation. Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25429)
+    at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:824391)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2460
+    at Array.map (<anonymous>)
+    at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2450)
+2024-07-12 14:22:32.875 [error] sendStartupTelemetry() failed. Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25429)
+    at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:824391)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2460
+    at Array.map (<anonymous>)
+    at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2450)
+2024-07-12 14:22:40.287 [info] Starting Jedi language server for Leetcode_daily_progress_scrapper.
+2024-07-12 15:48:22.141 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/main.py
+2024-07-12 15:49:17.210 [info] > /bin/python ~/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python_files/normalizeSelection.py
+2024-07-12 15:49:17.591 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-07-12 15:49:17.704 [info] Send text to terminal: /bin/python
+2024-07-12 15:54:02.416 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/main.py
+2024-07-12 15:54:29.921 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/main.py
+2024-07-12 15:56:50.924 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/main.py
+2024-07-12 16:12:51.934 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/main.py
+2024-07-12 16:13:02.504 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/main.py
+2024-07-12 16:19:14.960 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/de.py
+2024-07-12 16:39:57.460 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/cache.py
+2024-07-12 16:40:37.994 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/scraper.py
+2024-07-12 16:51:36.654 [info] Discover tests for workspace name: Leetcode_daily_progress_scrapper - uri: /home/karthi/Leetcode_daily_progress_scrapper/main.py

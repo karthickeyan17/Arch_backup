@@ -1,0 +1,3 @@
+import random as R
+a = R.randint(0,3)
+print(a)

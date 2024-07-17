@@ -1,0 +1,9 @@
+2024/07/02-11:38:46.685 240b Reusing MANIFEST /home/karthi/.config/Min/Partitions/webcontent/Local Storage/leveldb/MANIFEST-000001
+2024/07/02-11:38:46.687 240b Recovering log #8
+2024/07/02-11:38:46.687 240b Reusing old log /home/karthi/.config/Min/Partitions/webcontent/Local Storage/leveldb/000008.log 
+2024/07/02-11:40:57.987 240a Level-0 table #11: started
+2024/07/02-11:40:58.031 240a Level-0 table #11: 19923 bytes OK
+2024/07/02-11:40:58.081 240a Delete type=0 #8
+2024/07/02-11:47:15.002 240a Level-0 table #13: started
+2024/07/02-11:47:15.137 240a Level-0 table #13: 18877 bytes OK
+2024/07/02-11:47:15.188 240a Delete type=0 #10

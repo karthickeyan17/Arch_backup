@@ -1,0 +1,30 @@
+2024/07/02-11:39:01.463 240a Reusing MANIFEST /home/karthi/.config/Min/Partitions/webcontent/Session Storage/MANIFEST-000001
+2024/07/02-11:39:01.464 240a Recovering log #3
+2024/07/02-11:39:01.464 240a Reusing old log /home/karthi/.config/Min/Partitions/webcontent/Session Storage/000003.log 
+2024/07/02-11:43:29.579 240b Level-0 table #5: started
+2024/07/02-11:43:29.777 240b Level-0 table #5: 391567 bytes OK
+2024/07/02-11:43:29.829 240b Delete type=0 #3
+2024/07/02-11:43:31.019 240a Level-0 table #7: started
+2024/07/02-11:43:31.159 240a Level-0 table #7: 381751 bytes OK
+2024/07/02-11:43:31.208 240a Delete type=0 #4
+2024/07/02-11:47:33.857 240b Level-0 table #9: started
+2024/07/02-11:47:34.015 240b Level-0 table #9: 382035 bytes OK
+2024/07/02-11:47:34.066 240b Delete type=0 #6
+2024/07/02-11:48:36.282 240b Level-0 table #11: started
+2024/07/02-11:48:36.571 240b Level-0 table #11: 381667 bytes OK
+2024/07/02-11:48:36.622 240b Delete type=0 #8
+2024/07/02-11:48:47.872 240b Level-0 table #13: started
+2024/07/02-11:48:48.070 240b Level-0 table #13: 381669 bytes OK
+2024/07/02-11:48:48.122 240b Delete type=0 #10
+2024/07/02-11:49:11.102 240a Level-0 table #15: started
+2024/07/02-11:49:11.249 240a Level-0 table #15: 381918 bytes OK
+2024/07/02-11:49:11.299 240a Delete type=0 #12
+2024/07/02-11:49:11.300 240a Compacting 4@0 + 1@1 files
+2024/07/02-11:49:11.413 240a Generated table #16@0: 5 keys, 382162 bytes
+2024/07/02-11:49:11.414 240a Compacted 4@0 + 1@1 files => 382162 bytes
+2024/07/02-11:49:11.460 240a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/02-11:49:11.461 240a Delete type=2 #13
+2024/07/02-11:49:11.461 240a Delete type=2 #7
+2024/07/02-11:49:11.461 240a Delete type=2 #11
+2024/07/02-11:49:11.461 240a Delete type=2 #15
+2024/07/02-11:49:11.462 240a Delete type=2 #9

@@ -1,0 +1,60 @@
+{
+   "author": "Opera Norway AS",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background_worker.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "webpage_content_reporter.js" ],
+      "matches": [ "https://*/*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "writing_mode_assistant.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Aria",
+   "developer": {
+      "name": "Opera Norway AS",
+      "url": "https://opera.com"
+   },
+   "externally_connectable": {
+      "ids": [ "fnmbciokibmcfamkopgdjjpmefbhbmem" ],
+      "matches": [ "*://*.devicetest.ai:*/*", "https://devicetest.ai/*", "https://aria.op-test.net/*", "http://localhost:11435/*", "https://localhost:11435/*" ]
+   },
+   "homepage_url": "https://opera.com",
+   "icons": {
+      "128": "icons/512/icon_512_black.png",
+      "32": "icons/512/icon_512_black.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwZiVKc/GXvUrqf0jHTXgNG8UQDSwdSUnrGl/CFvcA+/0K9GtuTwSTdvqPrnw9ACqX6QOIa6I36TruaB842sG+LtGvvgFeEwVuMbbmXuyYNgcfbf6IhVCZZPD7t5ygHkF1USHnw7sGCXfJ0aS4xIRlH7lA6eBYiFlz8ngMEmn2aZnxUWTVTOFpPHEwLLrlZwxngfYuyTzOaemygsi102UVDd+O5G/clRUQeam0A7hnYOu2HzmmmMQuWU0F95WpSniiDf5bUWY3OmI8dwgVei9MCHlEx6/D715PPczmfq/R5dqQ/Dj7nin+U89wNIBpGyk1HzkeYEkMu/ypm5t8V8xwwIDAQAB",
+   "manifest_version": 2,
+   "name": "Aria",
+   "page_action": {
+      "default_icon": {
+         "16": "icons/512/icon_512_black.png",
+         "32": "icons/512/icon_512_black.png"
+      },
+      "theme_icons": [ {
+         "dark": "icons/512/icon_512_white.png",
+         "light": "icons/512/icon_512_black.png",
+         "size": 16
+      }, {
+         "dark": "icons/512/icon_512_white.png",
+         "light": "icons/512/icon_512_black.png",
+         "size": 32
+      } ]
+   },
+   "permissions": [ "localModelsPrivate", "liveWallpaperMetricsPrivate", "workspacesPrivate", "browserSidebarPrivate", "feedbackPopupPrivate", "operaAccountPrivate", "operaBrowserPrivate", "operaIdentityPrivate", "palette", "shodanPrivate", "statsPrivate", "storage", "tabs", "windows", "topSites", "tabsPrivate", "bookmarks" ],
+   "sidebar_action": {
+      "default_icon": "icons/512/icon_512_black.png",
+      "default_panel": "aria.html",
+      "default_panel_width": 604,
+      "default_title": "",
+      "maximum_panel_width": 755,
+      "minimum_panel_width": 604,
+      "panel_width": 604
+   },
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "4.5",
+   "web_accessible_resources": [ "public/aria-icon-writing-mode.svg" ]
+}

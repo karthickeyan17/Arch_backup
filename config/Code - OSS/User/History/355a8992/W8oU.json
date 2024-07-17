@@ -1,0 +1,7 @@
+{
+    "glassit.alpha": 30,
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 17,
+    "workbench.colorTheme": "Simple Dark",
+    "editor.fontWeight": "600"
+}

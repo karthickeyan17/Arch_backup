@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 17,
+    "workbench.colorTheme": "Simple Dark",
+    "editor.fontWeight": "600",
+    "workbench.settings.applyToAllProfiles": [
+        "glassit.alpha",
+        "glassit.step"
+    ],
+    "glassit.alpha": 230,
+    "window.commandCenter": false,
+    "workbench.editor.showTabs": "single"
+}

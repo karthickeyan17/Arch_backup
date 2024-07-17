@@ -1,0 +1,239 @@
+2024-07-11 21:53:22.997 [error] Reading directory to watch failed Error: ENOENT: no such file or directory, scandir '/home/karthi/Leetcode-profile-scraper/.pixi/envs'
+    at Object.readdirSync (node:fs:1513:3)
+    at Object.t.readdirSync (node:electron/js2c/node_init:2:11289)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:574598
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:574789
+    at Array.map (<anonymous>)
+    at d.initWatchers (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:574507)
+    at d.ensureWatchersReady (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:536827) {
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path: '/home/karthi/Leetcode-profile-scraper/.pixi/envs'
+}
+2024-07-11 21:53:22.997 [error] Dir "/home/karthi/Leetcode-profile-scraper/.pixi/envs" is not watchable (directory does not exist)
+2024-07-11 21:53:22.997 [info] Default formatter is set to null for workspace /home/karthi/Leetcode-profile-scraper
+2024-07-11 21:53:22.997 [error] Unable to check if shell integration is active Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at a.onDidWriteTerminalData (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:32723)
+    at new m (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:795800)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1647601)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649509
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1647375)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649509
+    at Object.t.resolve (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649772)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1633335
+    at e._get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1633101)
+    at e.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1631813)
+    at e.dynamicValue (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1654877)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648998
+    at c (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648044)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648938
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648457
+    at Array.map (<anonymous>)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1648429
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1647375)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649509
+    at Object.t.resolve (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1649772)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1633335
+    at e._get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1633101)
+    at e.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1631813)
+    at a.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:476784)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:397213
+    at t.activateComponents (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:395500)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2572500
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2572032)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804)
+2024-07-11 21:53:22.997 [info] > conda info --json
+2024-07-11 21:53:23.021 [info] > pyenv which python
+2024-07-11 21:53:23.021 [info] cwd: .
+2024-07-11 21:53:23.369 [error] [
+  'Failed to activate a workspace, Class name = m, completed in 3501ms, has a falsy return value, Arg 1: <Uri:/home/karthi/Leetcode-profile-scraper/main.py>, Arg 2: {"started":1720714987406}, Return Value: undefined',
+  Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+      at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+      at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25429)
+      at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:824391)
+      at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2460
+      at Array.map (<anonymous>)
+      at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2450)
+]
+2024-07-11 21:53:23.373 [error] Failure during activation. Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25429)
+    at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:824391)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2460
+    at Array.map (<anonymous>)
+    at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2450)
+2024-07-11 21:53:23.373 [error] sendStartupTelemetry() failed. Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25429)
+    at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:824391)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2460
+    at Array.map (<anonymous>)
+    at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2450)
+2024-07-11 21:53:25.153 [info] > /usr/bin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python_files/interpreterInfo.py
+2024-07-11 21:53:25.291 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python_files/interpreterInfo.py
+2024-07-11 21:53:25.530 [info] Python interpreter path: /bin/python
+2024-07-11 21:53:32.650 [info] Starting Jedi language server for Leetcode-profile-scraper.
+2024-07-11 21:55:04.043 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 21:59:04.013 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:01:08.695 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:03:28.211 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:03:51.675 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:06:04.424 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:06:14.811 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:07:48.671 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:10:16.365 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:10:59.288 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:11:36.430 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:12:56.215 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:14:06.904 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:14:16.250 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:15:35.385 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:15:53.714 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:18:17.789 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:21:59.081 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:23:51.912 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:25:27.380 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:26:59.398 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:28:00.259 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:32:04.011 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:33:11.897 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:33:59.573 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:35:17.023 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:36:32.107 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:37:23.263 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:37:48.984 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:38:09.809 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/p.py
+2024-07-11 22:50:49.319 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:51:08.679 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:52:04.338 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:53:41.920 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:55:30.984 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 22:56:24.950 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 23:57:31.154 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-11 23:58:34.438 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:03:09.805 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:03:49.585 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:04:17.082 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:06:45.448 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:12:05.778 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:12:37.159 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:15:11.876 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:17:04.237 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:17:47.444 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:23:34.529 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:26:03.804 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:26:43.339 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:27:17.047 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:29:00.723 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:29:13.038 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:31:42.539 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:32:14.678 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:32:26.058 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:33:11.252 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:34:03.152 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:34:32.959 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:36:37.313 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:38:00.384 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:39:01.513 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:39:22.319 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:40:02.618 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:41:54.882 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:42:30.941 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:42:59.433 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:43:37.547 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:44:08.968 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:44:26.291 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:45:17.933 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:46:06.125 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:49:26.517 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:49:47.766 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:50:21.820 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:52:38.623 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 00:58:15.110 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:01:43.904 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:05:43.740 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:05:59.470 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:06:22.270 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:06:33.656 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:09:33.090 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:11:05.888 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:11:42.713 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:12:33.170 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:13:23.409 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:16:42.806 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:17:09.384 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:17:27.006 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:18:09.991 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:18:23.983 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:19:58.839 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:23:35.300 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:25:23.999 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:30:09.613 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:33:21.653 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:34:07.239 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:34:34.463 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:34:58.641 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:37:15.009 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:41:25.736 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:43:17.572 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:49:39.919 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:50:05.476 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:51:34.525 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:52:44.905 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:52:59.752 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:53:48.000 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:54:20.022 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:54:54.080 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:55:24.042 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:56:26.566 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:59:18.829 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 01:59:55.404 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:03:52.661 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:08:54.592 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:09:43.504 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:12:24.558 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:14:03.078 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:15:58.176 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:17:14.176 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:18:32.796 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:18:51.901 [info] > pixi --version
+2024-07-12 02:18:51.989 [error] Error: spawn pixi ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-07-12 02:18:51.991 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-07-12 02:19:24.973 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:19:47.360 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:20:27.428 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:20:44.609 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:21:57.124 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:22:33.775 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:22:39.287 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:24:36.662 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:25:03.370 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:25:20.776 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:26:04.028 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:28:21.260 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:32:08.152 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+2024-07-12 02:36:15.966 [info] Discover tests for workspace name: Leetcode-profile-scraper - uri: /home/karthi/Leetcode-profile-scraper/main.py
+                                                                                                                                                

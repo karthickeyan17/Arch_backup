@@ -1,0 +1,86 @@
+2024-07-11 21:53:03.247 [info] Extension host with pid 732 started
+2024-07-11 21:53:03.247 [info] Skipping acquiring lock for /home/karthi/.config/Code - OSS/User/workspaceStorage/81a8f03a6857fcb77f66df29213e39d6.
+2024-07-11 21:53:04.711 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-11 21:53:04.793 [info] ExtensionService#_doActivateExtension luma.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-07-11 21:53:06.342 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-07-11 21:53:06.938 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-07-11 21:53:07.077 [info] ExtensionService#_doActivateExtension virgilsisoe.python-auto-import, startup: false, activationEvent: 'onLanguage:python'
+2024-07-11 21:53:10.767 [error] Error: spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python-env-tools/bin/pet ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-07-11 21:53:10.807 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-11 21:53:10.865 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-07-11 21:53:11.304 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-07-11 21:53:19.121 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-11 21:53:19.521 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-11 21:53:20.188 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-11 21:53:20.252 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-11 21:53:20.534 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-11 21:53:20.872 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-07-11 21:53:21.684 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-07-11 21:53:22.165 [info] Eager extensions activated
+2024-07-11 21:53:22.400 [error] Activating extension ms-python.debugpy failed due to an error:
+2024-07-11 21:53:22.400 [error] Error: Extension 'ms-python.debugpy' CANNOT use API proposal: portsAttributes.
+Its package.json#enabledApiProposals-property declares:  but NOT portsAttributes.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.debugpy
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.registerPortAttributesProvider (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:42563)
+    at t.registerDebugger (/home/karthi/.vscode-oss/extensions/ms-python.debugpy-2024.8.0-linux-x64/dist/extension.js:2:880557)
+    at e.activate (/home/karthi/.vscode-oss/extensions/ms-python.debugpy-2024.8.0-linux-x64/dist/extension.js:2:1128458)
+    at Function.kb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:13532)
+    at Function.jb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:13245)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:11246
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804)
+2024-07-11 21:53:22.404 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-11 21:53:22.474 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-11 21:53:22.620 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-11 21:53:24.613 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25429)
+    at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:824391)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2460
+    at Array.map (<anonymous>)
+    at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:2450)
+2024-07-11 21:53:24.741 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-11 21:55:13.957 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-11 22:03:24.502 [error] [ms-python.python] provider FAILED
+2024-07-11 22:03:24.503 [error] Error: AttributeError: 'TreeInstance' object has no attribute 'with_generics'
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1947043)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1945003)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1941297)
+    at processImmediate (node:internal/timers:478:21)
+2024-07-11 22:26:37.189 [error] [ms-python.python] provider FAILED
+2024-07-11 22:26:37.189 [error] Error: AttributeError: 'TreeInstance' object has no attribute 'with_generics'
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1947043)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1945003)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1941297)
+    at processImmediate (node:internal/timers:478:21)
+2024-07-12 00:09:49.740 [error] [ms-python.python] provider FAILED
+2024-07-12 00:09:49.756 [error] Error: AttributeError: 'TreeInstance' object has no attribute 'with_generics'
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1947043)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1945003)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1941297)
+    at processImmediate (node:internal/timers:478:21)
+2024-07-12 00:41:34.520 [error] [ms-python.python] provider FAILED
+2024-07-12 00:41:34.521 [error] Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1947043)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1945003)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1941297)
+    at processImmediate (node:internal/timers:478:21)
+2024-07-12 01:48:37.112 [error] [ms-python.python] provider FAILED
+2024-07-12 01:48:37.133 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1947043)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1945003)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1941297)
+    at processImmediate (node:internal/timers:478:21)
+2024-07-12 01:58:11.493 [error] [ms-python.python] provider FAILED
+2024-07-12 01:58:11.494 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1947043)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1945003)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/out/client/extension.js:2:1941297)
+    at processImmediate (node:internal/timers:478:21)

@@ -1,0 +1,27 @@
+-> -*- Start provider -*-
+-> LinePrefix: pr
+-> Cursor position: 989
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> -*- Start provider -*-
+-> LinePrefix: print(
+-> Cursor position: 993
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> -*- Start provider -*-
+-> LinePrefix: print(
+-> Cursor position: 993
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: from datetime import datetime ,time
+-> Cursor position is in a inline import statement. Dont suggest

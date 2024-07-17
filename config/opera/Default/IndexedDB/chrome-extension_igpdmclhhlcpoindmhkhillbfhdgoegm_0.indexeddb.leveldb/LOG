@@ -1,0 +1,7 @@
+2024/07/02-12:21:52.148 4e98 Reusing MANIFEST /home/karthi/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/02-12:21:52.164 4e98 Recovering log #4
+2024/07/02-12:21:52.164 4e98 Reusing old log /home/karthi/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000004.log 
+2024/07/02-12:21:52.382 4e99 Level-0 table #8: started
+2024/07/02-12:21:52.428 4e99 Level-0 table #8: 1632 bytes OK
+2024/07/02-12:21:52.812 4e99 Delete type=0 #4
+2024/07/02-12:21:52.819 4e99 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

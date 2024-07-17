@@ -1,0 +1,7 @@
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/g/<str:name>")
+def hello_world(name):
+    return "vanakkam da maple {name}"

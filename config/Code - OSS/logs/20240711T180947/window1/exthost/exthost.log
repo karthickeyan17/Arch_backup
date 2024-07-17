@@ -1,0 +1,177 @@
+2024-07-11 18:10:05.481 [info] Extension host with pid 712 started
+2024-07-11 18:10:05.481 [info] Skipping acquiring lock for /home/karthi/.config/Code - OSS/User/workspaceStorage/30e0fd348ecc0b41b1fa23a61c7166ec.
+2024-07-11 18:10:07.803 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-11 18:10:07.929 [info] ExtensionService#_doActivateExtension luma.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-07-11 18:10:09.349 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-07-11 18:10:11.102 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-07-11 18:10:11.185 [info] ExtensionService#_doActivateExtension virgilsisoe.python-auto-import, startup: false, activationEvent: 'onLanguage:python'
+2024-07-11 18:10:11.324 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-11 18:10:11.403 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-07-11 18:10:13.156 [error] Error: spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.10.0-universal/python-env-tools/bin/pet ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-07-11 18:10:19.167 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-07-11 18:10:19.441 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-11 18:10:19.987 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-11 18:10:29.366 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-11 18:10:29.852 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-11 18:10:30.082 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-11 18:10:30.612 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-07-11 18:10:31.403 [info] Eager extensions activated
+2024-07-11 18:10:31.430 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-11 18:10:31.516 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.517 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.518 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.522 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.524 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.525 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.530 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.531 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.532 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.533 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.534 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.535 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.536 [error] Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-11 18:10:31.538 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+    at Object.l [as $9] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+    at Array.forEach (<anonymous>)
+    at S.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8151)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-11 18:10:31.548 [info] Extension host with pid 712 exiting with code 0

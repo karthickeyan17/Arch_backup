@@ -1,0 +1,762 @@
+-> -*- Start provider -*-
+-> LinePrefix: C
+-> Cursor position: 165
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: CACHE = "./c
+-> Cursor position: 176
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: i
+-> Cursor position: 244
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if c
+-> Cursor position: 247
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if o
+-> Cursor position: 247
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if os.path.isfile(C
+-> Cursor position: 262
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: w
+-> Cursor position: 278
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: w
+-> Cursor position: 278
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: with o
+-> Cursor position: 283
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: with ope
+-> Cursor position: 285
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: with open("cache.txt","w") a
+-> Cursor position: 305
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: with open("cache.txt","w") as c
+-> Cursor position: 308
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 323
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if n
+-> Cursor position: 247
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: date = datetime.now()-t
+-> Cursor position: 1247
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: date = datetime.now()-timedelta(d
+-> Cursor position: 1257
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: fetch_stats(date.data
+-> Cursor position: 1326
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: fetch_stats(date.date
+-> Cursor position: 1326
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> No imports found. Abort
+-> -*- Start provider -*-
+-> No imports found. Abort
+-> -*- Start provider -*-
+-> No imports found. Abort
+-> -*- Start provider -*-
+-> No imports found. Abort
+-> -*- Start provider -*-
+-> No imports found. Abort
+-> -*- Start provider -*-
+-> LinePrefix: i
+-> Cursor position: 70
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: import d
+-> Cursor position is in a inline import statement. Dont suggest
+-> -*- Start provider -*-
+-> LinePrefix: import da
+-> Cursor position is in a inline import statement. Dont suggest
+-> -*- Start provider -*-
+-> LinePrefix: import datatim
+-> Cursor position is in a inline import statement. Dont suggest
+-> -*- Start provider -*-
+-> LinePrefix: import datatime
+-> Cursor position is in a inline import statement. Dont suggest
+-> -*- Start provider -*-
+-> LinePrefix: f
+-> Cursor position: 70
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: from d
+-> Cursor position is in a inline import statement. Dont suggest
+-> -*- Start provider -*-
+-> LinePrefix: from data=e
+-> Cursor position is in a inline import statement. Dont suggest
+-> -*- Start provider -*-
+-> LinePrefix: i
+-> Cursor position: 586
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: i
+-> Cursor position: 659
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if d
+-> Cursor position: 662
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if date i
+-> Cursor position: 667
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if date in d
+-> Cursor position: 670
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if date in df1
+-> Cursor position: 672
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: e
+-> Cursor position: 702
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else d
+-> Cursor position: 707
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else d
+-> Cursor position: 713
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = d
+-> Cursor position: 719
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = df1.mergw
+-> Cursor position: 727
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = df1.merg
+-> Cursor position: 726
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = df1.merge(d
+-> Cursor position: 729
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = df1.merge(df1,df
+-> Cursor position: 734
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = df1.merge(df1,df2,l
+-> Cursor position: 737
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = df1.merge(df1,df2,left_index=T
+-> Cursor position: 748
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = df1.merge(df1,df2,left_index=True,r
+-> Cursor position: 753
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else df1 = df1.merge(df1,df2,left_index=True,right_index=T
+-> Cursor position: 765
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else : df1 = D
+-> Cursor position: 721
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else : df1 = p
+-> Cursor position: 721
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else : df1 = pd.merge(df2
+-> Cursor position: 732
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: else : df1 = pd.merge(df2,df1
+-> Cursor position: 736
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: f
+-> Cursor position: 1316
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: fetch_stats(d
+-> Cursor position: 1328
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: fetch_stats(date.data
+-> Cursor position: 1336
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: fetch_stats(date.dat
+-> Cursor position: 1335
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: d
+-> Cursor position: 1345
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: f
+-> Cursor position: 1387
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: fetch_stats(d
+-> Cursor position: 1399
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: f
+-> Cursor position: 1328
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: for i
+-> Cursor position: 1332
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: for i i
+-> Cursor position: 1334
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: for i in r
+-> Cursor position: 1337
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: date = datetime.now() - timedelta(days=i
+-> Cursor position: 1400
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: date. Skipping
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: OUTPUT_PATH = "./leetcode_stats.csv"z
+-> Cursor position: 164
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: i
+-> Cursor position: 245
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if c
+-> Cursor position: 248
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if o
+-> Cursor position: 248
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if os.path.isf
+-> Cursor position: 258
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: if os.path.isfile(C
+-> Cursor position: 263
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: w
+-> Cursor position: 279
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: with o
+-> Cursor position: 284
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: with ope
+-> Cursor position: 286
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: with open('cache.txt','w') a
+-> Cursor position: 306
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: with open('cache.txt','w') as o
+-> Cursor position: 309
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 325
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if n
+-> Cursor position: 597
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: e
+-> Cursor position: 666
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: elif d
+-> Cursor position: 671
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: elif date in
+-> Cursor position: 677
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: elif date in f
+-> Cursor position: 679
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: elif date in d
+-> Cursor position: 679
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: elif date in df1
+-> Cursor position: 681
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: i
+-> Cursor position: 680
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: e
+-> Cursor position: 756
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if d
+-> Cursor position: 752
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if date in
+-> Cursor position: 758
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: if date in df
+-> Cursor position: 761
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: d
+-> Cursor position: 819
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: df1
+-> Cursor position: 821
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> -*- Start provider -*-
+-> LinePrefix: df
+-> Cursor position: 820
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: d
+-> Cursor position: 819
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 819
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: pd.merge(df2,df1,l
+-> Cursor position: 836
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: pd.merge(df2,df1,left_index=R
+-> Cursor position: 847
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: pd.merge(df2,df1,left_index=T
+-> Cursor position: 847
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: pd.merge(df2,df1,left_index=True,r
+-> Cursor position: 852
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: pd.merge(df2,df1,left_index=True,right_index=T
+-> Cursor position: 864
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: d
+-> Cursor position: 819
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: d
+-> Cursor position: 882
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: df1.to_csv(L
+-> Cursor position: 893
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: df1.to_csv(O
+-> Cursor position: 893
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
+-> -*- Start provider -*-
+-> LinePrefix: fetch_stats(date
+-> Cursor position: 1465
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: [{"label":"MAXYEAR","details":{"type":5,"package":"datetime"}},{"label":"MINYEAR","details":{"type":5,"package":"datetime"}},{"label":"UTC","details":{"type":5,"package":"datetime"}},{"label":"date","details":{"type":6,"package":"datetime"}},{"label":"datetime","details":{"type":6,"package":"datetime"}},{"label":"datetime_CAPI","details":{"type":5,"package":"datetime"}},{"label":"time","details":{"type":6,"package":"datetime"}},{"label":"timedelta","details":{"type":6,"package":"datetime"}},{"label":"timezone","details":{"type":6,"package":"datetime"}},{"label":"tzinfo","details":{"type":6,"package":"datetime"}}]
+-> Item already imported: datetime. Skipping
+-> Item already imported: timedelta. Skipping
+-> Vscode completion items: [{"label":"MAXYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"MINYEAR","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"UTC","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"date","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"datetime_CAPI","kind":"Variable","detail":"Python-Auto-Import","documentation":{}},{"label":"time","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"timezone","kind":"Class","detail":"Python-Auto-Import","documentation":{}},{"label":"tzinfo","kind":"Class","detail":"Python-Auto-Import","documentation":{}}]
