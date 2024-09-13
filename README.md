@@ -17,4 +17,17 @@ This repository provides configurations for a customized Arch Linux setup, inclu
 - **ranger**: A terminal-based file manager with a vi-like interface.
 - **pulseaudio**: A sound system for Linux.
 
+## Screenshots
+
+Here’s a preview of what the setup looks like:
+
+### Screenshot 1
+![Screenshot 1](https://github.com/karthickeyan17/Arch_backup/blob/main/Screenshots/screenshot1.png)
+
+### Screenshot 2
+![Screenshot 2](https://github.com/karthickeyan17/Arch_backup/blob/main/Screenshots/screenshot2.png)
+
+### Screenshot 3
+![Screenshot 3](https://github.com/karthickeyan17/Arch_backup/blob/main/Screenshots/screenshot3.png)
+
 Additionally, this repository includes a collection of high-resolution wallpapers to enhance your desktop experience.
