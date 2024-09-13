@@ -1,0 +1,37 @@
+{
+   "action": {
+      "browser_style": true,
+      "default_icon": {
+         "48": "icons/logo.png",
+         "96": "icons/logo-96.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Leetcode Enhancer",
+      "show_matches": [ "https://leetcode.com/*" ],
+      "theme_icons": [ {
+         "dark": "icons/logo.png",
+         "light": "icons/logo.png",
+         "size": 48
+      } ]
+   },
+   "author": "Lovesh Dongre",
+   "background": {
+      "service_worker": "service_worker.js"
+   },
+   "content_scripts": [ {
+      "css": [ "content-script.css" ],
+      "js": [ "content-script.js" ],
+      "matches": [ "https://leetcode.com/*" ]
+   } ],
+   "description": "A browser extension to improve productivity on Leetcode.",
+   "icons": {
+      "48": "icons/logo.png",
+      "96": "icons/logo-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAghCSVh6y135frsA/63XK2FSKHTZtuGmiMd2w5acFvdbdSQP7P0ns4XX4bqEhKkjIwvvlz38hDIYVhqpwtlf/u39i1b1CkHg2mHIZuuwc1NI6P3lWcOVC7g4xfmE9uiF2F2weBoEa9WakIVTHpFsz8zgmM3OqL4zOz3dvwnmVWND5p3flb/a+HcB4y+WhunzKbMXZbIKF9wHtbSSxldwO/+MuSCrpvt5VMn7z9houAyM7GrZa0K1fWoOPC2gFhRskBu5dadh/d/Y92pBMRGOyJe/u8aF/4Pm0nRGiupbJquyaNf48sVOA7ciY2MOzYQxQUc4FeMpBehSyWzhmjDd0oQIDAQAB",
+   "manifest_version": 3,
+   "name": "Leetcode Enhancer",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.63"
+}

@@ -1,0 +1,609 @@
+
+   <div class="flex min-h-screen min-w-[360px] flex-col text-label-1 dark:text-dark-label-1 bg-layer-bg dark:bg-dark-layer-bg">
+    <div class="z-base-2 fixed left-0 right-0 top-0 md:relative bg-layer-1 dark:bg-dark-layer-1 z-nav-9" id="navbar-container">
+     <nav class="flex h-[50px] w-full items-center border-b-[1px] border-solid border-border-tertiary dark:border-border-tertiary z-nav-9 bg-layer-1 dark:bg-dark-layer-1 nav-bar-container" id="leetcode-navbar">
+      <div class="display-none m-auto h-[50px] w-full items-center justify-center px-6 md:flex max-w-[1200px]">
+       <a class="mb-0.5 flex items-center mr-8" href="/">
+        <span class="display-none h-[22px] dark:flex">
+         <svg class="h-full w-auto max-w-none" fill="none" height="111" viewbox="0 0 95 111" width="95" xmlns="http://www.w3.org/2000/svg">
+          <path d="M68.0063 83.0664C70.5 80.5764 74.5366 80.5829 77.0223 83.0809C79.508 85.579 79.5015 89.6226 77.0078 92.1127L65.9346 103.17C55.7187 113.371 39.06 113.519 28.6718 103.513C28.6117 103.456 23.9861 98.9201 8.72653 83.957C-1.42528 74.0029 -2.43665 58.0749 7.11648 47.8464L24.9282 28.7745C34.4095 18.6219 51.887 17.5122 62.7275 26.2789L78.9048 39.362C81.6444 41.5776 82.0723 45.5985 79.8606 48.3429C77.6488 51.0873 73.635 51.5159 70.8954 49.3003L54.7182 36.2173C49.0488 31.6325 39.1314 32.2622 34.2394 37.5006L16.4274 56.5727C11.7767 61.5522 12.2861 69.574 17.6456 74.8292C28.851 85.8169 37.4869 94.2846 37.4969 94.2942C42.8977 99.496 51.6304 99.4184 56.9331 94.1234L68.0063 83.0664Z" fill="#FFA116">
+          </path>
+          <path clip-rule="evenodd" d="M41.1067 72.0014C37.5858 72.0014 34.7314 69.1421 34.7314 65.615C34.7314 62.0879 37.5858 59.2286 41.1067 59.2286H88.1245C91.6454 59.2286 94.4997 62.0879 94.4997 65.615C94.4997 69.1421 91.6454 72.0014 88.1245 72.0014H41.1067Z" fill="#B3B3B3" fill-rule="evenodd">
+          </path>
+          <path clip-rule="evenodd" d="M49.9118 2.02335C52.3173 -0.55232 56.3517 -0.686894 58.9228 1.72277C61.494 4.13244 61.6284 8.17385 59.2229 10.7495L16.4276 56.5729C11.7768 61.552 12.2861 69.5738 17.6453 74.8292L37.4088 94.2091C39.9249 96.6764 39.968 100.72 37.505 103.24C35.042 105.761 31.0056 105.804 28.4895 103.337L8.72593 83.9567C-1.42529 74.0021 -2.43665 58.0741 7.1169 47.8463L49.9118 2.02335Z" fill="white" fill-rule="evenodd">
+          </path>
+         </svg>
+        </span>
+        <span class="dark:display-none flex h-[22px]">
+         <svg class="h-full w-auto max-w-none" fill="none" height="111" viewbox="0 0 95 111" width="95" xmlns="http://www.w3.org/2000/svg">
+          <path d="M68.0063 83.0664C70.5 80.5764 74.5366 80.5829 77.0223 83.0809C79.508 85.579 79.5015 89.6226 77.0078 92.1127L65.9346 103.17C55.7187 113.371 39.06 113.519 28.6718 103.513C28.6117 103.456 23.9861 98.9201 8.72653 83.957C-1.42528 74.0029 -2.43665 58.0749 7.11648 47.8464L24.9282 28.7745C34.4095 18.6219 51.887 17.5122 62.7275 26.2789L78.9048 39.362C81.6444 41.5776 82.0723 45.5985 79.8606 48.3429C77.6488 51.0873 73.635 51.5159 70.8954 49.3003L54.7182 36.2173C49.0488 31.6325 39.1314 32.2622 34.2394 37.5006L16.4274 56.5727C11.7767 61.5522 12.2861 69.574 17.6456 74.8292C28.851 85.8169 37.4869 94.2846 37.4969 94.2942C42.8977 99.496 51.6304 99.4184 56.9331 94.1234L68.0063 83.0664Z" fill="#FFA116">
+          </path>
+          <path clip-rule="evenodd" d="M41.1067 72.0014C37.5858 72.0014 34.7314 69.1421 34.7314 65.615C34.7314 62.0879 37.5858 59.2286 41.1067 59.2286H88.1245C91.6454 59.2286 94.4997 62.0879 94.4997 65.615C94.4997 69.1421 91.6454 72.0014 88.1245 72.0014H41.1067Z" fill="#B3B3B3" fill-rule="evenodd">
+          </path>
+          <path clip-rule="evenodd" d="M49.9118 2.02335C52.3173 -0.55232 56.3517 -0.686894 58.9228 1.72277C61.494 4.13244 61.6284 8.17385 59.2229 10.7495L16.4276 56.5729C11.7768 61.552 12.2861 69.5738 17.6453 74.8292L37.4088 94.2091C39.9249 96.6764 39.968 100.72 37.505 103.24C35.042 105.761 31.0056 105.804 28.4895 103.337L8.72593 83.9567C-1.42529 74.0021 -2.43665 58.0741 7.1169 47.8463L49.9118 2.02335Z" fill="black" fill-rule="evenodd">
+          </path>
+         </svg>
+        </span>
+       </a>
+       <ul class="relative m-0 flex h-full grow items-center gap-6 self-end p-0">
+        <li class="relative flex h-full items-center text-sm">
+         <a class="relative whitespace-nowrap hover:text-text-primary dark:hover:text-text-primary flex items-center text-base leading-[22px] cursor-pointer hover:text-text-primary dark:hover:text-text-primary text-text-secondary dark:text-text-secondary" href="/explore/">
+          Explore
+         </a>
+        </li>
+        <li class="relative flex h-full items-center text-sm">
+         <a class="relative whitespace-nowrap hover:text-text-primary dark:hover:text-text-primary flex items-center text-base leading-[22px] cursor-pointer hover:text-text-primary dark:hover:text-text-primary text-text-secondary dark:text-text-secondary" href="/problemset">
+          Problems
+         </a>
+        </li>
+        <li class="relative flex h-full items-center text-sm">
+         <a class="relative whitespace-nowrap hover:text-text-primary dark:hover:text-text-primary flex items-center text-base leading-[22px] cursor-pointer hover:text-text-primary dark:hover:text-text-primary text-text-secondary dark:text-text-secondary" href="/contest">
+          Contest
+         </a>
+        </li>
+        <li class="relative flex h-full items-center text-sm">
+         <a class="relative whitespace-nowrap hover:text-text-primary dark:hover:text-text-primary flex items-center text-base leading-[22px] cursor-pointer hover:text-text-primary dark:hover:text-text-primary text-text-secondary dark:text-text-secondary" href="/discuss/">
+          Discuss
+         </a>
+        </li>
+        <li class="relative flex h-full items-center text-sm">
+         <div class="relative whitespace-nowrap hover:text-text-primary dark:hover:text-text-primary flex items-center text-base leading-[22px] cursor-pointer hover:text-text-primary dark:hover:text-text-primary text-text-secondary dark:text-text-secondary">
+          <span class="flex items-center focus:outline-none">
+           <button aria-expanded="false" aria-haspopup="menu" class="contents" data-headlessui-state="" id="headlessui-menu-button-:R3cp5p6:" type="button">
+            Interview
+            <!-- -->
+            <svg aria-hidden="true" class="ml-1 h-[14px] w-[14px]" fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+             <path clip-rule="evenodd" d="M4.929 7.913l7.078 7.057 7.064-7.057a1 1 0 111.414 1.414l-7.77 7.764a1 1 0 01-1.415 0L3.515 9.328a1 1 0 011.414-1.414z" fill-rule="evenodd">
+             </path>
+            </svg>
+           </button>
+          </span>
+         </div>
+        </li>
+        <li class="relative flex h-full items-center text-sm">
+         <div class="relative whitespace-nowrap hover:text-text-primary dark:hover:text-text-primary flex items-center text-base leading-[22px] cursor-pointer hover:text-text-primary dark:hover:text-text-primary text-text-secondary dark:text-text-secondary">
+          <span class="flex items-center focus:outline-none !text-brand-orange border-brand-orange">
+           <button aria-expanded="false" aria-haspopup="menu" class="contents" data-headlessui-state="" id="headlessui-menu-button-:R3kp5p6:" type="button">
+            Store
+            <!-- -->
+            <svg aria-hidden="true" class="ml-1 h-[14px] w-[14px]" fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+             <path clip-rule="evenodd" d="M4.929 7.913l7.078 7.057 7.064-7.057a1 1 0 111.414 1.414l-7.77 7.764a1 1 0 01-1.415 0L3.515 9.328a1 1 0 011.414-1.414z" fill-rule="evenodd">
+             </path>
+            </svg>
+           </button>
+          </span>
+         </div>
+        </li>
+       </ul>
+       <div class="relative flex h-full items-center">
+       </div>
+      </div>
+      <div class="md:display-none flex h-[50px] w-full items-center justify-between pl-3 pr-[5px]">
+       <a class="mb-0.5 flex items-center" href="/">
+        <span class="display-none h-[22px] dark:flex">
+         <svg class="h-full w-auto max-w-none" fill="none" height="111" viewbox="0 0 95 111" width="95" xmlns="http://www.w3.org/2000/svg">
+          <path d="M68.0063 83.0664C70.5 80.5764 74.5366 80.5829 77.0223 83.0809C79.508 85.579 79.5015 89.6226 77.0078 92.1127L65.9346 103.17C55.7187 113.371 39.06 113.519 28.6718 103.513C28.6117 103.456 23.9861 98.9201 8.72653 83.957C-1.42528 74.0029 -2.43665 58.0749 7.11648 47.8464L24.9282 28.7745C34.4095 18.6219 51.887 17.5122 62.7275 26.2789L78.9048 39.362C81.6444 41.5776 82.0723 45.5985 79.8606 48.3429C77.6488 51.0873 73.635 51.5159 70.8954 49.3003L54.7182 36.2173C49.0488 31.6325 39.1314 32.2622 34.2394 37.5006L16.4274 56.5727C11.7767 61.5522 12.2861 69.574 17.6456 74.8292C28.851 85.8169 37.4869 94.2846 37.4969 94.2942C42.8977 99.496 51.6304 99.4184 56.9331 94.1234L68.0063 83.0664Z" fill="#FFA116">
+          </path>
+          <path clip-rule="evenodd" d="M41.1067 72.0014C37.5858 72.0014 34.7314 69.1421 34.7314 65.615C34.7314 62.0879 37.5858 59.2286 41.1067 59.2286H88.1245C91.6454 59.2286 94.4997 62.0879 94.4997 65.615C94.4997 69.1421 91.6454 72.0014 88.1245 72.0014H41.1067Z" fill="#B3B3B3" fill-rule="evenodd">
+          </path>
+          <path clip-rule="evenodd" d="M49.9118 2.02335C52.3173 -0.55232 56.3517 -0.686894 58.9228 1.72277C61.494 4.13244 61.6284 8.17385 59.2229 10.7495L16.4276 56.5729C11.7768 61.552 12.2861 69.5738 17.6453 74.8292L37.4088 94.2091C39.9249 96.6764 39.968 100.72 37.505 103.24C35.042 105.761 31.0056 105.804 28.4895 103.337L8.72593 83.9567C-1.42529 74.0021 -2.43665 58.0741 7.1169 47.8463L49.9118 2.02335Z" fill="white" fill-rule="evenodd">
+          </path>
+         </svg>
+        </span>
+        <span class="dark:display-none flex h-[22px]">
+         <svg class="h-full w-auto max-w-none" fill="none" height="111" viewbox="0 0 95 111" width="95" xmlns="http://www.w3.org/2000/svg">
+          <path d="M68.0063 83.0664C70.5 80.5764 74.5366 80.5829 77.0223 83.0809C79.508 85.579 79.5015 89.6226 77.0078 92.1127L65.9346 103.17C55.7187 113.371 39.06 113.519 28.6718 103.513C28.6117 103.456 23.9861 98.9201 8.72653 83.957C-1.42528 74.0029 -2.43665 58.0749 7.11648 47.8464L24.9282 28.7745C34.4095 18.6219 51.887 17.5122 62.7275 26.2789L78.9048 39.362C81.6444 41.5776 82.0723 45.5985 79.8606 48.3429C77.6488 51.0873 73.635 51.5159 70.8954 49.3003L54.7182 36.2173C49.0488 31.6325 39.1314 32.2622 34.2394 37.5006L16.4274 56.5727C11.7767 61.5522 12.2861 69.574 17.6456 74.8292C28.851 85.8169 37.4869 94.2846 37.4969 94.2942C42.8977 99.496 51.6304 99.4184 56.9331 94.1234L68.0063 83.0664Z" fill="#FFA116">
+          </path>
+          <path clip-rule="evenodd" d="M41.1067 72.0014C37.5858 72.0014 34.7314 69.1421 34.7314 65.615C34.7314 62.0879 37.5858 59.2286 41.1067 59.2286H88.1245C91.6454 59.2286 94.4997 62.0879 94.4997 65.615C94.4997 69.1421 91.6454 72.0014 88.1245 72.0014H41.1067Z" fill="#B3B3B3" fill-rule="evenodd">
+          </path>
+          <path clip-rule="evenodd" d="M49.9118 2.02335C52.3173 -0.55232 56.3517 -0.686894 58.9228 1.72277C61.494 4.13244 61.6284 8.17385 59.2229 10.7495L16.4276 56.5729C11.7768 61.552 12.2861 69.5738 17.6453 74.8292L37.4088 94.2091C39.9249 96.6764 39.968 100.72 37.505 103.24C35.042 105.761 31.0056 105.804 28.4895 103.337L8.72593 83.9567C-1.42529 74.0021 -2.43665 58.0741 7.1169 47.8463L49.9118 2.02335Z" fill="black" fill-rule="evenodd">
+          </path>
+         </svg>
+        </span>
+       </a>
+       <div class="z-overlay-1 flex h-full items-center">
+        <button class="group relative">
+         <div class="relative flex h-[40px] w-[40px] transform items-center justify-center overflow-hidden rounded-full ring-0 ring-opacity-30 transition-all duration-200">
+          <div class="flex h-[20px] w-[20px] origin-center transform flex-col justify-between overflow-hidden py-[2px] transition-all duration-300">
+           <div class="h-[2px] w-7 origin-left scale-y-75 transform rounded-[1px] transition-all duration-300 bg-gray-60 dark:bg-gray-60">
+           </div>
+           <div class="h-[2px] w-7 scale-y-75 transform rounded-[1px] transition-all delay-75 duration-300 bg-gray-60 dark:bg-gray-60">
+           </div>
+           <div class="h-[2px] w-7 origin-left scale-y-75 transform rounded-[1px] transition-all delay-150 duration-300 bg-gray-60 dark:bg-gray-60">
+           </div>
+           <div class="absolute top-2.5 flex transform items-center justify-between transition-all duration-300 w-0 -translate-x-10">
+            <div class="absolute h-[2px] w-5 rotate-0 transform rounded-[1px] transition-all delay-100 duration-300 bg-gray-60 dark:bg-gray-60">
+            </div>
+            <div class="absolute h-[2px] w-5 -rotate-0 transform rounded-[1px] transition-all delay-100 duration-300 bg-gray-60 dark:bg-gray-60">
+            </div>
+           </div>
+          </div>
+         </div>
+        </button>
+       </div>
+      </div>
+     </nav>
+    </div>
+    <div class="md:!h-0" style="height: 50px;">
+    </div>
+    <div class="z-nav flex w-full flex-col">
+    </div>
+    <div class="mx-auto w-full grow p-4 md:p-6 lg:max-w-screen-xl flex pb-0 md:max-w-[1020px] md:pb-0">
+     <div class="flex w-full justify-center">
+      <div class="bg-layer-1 dark:bg-dark-layer-1 shadow-down-01 dark:shadow-dark-down-01 rounded-lg lc-md:max-h-[741px] lc-md:max-w-[972px] flex w-full flex-col">
+       <div class="ml-5 mt-5 flex h-[28px] flex-row items-center">
+        <svg class="inline h-5 w-5 text-blue-s dark:text-dark-blue-s" fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+         <path clip-rule="evenodd" d="M20.995 4.824A3 3 0 0018 2H6l-.176.005A3 3 0 003 5v14l.005.176A3 3 0 006 22h12l.176-.005A3 3 0 0021 19V5l-.005-.176zM6 4h12l.117.007A1 1 0 0119 5v14l-.007.117A1 1 0 0118 20H6l-.117-.007A1 1 0 015 19V5l.007-.117A1 1 0 016 4zm5.718 9.304a1 1 0 01.063 1.321l-.085.093-2.062 2a1 1 0 01-1.3.08l-.093-.08-.937-.91A1 1 0 018.6 14.292l.095.082.241.234 1.367-1.325a1 1 0 011.414.022zM17 15a1 1 0 00-1-1h-2l-.117.007A1 1 0 0014 16h2l.117-.007A1 1 0 0017 15zm-5.282-7.696a1 1 0 01.063 1.321l-.085.093-2.062 2a1 1 0 01-1.3.08l-.093-.08-.937-.91A1 1 0 018.6 8.292l.095.082.241.234 1.367-1.325a1 1 0 011.414.022zM17 9a1 1 0 00-1-1h-2l-.117.007A1 1 0 0014 10h2l.117-.007A1 1 0 0017 9z" fill-rule="evenodd">
+         </path>
+        </svg>
+        <span class="ml-3 text-lg font-[18px]">
+         Progress
+        </span>
+       </div>
+       <div class="min-h-8 mx-5 my-4">
+        <div>
+         <div class="flex flex-wrap gap-2">
+          <div class="lc-md:flex-none flex-1">
+           <div class="relative lc-md:w-auto w-full justify-between" data-headlessui-state="">
+            <div class="w-full">
+             <button aria-haspopup="true" class="items-center rounded px-3 py-1.5 text-left cursor-pointer focus:outline-none whitespace-nowrap leading-5 bg-fill-3 dark:bg-dark-fill-3 text-label-4 dark:text-dark-label-4 !cursor-default flex w-full justify-between" data-headlessui-state="" disabled="" id="headlessui-menu-button-:Rajep6:" type="button">
+              Difficulty
+              <svg aria-hidden="true" class="w-4.5 h-4.5 ml-3 pointer-events-none transition duration-300 text-label-4 dark:text-dark-label-4" fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path clip-rule="evenodd" d="M4.929 7.913l7.078 7.057 7.064-7.057a1 1 0 111.414 1.414l-7.77 7.764a1 1 0 01-1.415 0L3.515 9.328a1 1 0 011.414-1.414z" fill-rule="evenodd">
+               </path>
+              </svg>
+             </button>
+            </div>
+           </div>
+          </div>
+          <div class="lc-md:flex-none flex-1">
+           <div class="relative flex-1" data-headlessui-state="">
+            <button class="flex items-center rounded px-3 py-1.5 text-left cursor-pointer focus:outline-none whitespace-nowrap leading-5 bg-fill-3 dark:bg-dark-fill-3 text-label-4 dark:text-dark-label-4 !cursor-default flex w-full justify-between lc-md:w-auto w-full justify-between" data-headlessui-state="" disabled="" id="headlessui-popover-button-:Rcjep6:" type="button">
+             <div>
+              <span>
+               Topics
+              </span>
+             </div>
+             <svg aria-hidden="true" class="w-4.5 h-4.5 ml-3 pointer-events-none transition duration-300 text-label-3 dark:text-dark-label-3 text-label-4 dark:text-dark-label-4" fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+              <path clip-rule="evenodd" d="M4.929 7.913l7.078 7.057 7.064-7.057a1 1 0 111.414 1.414l-7.77 7.764a1 1 0 01-1.415 0L3.515 9.328a1 1 0 011.414-1.414z" fill-rule="evenodd">
+              </path>
+             </svg>
+            </button>
+           </div>
+          </div>
+          <div class="lc-md:w-auto lc-xl:min-w-[226px] w-full min-w-[165px]">
+           <div class="relative rounded-md input_input-container__SZzNg">
+            <div class="absolute inset-y-0 flex items-center pl-3 text-gray-6 dark:text-dark-gray-6 pointer-events-none left-0">
+             <span>
+              <svg class="w-4 h-4" fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path clip-rule="evenodd" d="M5.527 5.527a7.5 7.5 0 0111.268 9.852l3.581 3.583a1 1 0 01-1.414 1.415l-3.582-3.583A7.501 7.501 0 015.527 5.527zm1.414 1.414a5.5 5.5 0 107.779 7.779A5.5 5.5 0 006.94 6.94z" fill-rule="evenodd">
+               </path>
+              </svg>
+             </span>
+            </div>
+            <input autocomplete="off" class="block w-full rounded-md leading-5 outline-none placeholder:text-label-4 dark:placeholder:text-dark-label-4 border-none py-1.5 text-label-2 dark:text-dark-label-2 bg-fill-3 dark:bg-dark-fill-3 focus:bg-fill-2 dark:focus:bg-dark-fill-2 pl-9 pr-3 sentry-unmask" disabled="" placeholder="Search questions" type="text" value=""/>
+           </div>
+          </div>
+         </div>
+         <div>
+         </div>
+        </div>
+       </div>
+       <div class="relative min-h-[46px] border-spacing-0 overflow-auto" role="table" style="min-width:0px">
+        <div class="inline-block min-w-full">
+         <div class="border-b border-divider-border-2 dark:border-dark-divider-border-2">
+          <div role="row" style="display:flex;flex:1 0 auto;min-width:0px">
+           <div class="group ml-4 py-[11px] font-normal text-label-3 dark:text-dark-label-3 ml-6" colspan="1" role="columnheader" style="box-sizing:border-box;flex:144 0 auto;min-width:0px;width:144px;cursor:pointer">
+            <div class="flex items-center justify-start gap-[11px]">
+             <div class="select-none overflow-hidden text-ellipsis font-normal">
+              Last Solved
+             </div>
+             <span class="h-3.5 w-3.5 text-gray-5 dark:text-dark-gray-5 text-gray-4 dark:text-dark-gray-4 group-hover:text-gray-4 dark:text-dark-gray-4">
+              <svg fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path d="M18.695 9.378L12.83 3.769a1.137 1.137 0 00-.06-.054c-.489-.404-1.249-.377-1.7.06L5.303 9.381a.51.51 0 00-.16.366c0 .297.27.539.602.539h12.512a.64.64 0 00.411-.146.501.501 0 00.028-.762zM12.77 20.285c.021-.017.042-.035.062-.054l5.863-5.609a.5.5 0 00-.028-.762.64.64 0 00-.41-.146H5.743c-.332 0-.601.242-.601.54a.51.51 0 00.16.365l5.769 5.606c.45.437 1.21.464 1.698.06z">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="group ml-4 py-[11px] font-normal text-label-3 dark:text-dark-label-3" colspan="1" role="columnheader" style="box-sizing:border-box;flex:224 0 auto;min-width:0px;width:224px;cursor:pointer">
+            <div class="flex items-center justify-start gap-[11px]">
+             <div class="select-none overflow-hidden text-ellipsis font-normal">
+              Question
+             </div>
+             <span class="h-3.5 w-3.5 text-gray-5 dark:text-dark-gray-5 text-gray-4 dark:text-dark-gray-4 group-hover:text-gray-4 dark:text-dark-gray-4">
+              <svg fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path d="M18.695 9.378L12.83 3.769a1.137 1.137 0 00-.06-.054c-.489-.404-1.249-.377-1.7.06L5.303 9.381a.51.51 0 00-.16.366c0 .297.27.539.602.539h12.512a.64.64 0 00.411-.146.501.501 0 00.028-.762zM12.77 20.285c.021-.017.042-.035.062-.054l5.863-5.609a.5.5 0 00-.028-.762.64.64 0 00-.41-.146H5.743c-.332 0-.601.242-.601.54a.51.51 0 00.16.365l5.769 5.606c.45.437 1.21.464 1.698.06z">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="group ml-4 py-[11px] font-normal text-label-3 dark:text-dark-label-3" colspan="1" role="columnheader" style="box-sizing:border-box;flex:178 0 auto;min-width:0px;width:178px">
+            <div class="flex items-center justify-start gap-[11px]">
+             <div class="select-none overflow-hidden text-ellipsis font-normal">
+              Topic
+             </div>
+            </div>
+           </div>
+           <div class="group ml-4 py-[11px] font-normal text-label-3 dark:text-dark-label-3" colspan="1" role="columnheader" style="box-sizing:border-box;flex:84 0 auto;min-width:0px;width:84px;cursor:pointer">
+            <div class="flex items-center justify-start gap-[11px]">
+             <div class="select-none overflow-hidden text-ellipsis font-normal">
+              Difficulty
+             </div>
+             <span class="h-3.5 w-3.5 text-gray-5 dark:text-dark-gray-5 text-gray-4 dark:text-dark-gray-4 group-hover:text-gray-4 dark:text-dark-gray-4">
+              <svg fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path d="M18.695 9.378L12.83 3.769a1.137 1.137 0 00-.06-.054c-.489-.404-1.249-.377-1.7.06L5.303 9.381a.51.51 0 00-.16.366c0 .297.27.539.602.539h12.512a.64.64 0 00.411-.146.501.501 0 00.028-.762zM12.77 20.285c.021-.017.042-.035.062-.054l5.863-5.609a.5.5 0 00-.028-.762.64.64 0 00-.41-.146H5.743c-.332 0-.601.242-.601.54a.51.51 0 00.16.365l5.769 5.606c.45.437 1.21.464 1.698.06z">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="group ml-4 py-[11px] font-normal text-label-3 dark:text-dark-label-3" colspan="1" role="columnheader" style="box-sizing:border-box;flex:134 0 auto;min-width:0px;width:134px;cursor:pointer">
+            <div class="flex items-center justify-start gap-[11px]">
+             <div class="select-none overflow-hidden text-ellipsis font-normal flex items-center" data-state="closed">
+              Rejected
+              <svg class="group-hover:text-gray-6 dark:group-hover:text-dark-gray-6 ml-1.5 text-gray-5 dark:text-dark-gray-5" fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path clip-rule="evenodd" d="M12 11a1 1 0 011 1v4a1 1 0 11-2 0v-4a1 1 0 011-1zm0-3a1 1 0 110 2 1 1 0 010-2zm0 14C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 100-16 8 8 0 000 16z" fill-rule="evenodd">
+               </path>
+              </svg>
+             </div>
+             <span class="h-3.5 w-3.5 text-gray-5 dark:text-dark-gray-5 text-gray-4 dark:text-dark-gray-4 group-hover:text-gray-4 dark:text-dark-gray-4">
+              <svg fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path d="M18.695 9.378L12.83 3.769a1.137 1.137 0 00-.06-.054c-.489-.404-1.249-.377-1.7.06L5.303 9.381a.51.51 0 00-.16.366c0 .297.27.539.602.539h12.512a.64.64 0 00.411-.146.501.501 0 00.028-.762zM12.77 20.285c.021-.017.042-.035.062-.054l5.863-5.609a.5.5 0 00-.028-.762.64.64 0 00-.41-.146H5.743c-.332 0-.601.242-.601.54a.51.51 0 00.16.365l5.769 5.606c.45.437 1.21.464 1.698.06z">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+           <div class="group ml-4 py-[11px] font-normal text-label-3 dark:text-dark-label-3" colspan="1" role="columnheader" style="box-sizing:border-box;flex:104 0 auto;min-width:0px;width:104px;cursor:pointer">
+            <div class="flex items-center justify-start gap-[11px]">
+             <div class="select-none overflow-hidden text-ellipsis font-normal flex items-center" data-state="closed">
+              AC
+              <svg class="group-hover:text-gray-6 dark:group-hover:text-dark-gray-6 ml-1.5 text-gray-5 dark:text-dark-gray-5" fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path clip-rule="evenodd" d="M12 11a1 1 0 011 1v4a1 1 0 11-2 0v-4a1 1 0 011-1zm0-3a1 1 0 110 2 1 1 0 010-2zm0 14C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 100-16 8 8 0 000 16z" fill-rule="evenodd">
+               </path>
+              </svg>
+             </div>
+             <span class="h-3.5 w-3.5 text-gray-5 dark:text-dark-gray-5 text-gray-4 dark:text-dark-gray-4 group-hover:text-gray-4 dark:text-dark-gray-4">
+              <svg fill="currentColor" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+               <path d="M18.695 9.378L12.83 3.769a1.137 1.137 0 00-.06-.054c-.489-.404-1.249-.377-1.7.06L5.303 9.381a.51.51 0 00-.16.366c0 .297.27.539.602.539h12.512a.64.64 0 00.411-.146.501.501 0 00.028-.762zM12.77 20.285c.021-.017.042-.035.062-.054l5.863-5.609a.5.5 0 00-.028-.762.64.64 0 00-.41-.146H5.743c-.332 0-.601.242-.601.54a.51.51 0 00.16.365l5.769 5.606c.45.437 1.21.464 1.698.06z">
+               </path>
+              </svg>
+             </span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="animate-pulse">
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+          <div class="odd:bg-layer-1 even:bg-overlay-1 dark:odd:bg-dark-layer-1 dark:even:bg-dark-fill-4 flex">
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4 ml-6" style="width:144px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:224px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:178px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:84px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:134px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+           <div class="ml-4 flex h-[46px] items-center py-[11px] pr-4" style="width:104px">
+            <div class="h-3 rounded-[5px] bg-fill-3 dark:bg-dark-fill-3 w-full">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <footer class="border-gray-4 bg-paper dark:bg-dark-layer-bg mx-4 mt-[50px] border-t p-5 dark:mx-0 dark:border-none md:mt-24 text-label-2 dark:text-dark-label-2">
+     <nav class="w-full" role="navigation">
+      <div class="m-auto max-w-6xl">
+       <div class="text-xs md:flex md:text-sm">
+        <div class="text-label-3 dark:text-dark-label-3 mb-2 mr-5 md:mb-0">
+         Copyright ©
+         <!-- -->
+         2024
+         <!-- -->
+         LeetCode
+        </div>
+        <div class="mb-2 flex flex-wrap items-center md:mb-0">
+         <a class="hover:text-label-1 dark:hover:text-dark-label-1 leading-none inline whitespace-nowrap my-2 md:my-0 border-r border-dark-label-3 last:border-none pr-3 mr-3" href="/support/">
+          Help Center
+         </a>
+         <a class="hover:text-label-1 dark:hover:text-dark-label-1 leading-none inline whitespace-nowrap my-2 md:my-0 border-r border-dark-label-3 last:border-none pr-3 mr-3" href="/jobs/">
+          Jobs
+         </a>
+         <a class="hover:text-label-1 dark:hover:text-dark-label-1 leading-none inline whitespace-nowrap my-2 md:my-0 border-r border-dark-label-3 last:border-none pr-3 mr-3" href="/bugbounty/">
+          Bug Bounty
+         </a>
+         <a class="hover:text-label-1 dark:hover:text-dark-label-1 leading-none inline whitespace-nowrap my-2 md:my-0 border-r border-dark-label-3 last:border-none pr-3 mr-3" href="/interview/">
+          Assessment
+         </a>
+         <a class="hover:text-label-1 dark:hover:text-dark-label-1 leading-none inline whitespace-nowrap my-2 md:my-0 border-r border-dark-label-3 last:border-none pr-3 mr-3" href="/student/">
+          Students
+         </a>
+         <a class="hover:text-label-1 dark:hover:text-dark-label-1 leading-none inline whitespace-nowrap my-2 md:my-0 border-r border-dark-label-3 last:border-none pr-3 mr-3" href="/terms/">
+          Terms
+         </a>
+         <a class="hover:text-label-1 dark:hover:text-dark-label-1 leading-none inline whitespace-nowrap my-2 md:my-0 border-r border-dark-label-3 last:border-none pr-3 mr-3" href="/privacy/">
+          Privacy Policy
+         </a>
+        </div>
+        <a class="hover:text-label-1 dark:hover:text-dark-label-1 flex grow items-center space-x-2 justify-self-end md:justify-end" href="/region/">
+         <img alt="United States" height="18" src="/_next/static/images/us-4787d154ddfcd171038dd5c1c98f7f07.svg" width="18"/>
+         <span>
+          United States
+         </span>
+        </a>
+       </div>
+      </div>
+     </nav>
+    </footer>
+   </div>
+   <div aria-label="Notifications (F8)" role="region" style="pointer-events:none" tabindex="-1">
+    <ol class="z-message pointer-events-none fixed left-0 top-0 flex max-h-screen w-full flex-col-reverse items-center gap-4 p-4" tabindex="-1">
+    </ol>
+   </div>
+  </div>
+  <script id="__NEXT_DATA__" type="application/json">
+   {"props":{"pageProps":{"_nextI18Next":{"initialI18nStore":{"en":{"common":{"404":{"title":"Page Not Found - LeetCode","pageNotFound":"Page Not Found","message":"Sorry, but we can't find the page you are looking for..."},"meta":{"title":"","description":"","keywords":""},"ok":"OK","cancel":"Cancel","confirm":"Confirm","update":"Update","submit":"Submit","save":"Save","netFailed":"Debugger failed to connect","header":{"logo":{"url":"","description":""},"title":{"problemset-all":""},"action":{"login":{"text":"","url":""}}},"conjunctions":{"and":"and","or":"or"},"pages":{"leetcode":"LeetCode","explore":"Explore","problems":"Problems","interview":{"interview":"Interview","onlineInterview":"Online Interview","assessment":"Assessment"},"contest":"Contest","discuss":"Discuss","store":{"store":"Store","redeem":"Redeem","premium":"Premium","shop":"Micro-shop"},"admin":{"admin":"Admin","library":"Library","review":"Review","operations":"User Management","scores":"Points","contribute":"Contribution","backend":"Administration","internalContest":"Internal Contest Dashboard","contestDashboard":"Contest Dashboard","contestAdmin":"Contest Cheating Dashboard","emailBatch":"Email Batch","dangerZone":"Danger Zone","dbTestcase":"DB Testcase Converter","tagManagement":"Tag Management","questionFeedback":"Question Feedback"},"mobileApp":"Mobile App","playground":"Playground","signIn":"Sign in","register":"Register","signOut":"Sign Out"},"userMenu":{"renew":"Renew","getPremium":"Access all features with our Premium subscription!","orders":"Orders","tryNewFeatures":"Try New Features","translateQuestions":"Display problems in Chinese","unmockUser":"Unmock User","revertToOldVersion":"Revert to old version","categories":{"myList":"My Lists","notebook":"Notebook","submissions":"Submissions","session":"Session","points":"Points","progress":"Progress"},"appearance":"Appearance","appearanceContent":{"auto":"System Default","light":"Light","dark":"Dark"}},"streakCounter":{"finished":"Well done! Come back for tomorrow's challenge!","unfinished":"Solve today's Daily Challenge to refresh your streak!","buyTimeTravelTicket":"Buy Time Travel Ticket","missedOneDayThisMonth":"You missed 1 day this month. ","missedDaysThisMonth":"You missed {{count}} days this month. "},"playground":{"playground":"Playground","myPlaygrounds":"My Playgrounds","remainingPlaygrounds":"Remaining","renew":"Renew","templates":{"consoleApplication":"Console Application","empty":"New Playground","frontend":"Frontend","machineLearning":"Machine Learning"}},"links":{"premium":"/subscribe/","discuss":"/discuss/","assessment":"/assessment/","shop":"https://detail.youzan.com/show/goods/newest?alias=271n43vr9hen7","onlineInterview":"https://interview.leetcode.com/interview/","profileArticles":"/submissions/","orders":"/store/orders/","tryNewFeatures":"/new/","explore":"/explore/","admin":{"scores":"/points/admin","operations":"/user_management"},"playground":"/playground"},"pagination":{"perpage":"/ page"},"expand":"Expand","collapse":"Collapse","difficulty":{"easy":"Easy","medium":"Medium","hard":"Hard"},"easterEgg":{"rewardMessage":"Congratulations! You just found 10 LeetCoins. Happy LeetCoding!"},"markdown":{"heading":"heading","quote":"Quote"},"mentions":{"users":"Users","problems":"Problems"},"confirmModal":{"title":"Are you sure?","confirmBtn":"Confirm","cancelBtn":"Cancel"},"saving":"Saving...","saved":"Saved","autoSaved":"Save automatically","loginRequired":"Sign in required","verifiedRequired":"You need to verify your email","phoneVerifiedRequired":"Your need to verify your phone","maybeVerifiedRequired":"You need to verify your email","dailyCheckIn":"+1 Daily Check-in","copy":"Copy","copyToEditor":"Copy To Editor","copied":"Copied!","copyLink":"Copy Link","viewMore":"View more","viewLess":"View less","code":"Code","survey":{"veryDissatisfied":"Very Dissatisfied","verySatisfied":"Very Satisfied","next":"Next","continue":"Continue","submit":"Submit","questionNo":"Question {{current}} of {{total}}","thanksMsg":"🎉 Thanks for your feedback!"},"qdNav":{"backTitle":"Problem List","expandPanel":"Expand Panel","preQuestion":"Prev Question","nextQuestion":"Next Question","pickOne":"Pick one","openInNewTab":"Open in New Tab"},"premiumModal":{"learnMore":"Learn more","subscribe":"Subscribe"},"truncatedContent":{"viewAll":"View all","viewLess":"View less","openRaw":"Open Raw","showMore":"Show more","showLess":"Show less"},"safariNotUse":"The current version of Safari is too low. For better experience, upgrade to the latest version","account":{"emailVerifyModal":{"title":"Verify your account","description":"Please verify your email address in order to use your account.","verify":"Verify","cancel":"Cancel"}},"medal":{"metadataTitle":"Badge - LeetCode","congratulation":"Congratulations","genPoster":"Generate Image","genPostering":"Generating","saveImgMobile":"Long press to save the image","saveImgPc":"Right-click to save the image","medalEmpty":"Sorry, there are no medals to grab right now."}},"progress":{"meta":{"title":"Progress - LeetCode"},"heading":"Progress","table":{"header":{"lastSolved":"Last Solved","questionTitle":"Question","topics":"Topic","difficulty":"Difficulty","rejectedTimes":"Rejected","acceptedTimes":"AC"},"tooltips":{"acceptedTimes":"Number of accepted \"active coding sessions\". \"Active coding session\" expires after 48 hours from the last submission.","rejectedTimes":"Number of submitted attempts before the first successful submission within a single \"active coding session\". \"Active coding session\" expires after 48 hours from the last submission."},"noRecords":"No matching records found"},"filter":{"difficulty":"Difficulty","tag":"Topics","tagSearch":"Filter topics","expand":"Expand","collapse":"Collapse","searchPlaceholder":"Search questions","noResult":"No result","reset":"Reset"},"noProgress":"You have no progress so far","progressNotReady":"We are calculating your progress.\nPlease check it after a while.","startSolving":"Start solving problems"}},"zh":{"common":{"404":{"title":"力扣","pageNotFound":"页面不存在","message":"抱歉！我们找不到您想访问的页面..."},"meta":{"title":"","description":"","keywords":""},"ok":"好","cancel":"取消","confirm":"确认","update":"更新","submit":"提交","save":"保存","netFailed":"网络错误","header":{"logo":{"url":"","description":""},"title":{"problemset-all":""},"action":{"login":{"text":"","url":""}}},"conjunctions":{"and":"and","or":"或"},"pages":{"leetcode":"LeetCode","explore":"学习","problems":"题库","interview":{"interview":"求职","onlineInterview":"在线面试","assessment":"Assessment"},"contest":"竞赛","discuss":"讨论","store":{"store":"商店","redeem":"力扣周边","premium":"Plus 会员","shop":"精品商城"},"admin":{"admin":"管理员","library":"题库","translation":"翻译","operations":"运营管理","scores":"点数","contribute":"贡献","backend":"后台管理","twoStepVerification":"二步验证","internalContest":"Internal Contest Dashboard","contestAdmin":"Contest Cheating Dashboard","dangerZone":"Danger Zone","review":"Review","contestDashboard":"Contest Dashboard"},"mobileApp":"下载 App","playground":"Playground","myPlayground":"我的 Playground","signIn":"登录","register":"注册","signOut":"退出"},"userMenu":{"renew":"续订","getPremium":"升级 Plus 会员享专属特权","tryNewFeatures":"体验新功能","orders":"订单","resume":"个人资料","translateQuestions":"题目以中文展示","translateQuestionsEn":"题目以英文显示","enterprise":"企业招聘","revertToOldVersion":"经典模式","categories":{"myList":"收藏夹","notebook":"笔记本","submissions":"我的题解","session":"进度管理","points":"积分","progress":"做题分析"},"unmockUser":"Unmock User","account":"账号设置","appearance":"外观","appearanceContent":{"auto":"跟随系统","light":"浅色","dark":"深色"}},"streakCounter":{"finished":"干的好！明天再来挑战！","unfinished":"解决今天的「每日 1 题」，刷新你的连胜记录！","buyTimeTravelTicket":"购买补签卡","missedOneDayThisMonth":"这个月你错过了 1 天.","missedDaysThisMonth":"这个月你错过了 {{count}} 天."},"playground":{"playground":"Playground","remainingPlaygrounds":"数量","renew":"升级","myPlaygrounds":"我的 Playgrounds","templates":{"consoleApplication":"控制台程序","empty":"空白 Playground","frontend":"前端程序","machineLearning":"机器学习"}},"links":{"admin":{"scores":"/library/scores","translation":"/contribution/translation/question/admin/","operations":"/management"},"premium":"/premium","discuss":"/circle","interview":"/company","shop":"https://detail.youzan.com/show/goods/newest?alias=271n43vr9hen7","onlineInterview":"https://leetcode.cn/interview","profileArticles":"/profile/articles","tryNewFeatures":"/new/","orders":"/order","explore":"/leetbook","resume":"/profile/info/","playground":"/playground","assessment":"/assessment/","account":"/profile/info"},"pagination":{"perpage":" 条/页"},"expand":"展开","collapse":"收起","difficulty":{"easy":"简单","medium":"中等","hard":"困难"},"data":{"question":{"difficulty":{"easy":"简单","medium":"中等","hard":"困难"}}},"markdown":{"heading":"heading","quote":"Quote"},"mentions":{"users":"用户","problems":"题目"},"confirmModal":{"title":"确定执行此操作?","confirmBtn":"确定","cancelBtn":"取消"},"saving":"保存中...","saved":"保存成功","autoSaved":"已自动保存","loginRequired":"您尚未登录","verifiedRequired":"请绑定手机号或者邮箱后继续操作","phoneVerifiedRequired":"请绑定手机号后继续操作","maybeVerifiedRequired":"请绑定手机号后继续操作","copy":"复制","copyToEditor":"复制到编辑器","copied":"已复制","copyLink":"复制链接","viewMore":"查看更多","viewLess":"收起","code":"代码","dailyCheckIn":"+1 每日登录","//maybeVerifiedRequired":"maybeVerifiedRequired means email in LCUS and phone in LCCN","easterEgg":{"rewardMessage":"恭喜您获得了 10 积分，Happy LeetCoding!"},"survey":{"veryDissatisfied":"非常不满意","verySatisfied":"非常满意","next":"下一题","continue":"继续","submit":"提交","questionNo":"问卷题目 {{current}}/{{total}}","thanksMsg":"🎉 感谢您的反馈!"},"qdNav":{"backTitle":"题库","expandPanel":"展开面板","preQuestion":"上一题","nextQuestion":"下一题","pickOne":"随机一题","openInNewTab":"在新的标签页打开"},"premiumModal":{"learnMore":"了解更多权益","subscribe":"升级 Plus 会员"},"truncatedContent":{"viewAll":"查看全部","viewLess":"收起","openRaw":"打开源码","showMore":"显示更多","showLess":"显示更少"},"safariNotUse":"当前 Safari 版本过低，为了更好的使用体验，请升级到最新版本","medal":{"metadataTitle":"勋章 - 力扣（LeetCode）","congratulation":"恭喜获得","genPoster":"生成海报","genPostering":"生成中...","saveImgMobile":"长按图片保存","saveImgPc":"右键保存图片","medalEmpty":"暂无可领取的勋章"}},"progress":{}}},"initialLocale":"en","ns":["common","progress"],"userConfig":{"i18n":{"defaultLocale":"zh","locales":["en","zh"]},"react":{"useSuspense":false},"reloadOnPrerender":false,"default":{"i18n":{"defaultLocale":"zh","locales":["en","zh"]},"react":{"useSuspense":false},"reloadOnPrerender":false}}},"topicTags":[{"id":"VG9waWNUYWdOb2RlOjU=","name":"Array","slug":"array","translatedName":null,"questionCount":1722},{"id":"VG9waWNUYWdOb2RlOjEw","name":"String","slug":"string","translatedName":null,"questionCount":717},{"id":"VG9waWNUYWdOb2RlOjY=","name":"Hash Table","slug":"hash-table","translatedName":null,"questionCount":621},{"id":"VG9waWNUYWdOb2RlOjEz","name":"Dynamic Programming","slug":"dynamic-programming","translatedName":null,"questionCount":525},{"id":"VG9waWNUYWdOb2RlOjg=","name":"Math","slug":"math","translatedName":null,"questionCount":513},{"id":"VG9waWNUYWdOb2RlOjYxMDQ5","name":"Sorting","slug":"sorting","translatedName":null,"questionCount":410},{"id":"VG9waWNUYWdOb2RlOjE3","name":"Greedy","slug":"greedy","translatedName":null,"questionCount":375},{"id":"VG9waWNUYWdOb2RlOjIx","name":"Depth-First Search","slug":"depth-first-search","translatedName":null,"questionCount":295},{"id":"VG9waWNUYWdOb2RlOjYxMDQz","name":"Database","slug":"database","translatedName":null,"questionCount":280},{"id":"VG9waWNUYWdOb2RlOjEx","name":"Binary Search","slug":"binary-search","translatedName":null,"questionCount":272},{"id":"VG9waWNUYWdOb2RlOjYxMDUz","name":"Matrix","slug":"matrix","translatedName":null,"questionCount":233},{"id":"VG9waWNUYWdOb2RlOjIw","name":"Tree","slug":"tree","translatedName":null,"questionCount":232},{"id":"VG9waWNUYWdOb2RlOjIy","name":"Breadth-First Search","slug":"breadth-first-search","translatedName":null,"questionCount":231},{"id":"VG9waWNUYWdOb2RlOjE5","name":"Bit Manipulation","slug":"bit-manipulation","translatedName":null,"questionCount":219},{"id":"VG9waWNUYWdOb2RlOjk=","name":"Two Pointers","slug":"two-pointers","translatedName":null,"questionCount":206},{"id":"VG9waWNUYWdOb2RlOjYxMDU3","name":"Binary Tree","slug":"binary-tree","translatedName":null,"questionCount":175},{"id":"VG9waWNUYWdOb2RlOjYxMDUw","name":"Heap (Priority Queue)","slug":"heap-priority-queue","translatedName":null,"questionCount":170},{"id":"VG9waWNUYWdOb2RlOjYxMDY4","name":"Prefix Sum","slug":"prefix-sum","translatedName":null,"questionCount":169},{"id":"VG9waWNUYWdOb2RlOjE1","name":"Stack","slug":"stack","translatedName":null,"questionCount":160},{"id":"VG9waWNUYWdOb2RlOjYxMDU1","name":"Simulation","slug":"simulation","translatedName":null,"questionCount":157},{"id":"VG9waWNUYWdOb2RlOjI0","name":"Graph","slug":"graph","translatedName":null,"questionCount":147},{"id":"VG9waWNUYWdOb2RlOjYxMDYy","name":"Counting","slug":"counting","translatedName":null,"questionCount":137},{"id":"VG9waWNUYWdOb2RlOjU1ODIx","name":"Sliding Window","slug":"sliding-window","translatedName":null,"questionCount":126},{"id":"VG9waWNUYWdOb2RlOjI1","name":"Design","slug":"design","translatedName":null,"questionCount":124},{"id":"VG9waWNUYWdOb2RlOjE0","name":"Backtracking","slug":"backtracking","translatedName":null,"questionCount":102},{"id":"VG9waWNUYWdOb2RlOjYxMDY2","name":"Enumeration","slug":"enumeration","translatedName":null,"questionCount":90},{"id":"VG9waWNUYWdOb2RlOjIz","name":"Union Find","slug":"union-find","translatedName":null,"questionCount":83},{"id":"VG9waWNUYWdOb2RlOjc=","name":"Linked List","slug":"linked-list","translatedName":null,"questionCount":77},{"id":"VG9waWNUYWdOb2RlOjYxMDcw","name":"Ordered Set","slug":"ordered-set","translatedName":null,"questionCount":62},{"id":"VG9waWNUYWdOb2RlOjYxMDU0","name":"Monotonic Stack","slug":"monotonic-stack","translatedName":null,"questionCount":62},{"id":"VG9waWNUYWdOb2RlOjYxMDY3","name":"Number Theory","slug":"number-theory","translatedName":null,"questionCount":57},{"id":"VG9waWNUYWdOb2RlOjI3","name":"Trie","slug":"trie","translatedName":null,"questionCount":53},{"id":"VG9waWNUYWdOb2RlOjI5","name":"Segment Tree","slug":"segment-tree","translatedName":null,"questionCount":49},{"id":"VG9waWNUYWdOb2RlOjEy","name":"Divide and Conquer","slug":"divide-and-conquer","translatedName":null,"questionCount":47},{"id":"VG9waWNUYWdOb2RlOjM0","name":"Queue","slug":"queue","translatedName":null,"questionCount":46},{"id":"VG9waWNUYWdOb2RlOjYxMDc4","name":"Bitmask","slug":"bitmask","translatedName":null,"questionCount":45},{"id":"VG9waWNUYWdOb2RlOjMx","name":"Recursion","slug":"recursion","translatedName":null,"questionCount":45},{"id":"VG9waWNUYWdOb2RlOjMw","name":"Binary Search Tree","slug":"binary-search-tree","translatedName":null,"questionCount":40},{"id":"VG9waWNUYWdOb2RlOjI4","name":"Binary Indexed Tree","slug":"binary-indexed-tree","translatedName":null,"questionCount":39},{"id":"VG9waWNUYWdOb2RlOjYxMDU2","name":"Combinatorics","slug":"combinatorics","translatedName":null,"questionCount":38},{"id":"VG9waWNUYWdOb2RlOjM4","name":"Geometry","slug":"geometry","translatedName":null,"questionCount":38},{"id":"VG9waWNUYWdOb2RlOjMz","name":"Memoization","slug":"memoization","translatedName":null,"questionCount":38},{"id":"VG9waWNUYWdOb2RlOjYxMDY1","name":"Hash Function","slug":"hash-function","translatedName":null,"questionCount":36},{"id":"VG9waWNUYWdOb2RlOjI2","name":"Topological Sort","slug":"topological-sort","translatedName":null,"questionCount":32},{"id":"VG9waWNUYWdOb2RlOjYxMDUy","name":"String Matching","slug":"string-matching","translatedName":null,"questionCount":30},{"id":"VG9waWNUYWdOb2RlOjYxMDc2","name":"Shortest Path","slug":"shortest-path","translatedName":null,"questionCount":28},{"id":"VG9waWNUYWdOb2RlOjU2NTk4","name":"Rolling Hash","slug":"rolling-hash","translatedName":null,"questionCount":28},{"id":"VG9waWNUYWdOb2RlOjYxMDcz","name":"Game Theory","slug":"game-theory","translatedName":null,"questionCount":27},{"id":"VG9waWNUYWdOb2RlOjYxMDU5","name":"Interactive","slug":"interactive","translatedName":null,"questionCount":23},{"id":"VG9waWNUYWdOb2RlOjYxMDYz","name":"Data Stream","slug":"data-stream","translatedName":null,"questionCount":20},{"id":"VG9waWNUYWdOb2RlOjMy","name":"Brainteaser","slug":"brainteaser","translatedName":null,"questionCount":17},{"id":"VG9waWNUYWdOb2RlOjYxMDcx","name":"Monotonic Queue","slug":"monotonic-queue","translatedName":null,"questionCount":16},{"id":"VG9waWNUYWdOb2RlOjYxMDc1","name":"Randomized","slug":"randomized","translatedName":null,"questionCount":12},{"id":"VG9waWNUYWdOb2RlOjYxMDUx","name":"Merge Sort","slug":"merge-sort","translatedName":null,"questionCount":12},{"id":"VG9waWNUYWdOb2RlOjYxMDY0","name":"Iterator","slug":"iterator","translatedName":null,"questionCount":9},{"id":"VG9waWNUYWdOb2RlOjYxMDU4","name":"Doubly-Linked List","slug":"doubly-linked-list","translatedName":null,"questionCount":9},{"id":"VG9waWNUYWdOb2RlOjYxMDQ1","name":"Concurrency","slug":"concurrency","translatedName":null,"questionCount":9},{"id":"VG9waWNUYWdOb2RlOjYxMDc5","name":"Probability and Statistics","slug":"probability-and-statistics","translatedName":null,"questionCount":7},{"id":"VG9waWNUYWdOb2RlOjYxMDY5","name":"Quickselect","slug":"quickselect","translatedName":null,"questionCount":7},{"id":"VG9waWNUYWdOb2RlOjU2Njk4","name":"Suffix Array","slug":"suffix-array","translatedName":null,"questionCount":7},{"id":"VG9waWNUYWdOb2RlOjYxMDcy","name":"Counting Sort","slug":"counting-sort","translatedName":null,"questionCount":6},{"id":"VG9waWNUYWdOb2RlOjYxMDYw","name":"Bucket Sort","slug":"bucket-sort","translatedName":null,"questionCount":6},{"id":"VG9waWNUYWdOb2RlOjYxMDgz","name":"Minimum Spanning Tree","slug":"minimum-spanning-tree","translatedName":null,"questionCount":5},{"id":"VG9waWNUYWdOb2RlOjYxMDQ0","name":"Shell","slug":"shell","translatedName":null,"questionCount":4},{"id":"VG9waWNUYWdOb2RlOjU2MTE5","name":"Line Sweep","slug":"line-sweep","translatedName":null,"questionCount":4},{"id":"VG9waWNUYWdOb2RlOjM2","name":"Reservoir Sampling","slug":"reservoir-sampling","translatedName":null,"questionCount":4},{"id":"VG9waWNUYWdOb2RlOjYxMDg1","name":"Strongly Connected Component","slug":"strongly-connected-component","translatedName":null,"questionCount":3},{"id":"VG9waWNUYWdOb2RlOjYxMDc0","name":"Eulerian Circuit","slug":"eulerian-circuit","translatedName":null,"questionCount":3},{"id":"VG9waWNUYWdOb2RlOjYxMDYx","name":"Radix Sort","slug":"radix-sort","translatedName":null,"questionCount":3},{"id":"VG9waWNUYWdOb2RlOjU0NTY5","name":"Rejection Sampling","slug":"rejection-sampling","translatedName":null,"questionCount":2},{"id":"VG9waWNUYWdOb2RlOjYxMDg0","name":"Biconnected Component","slug":"biconnected-component","translatedName":null,"questionCount":1}]},"__N_SSG":true},"page":"/progress","query":{},"buildId":"_Mtuxlqxss5-tsl3-bf1i","isFallback":false,"gsp":true,"scriptLoader":[]}
+  </script>
+  <div id="modal-root">
+  </div>
+  <div id="headlessui-portal-root">
+   <div data-headlessui-portal="">
+   </div>
+  </div>
+  <next-route-announcer>
+   <p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap; overflow-wrap: normal;">
+   </p>
+  </next-route-announcer>
+ </body>
+</html>

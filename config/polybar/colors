@@ -1,0 +1,7 @@
+[color]
+background = #00000000
+foreground = #808080
+font = #a6bcaa
+black = #1a1b26
+red = ${xrdb:color7}
+altblack = #808080

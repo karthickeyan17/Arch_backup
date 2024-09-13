@@ -1,0 +1,32 @@
+{
+   "author": "merhmerh",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6zXQv9g8W7pH1Tn4If/9WNLhwNxYPegtCPMkO8P+q7KzAdA0O7LNMgxfhdACCfeg0W3yngndnpIuteYBIzyzZTg1EwkHv+pvCe4NQLtP4mCH5De3wUD+fCrlkAAa52rGzdlvDB0pxS41fpn3hA3PDpi0rAbqRsxBAeDfW/bL6GUCkMCz0a6vyylNzLLJITAh9bYHFgrjcsxwwOgNGgjAPl96HFS2acSNCJ7/mjpLjcr/TG3rKJ+x1ZygjnvyCNIXs1rww9Ljq3vaVpJjFqk+/ShD9ReYdEm7O0LpTSlpsBToasjYE6jAiO7ERQO4O7jEAPOSzZVs9htoEdr7e1K6ZwIDAQAB",
+   "manifest_version": 3,
+   "name": "gruvbox slate",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 168, 153, 132 ],
+         "frame": [ 29, 32, 33 ],
+         "frame_inactive": [ 29, 32, 33 ],
+         "frame_incognito": [ 251, 73, 52 ],
+         "frame_incognito_inactive": [ 212, 195, 163 ],
+         "ntp_text": [ 255, 0, 0 ],
+         "tab_background": [ 251, 73, 52 ],
+         "tab_background_text": [ 168, 153, 132 ],
+         "tab_text": [ 202, 161, 96 ],
+         "toolbar": [ 59, 56, 55 ]
+      },
+      "images": {
+         "theme_ntp_background": "images/tile_2.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "repeat"
+      },
+      "tints": {
+         "buttons": [ 0.102, 0.623, 0.594 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

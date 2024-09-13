@@ -1,0 +1,184 @@
+2024-09-03 02:19:07.387 [info] Extension host with pid 2787 started
+2024-09-03 02:19:07.387 [info] Skipping acquiring lock for /home/karthi/.config/Code - OSS/User/workspaceStorage/bc29c9764ae7f446cb3a55452bb393d4.
+2024-09-03 02:19:09.437 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-03 02:19:09.545 [info] ExtensionService#_doActivateExtension luma.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-09-03 02:19:10.965 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-09-03 02:19:11.994 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-09-03 02:19:12.061 [info] ExtensionService#_doActivateExtension virgilsisoe.python-auto-import, startup: false, activationEvent: 'onLanguage:python'
+2024-09-03 02:19:12.225 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-03 02:19:12.267 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-09-03 02:19:12.986 [error] Error: spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python-env-tools/bin/pet ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-09-03 02:19:18.850 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-09-03 02:19:19.113 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-03 02:19:19.527 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-03 02:19:31.238 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-03 02:19:31.915 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-03 02:19:32.915 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-09-03 02:19:33.553 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-09-03 02:19:33.745 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-03 02:19:33.802 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-03 02:19:33.971 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-03 02:19:34.144 [error] Activating extension ms-python.python failed due to an error:
+2024-09-03 02:19:34.144 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33147)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6409)
+    at m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6372)
+    at m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5829)
+2024-09-03 02:19:34.329 [info] Eager extensions activated
+2024-09-03 02:19:36.352 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25438)
+    at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:845522)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2460
+    at Array.map (<anonymous>)
+    at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2450)
+2024-09-03 02:19:59.643 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-03 02:19:59.757 [info] Extension host with pid 2787 exiting with code 0
+2024-09-03 02:20:06.288 [info] Extension host with pid 3052 started
+2024-09-03 02:20:06.288 [info] Skipping acquiring lock for /home/karthi/.config/Code - OSS/User/workspaceStorage/720283b7d514eb57699de8b52fec173e.
+2024-09-03 02:20:07.329 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-03 02:20:07.362 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-09-03 02:20:08.075 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-03 02:20:08.312 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-03 02:20:08.774 [info] Eager extensions activated
+2024-09-03 02:20:09.141 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-03 02:20:09.150 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-03 02:20:09.175 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-09-03 02:20:09.391 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-09-03 02:20:09.489 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-03 02:20:09.532 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-03 02:20:09.952 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-03 02:20:10.219 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-03 02:20:11.301 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-09-03 02:20:40.935 [info] ExtensionService#_doActivateExtension luma.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-09-03 02:20:41.940 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-09-03 02:20:42.431 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-09-03 02:20:42.450 [info] ExtensionService#_doActivateExtension virgilsisoe.python-auto-import, startup: false, activationEvent: 'onLanguage:python'
+2024-09-03 02:20:45.639 [error] Error: spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python-env-tools/bin/pet ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-09-03 02:20:45.946 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-09-03 02:20:54.925 [error] Activating extension ms-python.python failed due to an error:
+2024-09-03 02:20:54.925 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33147)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6409)
+    at m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6372)
+    at m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5829)
+2024-09-03 02:20:55.226 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25438)
+    at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:845522)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2460
+    at Array.map (<anonymous>)
+    at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2450)
+2024-09-03 02:22:47.210 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-09-03 04:03:38.471 [error] [ms-python.python] provider FAILED
+2024-09-03 04:03:38.477 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1968174)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1966134)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1962428)
+    at processImmediate (node:internal/timers:478:21)
+2024-09-03 05:47:33.948 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-03 05:47:34.278 [error] Canceled: Canceled
+    at new C (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205942)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204704)
+    at d.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:206481)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205473)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23060)
+    at i.O [as value] (/usr/lib/code/extensions/git/dist/main.js:2:951642)
+    at n.B (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+    at n.C (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:807)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:1023)
+    at Object.p [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:972220)
+    at /usr/lib/code/extensions/git/dist/main.js:2:978342
+    at Array.forEach (<anonymous>)
+    at f.dispose (/usr/lib/code/extensions/git/dist/main.js:2:978328)
+    at a.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:152:4173)
+    at a.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:152:4270)
+    at a.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:953940)
+    at a.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:152:4270)
+    at $ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:13379
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+    at Object.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:11:11354)
+    at m.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:10056)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7927
+    at Array.map (<anonymous>)
+    at m.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7914)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8187)
+    at $.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-09-03 05:47:34.409 [error] Canceled: Canceled
+    at new C (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205942)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204704)
+    at d.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:206481)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205473)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23060)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/usr/lib/code/extensions/github/dist/extension.js:2:322969)
+    at /usr/lib/code/extensions/github/dist/extension.js:2:323928
+    at i.value (/usr/lib/code/extensions/git/dist/main.js:2:1060193)
+    at n.B (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+    at n.C (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:807)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:1023)
+    at Object.p [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:972220)
+    at /usr/lib/code/extensions/git/dist/main.js:2:978342
+    at Array.forEach (<anonymous>)
+    at f.dispose (/usr/lib/code/extensions/git/dist/main.js:2:978328)
+    at a.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:152:4173)
+    at a.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:152:4270)
+    at a.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:953940)
+    at a.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:152:4270)
+    at $ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:13379
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+    at Object.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:11:11354)
+    at m.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:10056)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7927
+    at Array.map (<anonymous>)
+    at m.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7914)
+    at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8187)
+    at $.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-09-03 05:47:34.412 [info] Extension host with pid 3052 exiting with code 0

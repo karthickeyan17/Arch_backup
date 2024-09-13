@@ -1,0 +1,33 @@
+.add-bg {
+    /* background-color: rgb(118, 255, 118) !important; */
+    /* background-color: rgb(44, 187, 93) !important; */
+    /* background-image: linear-gradient(to left, rgb(56, 151, 255), rgb(10, 132, 255)) !important; */
+    background-color: rgb(44, 187, 93) !important;
+    /* background-color: rgb(74 255 136) !important; */
+}
+
+.add-bg-old {
+    background-color: rgb(118, 255, 118) !important;
+}
+
+.add-bg-dark {
+    background-color: rgb(115, 115, 115) !important;
+}
+
+.hide_leetcode-enhancer {
+    display: none !important;
+}
+
+.visible_leetcode-enhancer {
+    display: block !important;
+}
+
+.color-alfa0 {
+    color: rgba(0, 0, 0, 0);
+}
+
+.blur {
+    border-color: gray !important;
+    color: gray !important;
+    background-color: white !important;
+}

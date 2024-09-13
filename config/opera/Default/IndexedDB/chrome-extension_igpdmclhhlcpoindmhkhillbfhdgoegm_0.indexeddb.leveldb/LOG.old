@@ -1,6 +1,0 @@
-2024/07/02-12:13:30.479 48b8 Creating DB /home/karthi/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb since it was missing.
-2024/07/02-12:13:32.688 48b8 Reusing MANIFEST /home/karthi/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/02-12:13:35.307 48bc Level-0 table #5: started
-2024/07/02-12:13:35.375 48bc Level-0 table #5: 1388 bytes OK
-2024/07/02-12:13:35.544 48bc Delete type=0 #3
-2024/07/02-12:13:35.545 48b6 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

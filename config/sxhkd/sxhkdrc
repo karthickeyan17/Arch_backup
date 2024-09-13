@@ -5,13 +5,14 @@
 # terminal emulator
 super + Return
 	alacritty
-
 super + b
-  	firefox
+	google-chrome-stable
 # program launcher
 super + @space
       rofi  -show drun -theme ~/.config/rofi/launcher.rasi
 
+super + S
+	coreshot
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
@@ -119,5 +120,8 @@ super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 super + A
-	feh --bg-scale --randomize wallpaper/ &
+	feh --bg-scale --randomize wallpaper/general/ &
+
+super + Y
+	feh --bg-scale --randomize wallpaper/fun/ &
 	

@@ -4,9 +4,22 @@
         "workspaces": {
             "file:///home/karthi/project": "__default__profile__",
             "file:///home/karthi": "__default__profile__",
-            "file:///home/karthi/ml": "__default__profile__",
             "file:///home/karthi/Leetcode_daily_progress_scrapper": "__default__profile__",
-            "file:///home/karthi/Leetcode-profile-scraper": "__default__profile__"
+            "file:///home/karthi/ml": "__default__profile__",
+            "file:///home/karthi/leetcode-stats-frontend": "__default__profile__",
+            "file:///home/karthi/Downloads": "__default__profile__",
+            "file:///home/karthi/project/chat_app": "__default__profile__",
+            "file:///home/karthi/project/loan_approval": "__default__profile__",
+            "file:///home/karthi/Leetcode_progress_Tracker": "__default__profile__",
+            "file:///home/karthi/project/obesity": "__default__profile__",
+            "file:///home/karthi/project/api": "__default__profile__",
+            "file:///home/karthi/project/weather_app": "__default__profile__",
+            "file:///home/karthi/project/Leetcode_progress_Tracker": "__default__profile__",
+            "file:///home/karthi/Leetcode-profile-scraper": "__default__profile__",
+            "file:///home/karthi/project/mongodb/start": "__default__profile__",
+            "file:///home/karthi/project/Leetcode-profile-scraper": "__default__profile__",
+            "file:///home/karthi/project/Dictionary_API": "__default__profile__",
+            "file:///home/karthi/project/ap": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -18,7 +31,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/karthi/Leetcode-profile-scraper"
+                "folderUri": "file:///home/karthi/project/ap"
             }
         ],
         "emptyWindows": []
@@ -38,6 +51,18 @@
                     {
                         "id": "workbench.action.newWindow",
                         "label": "New &&Window"
+                    },
+                    {
+                        "id": "submenuitem.OpenProfile",
+                        "label": "New Window with Profile",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.profiles.actions.createProfile",
+                                    "label": "New Profile..."
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -70,6 +95,39 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/karthi/project/ap",
+                                        "path": "/home/karthi/project/ap",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/ap"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karthi/project/Leetcode-profile-scraper",
+                                        "path": "/home/karthi/project/Leetcode-profile-scraper",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/Leetcode-profile-scraper"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karthi/project/mongodb/start",
+                                        "path": "/home/karthi/project/mongodb/start",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/mongodb/start"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/karthi/Leetcode-profile-scraper",
                                         "path": "/home/karthi/Leetcode-profile-scraper",
                                         "scheme": "file"
@@ -81,45 +139,67 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/Leetcode_daily_progress_scrapper",
-                                        "path": "/home/karthi/Leetcode_daily_progress_scrapper",
+                                        "external": "file:///home/karthi/project/Leetcode_progress_Tracker",
+                                        "path": "/home/karthi/project/Leetcode_progress_Tracker",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Leetcode_daily_progress_scrapper"
+                                    "label": "~/project/Leetcode_progress_Tracker"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/ml",
-                                        "path": "/home/karthi/ml",
+                                        "external": "file:///home/karthi/project/weather_app",
+                                        "path": "/home/karthi/project/weather_app",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/ml"
+                                    "label": "~/project/weather_app"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi",
-                                        "path": "/home/karthi",
+                                        "external": "file:///home/karthi/project/api",
+                                        "path": "/home/karthi/project/api",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/home/karthi"
+                                    "label": "~/project/api"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/project",
-                                        "path": "/home/karthi/project",
+                                        "external": "file:///home/karthi/Leetcode_progress_Tracker",
+                                        "path": "/home/karthi/Leetcode_progress_Tracker",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/project"
+                                    "label": "~/Leetcode_progress_Tracker"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karthi/project/loan_approval",
+                                        "path": "/home/karthi/project/loan_approval",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/loan_approval"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karthi/project/chat_app",
+                                        "path": "/home/karthi/project/chat_app",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/chat_app"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -128,67 +208,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/Leetcode-profile-scraper/cache.txt",
-                                        "path": "/home/karthi/Leetcode-profile-scraper/cache.txt",
+                                        "external": "file:///home/karthi/project/ap/main.py",
+                                        "path": "/home/karthi/project/ap/main.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Leetcode-profile-scraper/cache.txt"
+                                    "label": "~/project/ap/main.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/Leetcode_daily_progress_scrapper/cache.py",
-                                        "path": "/home/karthi/Leetcode_daily_progress_scrapper/cache.py",
+                                        "external": "file:///home/karthi/project/mongodb/start/sim.py",
+                                        "path": "/home/karthi/project/mongodb/start/sim.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Leetcode_daily_progress_scrapper/cache.py"
+                                    "label": "~/project/mongodb/start/sim.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/ml/video.py",
-                                        "path": "/home/karthi/ml/video.py",
+                                        "external": "file:///home/karthi/project/mongodb/start/l.py",
+                                        "path": "/home/karthi/project/mongodb/start/l.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/ml/video.py"
+                                    "label": "~/project/mongodb/start/l.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/ml/val.py",
-                                        "path": "/home/karthi/ml/val.py",
+                                        "external": "file:///home/karthi/project/mongodb/start/app.py",
+                                        "path": "/home/karthi/project/mongodb/start/app.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/ml/val.py"
+                                    "label": "~/project/mongodb/start/app.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/ml/photo.py",
-                                        "path": "/home/karthi/ml/photo.py",
+                                        "external": "file:///home/karthi/Leetcode-profile-scraper/p.py",
+                                        "path": "/home/karthi/Leetcode-profile-scraper/p.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/ml/photo.py"
+                                    "label": "~/Leetcode-profile-scraper/p.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karthi/snvsjdv",
-                                        "path": "/home/karthi/snvsjdv",
+                                        "external": "file:///home/karthi/Leetcode-profile-scraper/jk.py",
+                                        "path": "/home/karthi/Leetcode-profile-scraper/jk.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/snvsjdv"
+                                    "label": "~/Leetcode-profile-scraper/jk.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karthi/project/weather_app/app.py",
+                                        "path": "/home/karthi/project/weather_app/app.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/weather_app/app.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karthi/project/api/app.py",
+                                        "path": "/home/karthi/project/api/app.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/api/app.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karthi/project/obesity/app.py",
+                                        "path": "/home/karthi/project/obesity/app.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/obesity/app.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karthi/Downloads/j.py",
+                                        "path": "/home/karthi/Downloads/j.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/j.py"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -247,19 +371,8 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
-                                },
-                                {
-                                    "id": "workbench.profiles.actions.importProfile",
-                                    "label": "Import Profile..."
                                 }
                             ]
                         }
@@ -278,47 +391,8 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "submenuitem.Profiles",
-                                    "label": "Profile (Default)",
-                                    "submenu": {
-                                        "items": [
-                                            {
-                                                "id": "workbench.profiles.actions.profileEntry.__default__profile__",
-                                                "label": "Default",
-                                                "checked": true
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.showProfileContents",
-                                                "label": "Show Profile Contents"
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.createProfile",
-                                                "label": "Create Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.deleteProfile",
-                                                "label": "Delete Profile...",
-                                                "enabled": false
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.exportProfile",
-                                                "label": "Export Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.importProfile",
-                                                "label": "Import Profile..."
-                                            }
-                                        ]
-                                    }
+                                    "id": "workbench.profiles.actions.manageProfiles",
+                                    "label": "&&Profiles"
                                 },
                                 {
                                     "id": "workbench.action.openSettings",
@@ -334,11 +408,11 @@
                                 },
                                 {
                                     "id": "workbench.action.openSnippets",
-                                    "label": "Configure User Snippets"
+                                    "label": "Configure Snippets"
                                 },
                                 {
                                     "id": "workbench.action.tasks.openUserTasks",
-                                    "label": "User Tasks"
+                                    "label": "Tasks"
                                 },
                                 {
                                     "id": "submenuitem.ThemesSubMenu",
@@ -638,9 +712,8 @@
                                     "submenu": {
                                         "items": [
                                             {
-                                                "id": "workbench.action.positionPanelBottom",
-                                                "label": "Bottom",
-                                                "checked": true
+                                                "id": "workbench.action.positionPanelTop",
+                                                "label": "Top"
                                             },
                                             {
                                                 "id": "workbench.action.positionPanelLeft",
@@ -649,6 +722,11 @@
                                             {
                                                 "id": "workbench.action.positionPanelRight",
                                                 "label": "Right"
+                                            },
+                                            {
+                                                "id": "workbench.action.positionPanelBottom",
+                                                "label": "Bottom",
+                                                "checked": true
                                             }
                                         ]
                                     }
@@ -1822,14 +1900,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/karthi/Leetcode-profile-scraper",
-            "backupPath": "/home/karthi/.config/Code - OSS/Backups/e9dc128ac9b6aa48ed1acb05e786d2bd",
+            "folder": "file:///home/karthi/project/ap",
+            "backupPath": "/home/karthi/.config/Code - OSS/Backups/0b4620e29c86a9d93ee3e649aa1e4495",
             "uiState": {
                 "mode": 1,
                 "x": 13,
-                "y": 34,
+                "y": 39,
                 "width": 1340,
-                "height": 721
+                "height": 716
             }
         },
         "openedWindows": []

@@ -1,0 +1,36 @@
+Code - OSS (1.92.1, undefined, desktop)
+Jupyter Extension Version: 2024.7.0.
+Python Extension Version: 2024.12.3.
+Pylance Extension not installed.
+Platform: linux (x64).
+Workspace folder ~/project/Dictionary_API, Home = /home/karthi
+00:47:36.393 [error] Python extension is not exporting the jupyter API
+00:47:36.488 [debug] Start refreshing Kernel Picker (1725909456487)
+00:47:36.491 [error] Error in activating extension, failed in hy Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookKernelSource.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookKernelSource.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.createNotebookControllerDetectionTask (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:48650)
+    at i (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:299:6231)
+    at hy.startRefreshWithPython (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:299:6454)
+    at hy.activate (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:299:4678)
+    at /home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:373:28858
+    at Array.map (<anonymous>)
+    at rI.activate (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:373:28844)
+    at SG (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:436:2062)
+    at Bfe (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:438:454)
+00:47:36.552 [error] Error in activating extension, failed in zy Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookKernelSource.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookKernelSource.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.registerKernelSourceActionProvider (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:48785)
+    at zy.activate (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:304:115154)
+    at /home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:373:28858
+    at Array.map (<anonymous>)
+    at rI.activate (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:373:28844)
+    at SG (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:436:2062)
+    at Bfe (/home/~/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:438:454)
+00:47:36.882 [debug] Get Custom Env Variables, Class name = Sm, completed in 395ms, has a truthy return value, Arg 1: undefined, Arg 2: "RunPythonCode"
+00:47:36.886 [debug] Jupyter Paths /kernels: 
+00:47:36.887 [debug] Kernel Spec Root Paths, /usr/share/jupyter/kernels, /usr/local/share/jupyter/kernels, ~/.local/share/jupyter/kernels
+00:47:38.391 [debug] creating new code watcher with matching document file:///home/~/project/Dictionary_API/app.py

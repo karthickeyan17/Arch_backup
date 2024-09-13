@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistics</title>
+    <link rel="stylesheet" href="">  </head>
+<body>
+  {% if error %}
+    <p style="color: red;">{{ error }}</p>  {% endif %}
+  <div class="table_entrances" style="overflow-x: auto;">
+    {% for table in tables %}
+      <h3>{{titles[loop.index]}}</h3>  {{ table|safe }}
+    {% endfor %}
+  </div>
+</body>
+</html>

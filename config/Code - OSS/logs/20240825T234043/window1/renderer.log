@@ -1,0 +1,316 @@
+2024-08-25 23:40:54.772 [info] Started local extension host with pid 961.
+2024-08-25 23:41:00.002 [error] Extension 'luma.jupyter' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-25 23:41:00.003 [error] Extension 'luma.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-25 23:41:00.004 [error] Extension 'luma.jupyter' wants API proposal 'notebookDebugOptions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-25 23:41:00.010 [error] Extension 'luma.jupyter' wants API proposal 'notebookEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-25 23:41:00.011 [error] Extension 'luma.jupyter' wants API proposal 'notebookEditorDecorationType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-25 23:41:00.015 [error] Extension 'luma.jupyter' wants API proposal 'notebookEditorEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-25 23:41:00.016 [error] Extension 'luma.jupyter' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-25 23:41:00.016 [error] Extension 'luma.jupyter CANNOT USE these API proposals 'notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-25 23:41:00.020 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, contribIssueReporter, debugVisualization'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-25 23:41:00.024 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter, terminalShellIntegration'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-25 23:41:00.026 [error] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookDeprecated, notebookMessaging, notebookMime, contribNotebookStaticPreloads, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, quickPickItemTooltip, notebookExecution, notebookCellExecution, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-25 23:41:00.033 [error] Extension 'ms-toolsai.jupyter-renderers CANNOT USE these API proposals 'contribNotebookStaticPreloads'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-25 23:41:00.232 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.experiments.enabled'. This property is already registered.
+2024-08-25 23:41:00.233 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.showVariableViewWhenDebugging'. This property is already registered.
+2024-08-25 23:41:00.240 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.logging.level'. This property is already registered.
+2024-08-25 23:41:00.241 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.experiments.optInto'. This property is already registered.
+2024-08-25 23:41:00.247 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.experiments.optOutFrom'. This property is already registered.
+2024-08-25 23:41:00.250 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.widgetScriptSources'. This property is already registered.
+2024-08-25 23:41:00.255 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.askForLargeDataFrames'. This property is already registered.
+2024-08-25 23:41:00.255 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.askForKernelRestart'. This property is already registered.
+2024-08-25 23:41:00.256 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.exportWithOutputEnabled'. This property is already registered.
+2024-08-25 23:41:00.257 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.jupyterLaunchTimeout'. This property is already registered.
+2024-08-25 23:41:00.262 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.jupyterLaunchRetries'. This property is already registered.
+2024-08-25 23:41:00.265 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.jupyterCommandLineArguments'. This property is already registered.
+2024-08-25 23:41:00.268 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.notebookFileRoot'. This property is already registered.
+2024-08-25 23:41:00.270 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.useDefaultConfigForJupyter'. This property is already registered.
+2024-08-25 23:41:00.271 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.jupyterInterruptTimeout'. This property is already registered.
+2024-08-25 23:41:00.272 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.variableExplorerExclude'. This property is already registered.
+2024-08-25 23:41:00.273 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.themeMatplotlibPlots'. This property is already registered.
+2024-08-25 23:41:00.274 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.allowUnauthorizedRemoteConnection'. This property is already registered.
+2024-08-25 23:41:00.275 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.debugpyDistPath'. This property is already registered.
+2024-08-25 23:41:00.276 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.stopOnFirstLineWhileDebugging'. This property is already registered.
+2024-08-25 23:41:00.278 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.disableJupyterAutoStart'. This property is already registered.
+2024-08-25 23:41:00.279 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.pythonExportMethod'. This property is already registered.
+2024-08-25 23:41:00.280 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.runStartupCommands'. This property is already registered.
+2024-08-25 23:41:00.281 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.debugJustMyCode'. This property is already registered.
+2024-08-25 23:41:00.282 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.showOutlineButtonInNotebookToolbar'. This property is already registered.
+2024-08-25 23:41:00.283 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.pythonCompletionTriggerCharacters'. This property is already registered.
+2024-08-25 23:41:00.285 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.logKernelOutputSeparately'. This property is already registered.
+2024-08-25 23:41:00.381 [info] [luma.jupyter]: Command `jupyter.selectNativeJupyterUriFromToolBar` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.385 [info] [ms-toolsai.jupyter]: Command `dataScience.ClearCache` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.392 [info] [ms-toolsai.jupyter]: Command `jupyter.replayPylanceLog` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.392 [info] [ms-toolsai.jupyter]: Command `jupyter.replayPylanceLogStep` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.393 [info] [ms-toolsai.jupyter]: Command `jupyter.filterKernels` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.394 [info] [ms-toolsai.jupyter]: Command `jupyter.runByLine` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.399 [info] [ms-toolsai.jupyter]: Command `jupyter.runAndDebugCell` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.399 [info] [ms-toolsai.jupyter]: Command `jupyter.runByLineNext` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.406 [info] [ms-toolsai.jupyter]: Command `jupyter.runByLineStop` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.407 [info] [ms-toolsai.jupyter]: Command `jupyter.viewOutput` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.407 [info] [ms-toolsai.jupyter]: Command `jupyter.notebookeditor.export` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.414 [info] [ms-toolsai.jupyter]: Command `jupyter.export` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.415 [info] [ms-toolsai.jupyter]: Command `jupyter.exportAsPythonScript` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.416 [info] [ms-toolsai.jupyter]: Command `jupyter.exportToHTML` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.417 [info] [ms-toolsai.jupyter]: Command `jupyter.exportToPDF` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.417 [info] [ms-toolsai.jupyter]: Command `jupyter.selectJupyterInterpreter` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.422 [info] [ms-toolsai.jupyter]: Command `jupyter.runcurrentcell` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.423 [info] [ms-toolsai.jupyter]: Command `jupyter.debugcell` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.425 [info] [ms-toolsai.jupyter]: Command `jupyter.debugstepover` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.426 [info] [ms-toolsai.jupyter]: Command `jupyter.debugstop` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.428 [info] [ms-toolsai.jupyter]: Command `jupyter.debugcontinue` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.429 [info] [ms-toolsai.jupyter]: Command `jupyter.insertCellBelowPosition` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.430 [info] [ms-toolsai.jupyter]: Command `jupyter.insertCellBelow` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.431 [info] [ms-toolsai.jupyter]: Command `jupyter.insertCellAbove` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.432 [info] [ms-toolsai.jupyter]: Command `jupyter.deleteCells` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.433 [info] [ms-toolsai.jupyter]: Command `jupyter.selectCell` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.433 [info] [ms-toolsai.jupyter]: Command `jupyter.selectCellContents` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.434 [info] [ms-toolsai.jupyter]: Command `jupyter.extendSelectionByCellAbove` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.436 [info] [ms-toolsai.jupyter]: Command `jupyter.extendSelectionByCellBelow` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.437 [info] [ms-toolsai.jupyter]: Command `jupyter.moveCellsUp` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.438 [info] [ms-toolsai.jupyter]: Command `jupyter.moveCellsDown` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.439 [info] [ms-toolsai.jupyter]: Command `jupyter.changeCellToMarkdown` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.440 [info] [ms-toolsai.jupyter]: Command `jupyter.changeCellToCode` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.441 [info] [ms-toolsai.jupyter]: Command `jupyter.gotoNextCellInFile` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.442 [info] [ms-toolsai.jupyter]: Command `jupyter.gotoPrevCellInFile` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.443 [info] [ms-toolsai.jupyter]: Command `jupyter.runcurrentcelladvance` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.444 [info] [ms-toolsai.jupyter]: Command `jupyter.runcurrentcellandallbelow.palette` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.445 [info] [ms-toolsai.jupyter]: Command `jupyter.runallcellsabove.palette` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.446 [info] [ms-toolsai.jupyter]: Command `jupyter.debugcurrentcell.palette` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.447 [info] [ms-toolsai.jupyter]: Command `jupyter.execSelectionInteractive` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.448 [info] [ms-toolsai.jupyter]: Command `jupyter.createnewinteractive` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.449 [info] [ms-toolsai.jupyter]: Command `jupyter.runFileInteractive` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.450 [info] [ms-toolsai.jupyter]: Command `jupyter.debugFileInteractive` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.452 [info] [ms-toolsai.jupyter]: Command `jupyter.runallcells` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.453 [info] [ms-toolsai.jupyter]: Command `jupyter.runallcellsabove` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.454 [info] [ms-toolsai.jupyter]: Command `jupyter.runcellandallbelow` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.455 [info] [ms-toolsai.jupyter]: Command `jupyter.runcell` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.456 [info] [ms-toolsai.jupyter]: Command `jupyter.runtoline` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.457 [info] [ms-toolsai.jupyter]: Command `jupyter.runfromline` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.458 [info] [ms-toolsai.jupyter]: Command `jupyter.importnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.458 [info] [ms-toolsai.jupyter]: Command `jupyter.importnotebookfile` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.459 [info] [ms-toolsai.jupyter]: Command `jupyter.exportoutputasnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.460 [info] [ms-toolsai.jupyter]: Command `jupyter.exportfileasnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.460 [info] [ms-toolsai.jupyter]: Command `jupyter.exportfileandoutputasnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.462 [info] [ms-toolsai.jupyter]: Command `jupyter.interruptkernel` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.463 [info] [ms-toolsai.jupyter]: Command `jupyter.restartkernel` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.464 [info] [ms-toolsai.jupyter]: Command `jupyter.notebookeditor.addcellbelow` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.465 [info] [ms-toolsai.jupyter]: Command `jupyter.notebookeditor.removeallcells` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.466 [info] [ms-toolsai.jupyter]: Command `jupyter.expandallcells` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.467 [info] [ms-toolsai.jupyter]: Command `jupyter.collapseallcells` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.468 [info] [ms-toolsai.jupyter]: Command `jupyter.addcellbelow` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.470 [info] [ms-toolsai.jupyter]: Command `jupyter.createnewnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.470 [info] [ms-toolsai.jupyter]: Command `jupyter.scrolltocell` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.471 [info] [ms-toolsai.jupyter]: Command `jupyter.latestExtension` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.472 [info] [ms-toolsai.jupyter]: Command `jupyter.showDataViewer` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.474 [info] [ms-toolsai.jupyter]: Command `jupyter.clearSavedJupyterUris` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.475 [info] [ms-toolsai.jupyter]: Command `jupyter.openVariableView` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.476 [info] [ms-toolsai.jupyter]: Command `jupyter.openOutlineView` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.476 [info] [ms-toolsai.jupyter]: Command `jupyter.refreshDataViewer` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.477 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.clearAllCells` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.479 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.goToCode` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.480 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.exportasnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.480 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.exportas` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.485 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.copyCell` already registered by Jupyter (luma.jupyter)
+2024-08-25 23:41:00.490 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-08-25 23:41:00.496 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-08-25 23:41:00.499 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-08-25 23:41:00.720 [error] [ms-toolsai.jupyter]: Cannot register multiple views with same id `jupyterViewVariables`
+2024-08-25 23:41:03.977 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-html
+2024-08-25 23:41:03.983 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-txt
+2024-08-25 23:41:07.488 [info] Extension host (LocalProcess pid: 961) is unresponsive.
+2024-08-25 23:41:07.685 [error] [Extension Host] error 23:41:07.676: Jupyter Extension: Error in activating extension, failed in hy Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookKernelSource.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookKernelSource.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.createNotebookControllerDetectionTask (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:46384)
+    at i (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:299:6231)
+    at hy.startRefreshWithPython (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:299:6454)
+    at hy.activate (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:299:4678)
+    at /home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:373:28858
+    at Array.map (<anonymous>)
+    at rI.activate (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:373:28844)
+    at SG (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:436:2062)
+    at Bfe (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:438:454)
+2024-08-25 23:41:07.708 [error] [Extension Host] error 23:41:07.693: Jupyter Extension: Error in activating extension, failed in zy Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookKernelSource.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookKernelSource.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.registerKernelSourceActionProvider (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:46519)
+    at zy.activate (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:304:115154)
+    at /home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:373:28858
+    at Array.map (<anonymous>)
+    at rI.activate (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:373:28844)
+    at SG (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:436:2062)
+    at Bfe (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.6.0-universal/dist/extension.node.js:438:454)
+2024-08-25 23:41:08.154 [error] spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python-env-tools/bin/pet ENOENT: Error: spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python-env-tools/bin/pet ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-08-25 23:41:08.227 [info] Extension host (LocalProcess pid: 961) is responsive.
+2024-08-25 23:41:08.361 [info] [perf] Render performance baseline is 358ms
+2024-08-25 23:41:15.648 [error] [Extension Host] extension activation failed TypeError: s.notebooks.onDidChangeCellMetadata is not a function
+    at u.onDidChangeCellMetadata [as addEventHandlers] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/common/application/notebook.ts:73:32)
+    at new addEventHandlers (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/common/application/notebook.ts:24:14)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/instantiation.js:21:12)
+    at resolveInstance (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:72:42)
+    at Array.map (<anonymous>)
+    at Object.map [as resolveInstance] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/instantiation.js:40:67)
+    at resolveInstance (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:72:42)
+    at _f (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:34:24)
+    at Array.map (<anonymous>)
+    at map (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:32:34)
+    at Array.map (<anonymous>)
+    at Object.map [as resolveInstance] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/instantiation.js:40:67)
+    at resolveInstance (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:72:42)
+    at Object._f [as resolve] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:96:12)
+    at resolve (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/container/container.js:319:37)
+    at e.this (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/container/container.js:310:22)
+    at e._get [as get] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/container/container.js:230:21)
+    at a.get (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/ioc/container.ts:24:89)
+    at get (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/extensionActivation.ts:90:38)
+    at activationPromise (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/extension.ts:67:17)
+    at serviceContainer (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/extension.ts:30:22)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804)
+2024-08-25 23:41:18.686 [error] [Extension Host] error 23:41:18.661: Jupyter Extension: Failed activating the python extension:  Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33136)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804) {
+  message: "Activating extension 'ms-python.python' failed: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.\n" +
+    'Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.\n' +
+    ' The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python.'
+}
+2024-08-25 23:41:18.690 [error] [Extension Host] error 23:41:18.671: Jupyter Extension: Failed activating the python extension:  Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33136)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804) {
+  message: "Activating extension 'ms-python.python' failed: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.\n" +
+    'Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.\n' +
+    ' The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python.'
+}
+2024-08-25 23:41:18.691 [error] [Extension Host] error 23:41:18.673: Jupyter Extension: Failed activating the python extension:  Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33136)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804) {
+  message: "Activating extension 'ms-python.python' failed: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.\n" +
+    'Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.\n' +
+    ' The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python.'
+}
+2024-08-25 23:41:18.692 [error] [Extension Host] error 23:41:18.681: Jupyter Extension: Failed activating the python extension:  Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33136)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804) {
+  message: "Activating extension 'ms-python.python' failed: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.\n" +
+    'Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.\n' +
+    ' The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python.'
+}
+2024-08-25 23:41:18.709 [error] [Extension Host] error 23:41:18.688: Jupyter Extension: Failed activating the python extension:  Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33136)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804) {
+  message: "Activating extension 'ms-python.python' failed: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.\n" +
+    'Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.\n' +
+    ' The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python.'
+}
+2024-08-25 23:41:18.713 [error] [Extension Host] error 23:41:18.693: Jupyter Extension: Failed activating the python extension:  Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33136)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804) {
+  message: "Activating extension 'ms-python.python' failed: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.\n" +
+    'Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.\n' +
+    ' The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python.'
+}
+2024-08-25 23:41:18.714 [error] [Extension Host] error 23:41:18.699: Jupyter Extension: Failed activating the python extension:  Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:57960)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33136)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5804) {
+  message: "Activating extension 'ms-python.python' failed: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.\n" +
+    'Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.\n' +
+    ' The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python.'
+}
+2024-08-26 00:18:22.450 [error] Cannot create regex from empty string: Error: Cannot create regex from empty string
+    at Object.o [as $sf] (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:93:73940)
+    at P.computeLinks (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/contrib/output/common/outputLinkComputer.js:3:13498)
+    at s.fmr (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:631:52582)
+    at v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:665:46998)
+    at Object.computeLinks (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:665:47082)
+    at g.t (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1715:111664)
+    at async Object.provideLinks (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1715:111232)
+    at async Promise.all (index 2)
+2024-08-26 00:46:30.779 [error] UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1968174)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1966134)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1962428)
+    at processImmediate (node:internal/timers:478:21)

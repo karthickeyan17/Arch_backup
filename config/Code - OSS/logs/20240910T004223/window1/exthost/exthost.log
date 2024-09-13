@@ -1,0 +1,67 @@
+2024-09-10 00:42:34.463 [info] Extension host with pid 2008 started
+2024-09-10 00:42:34.463 [info] Skipping acquiring lock for /home/karthi/.config/Code - OSS/User/workspaceStorage/fec2ebf3529bca646c738ff6163954ae.
+2024-09-10 00:42:36.161 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-10 00:42:36.356 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-09-10 00:42:36.826 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2024-09-10 00:42:38.311 [error] Error: spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-09-10 00:42:38.477 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-10 00:42:38.878 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-10 00:42:39.823 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-10 00:42:39.931 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-10 00:42:40.356 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-10 00:42:40.718 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-10 00:42:43.510 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-09-10 00:42:43.961 [error] Activating extension ms-python.python failed due to an error:
+2024-09-10 00:42:43.961 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+	at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33147)
+	at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+	at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+	at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+	at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+	at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+	at async e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+	at async m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6409)
+	at async m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6372)
+	at async m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5829)
+2024-09-10 00:42:43.962 [info] Eager extensions activated
+2024-09-10 00:42:44.163 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 00:42:44.211 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 00:42:44.352 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 00:42:45.122 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 00:42:45.962 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+	at get testResults (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25438)
+	at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:845522)
+	at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2460
+	at Array.map (<anonymous>)
+	at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2450)
+2024-09-10 00:43:21.177 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-09-10 00:44:45.227 [warning] [Decorations] CAPPING events from decorations provider vscode.git 862
+2024-09-10 00:47:17.579 [info] ExtensionService#_doActivateExtension luma.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-09-10 00:47:33.761 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-09-10 00:47:33.810 [info] ExtensionService#_doActivateExtension virgilsisoe.python-auto-import, startup: false, activationEvent: 'onLanguage:python'
+2024-09-10 00:47:38.295 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-09-10 00:47:57.078 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1619
+2024-09-10 00:48:15.207 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3289
+2024-09-10 00:48:41.454 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4907
+2024-09-10 00:48:50.301 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5324
+2024-09-10 00:49:07.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6390
+2024-09-10 00:49:19.977 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8299
+2024-09-10 00:50:05.122 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9911
+2024-09-10 00:50:26.299 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10764
+2024-09-10 01:08:58.541 [error] [ms-python.python] provider FAILED
+2024-09-10 01:08:58.556 [error] Error: KeyError: PosixPath('/home/karthi/project/Dictionary_API/.myenv/lib/python3.12/site-packages/streamlit/proto/Element_pb2.pyi')
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1968174)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1966134)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1962428)
+    at processImmediate (node:internal/timers:478:21)
+2024-09-10 01:14:01.454 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-09-10 01:14:53.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001

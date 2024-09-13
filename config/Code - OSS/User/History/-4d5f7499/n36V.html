@@ -1,0 +1,7 @@
+<div class="table_entrances" style="overflow-x: auto;">
+
+    {% for table in tables %}
+    {{titles[loop.index]}}
+    {{ table|safe }}
+    {% endfor %}    
+  </div>

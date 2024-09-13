@@ -1,0 +1,82 @@
+2024-08-26 21:09:01.196 [info] Extension host with pid 1629 started
+2024-08-26 21:09:01.196 [info] Skipping acquiring lock for /home/karthi/.config/Code - OSS/User/workspaceStorage/bc29c9764ae7f446cb3a55452bb393d4.
+2024-08-26 21:09:02.535 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-26 21:09:02.726 [info] ExtensionService#_doActivateExtension luma.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-08-26 21:09:06.795 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-08-26 21:09:07.945 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-08-26 21:09:07.985 [info] ExtensionService#_doActivateExtension virgilsisoe.python-auto-import, startup: false, activationEvent: 'onLanguage:python'
+2024-08-26 21:09:08.449 [error] Error: spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python-env-tools/bin/pet ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-08-26 21:09:08.478 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-26 21:09:08.515 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-08-26 21:09:20.647 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-08-26 21:09:20.809 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-26 21:09:21.949 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-26 21:09:23.487 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-26 21:09:23.497 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-26 21:09:23.608 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-08-26 21:09:24.099 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-08-26 21:09:24.466 [error] Activating extension ms-python.python failed due to an error:
+2024-08-26 21:09:24.466 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33147)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6409)
+    at m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6372)
+    at m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5829)
+2024-08-26 21:09:24.652 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-26 21:09:25.065 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-26 21:09:25.869 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-26 21:09:26.938 [info] Eager extensions activated
+2024-08-26 21:09:28.594 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25438)
+    at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:845522)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2460
+    at Array.map (<anonymous>)
+    at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2450)
+2024-08-26 21:14:43.615 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-08-27 00:04:07.407 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-08-27 01:04:55.610 [error] [ms-python.python] provider FAILED
+2024-08-27 01:05:11.210 [error] Error: ValueError: Please provide a position that exists within this node.
+    at ae (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1968174)
+    at oe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1966134)
+    at Immediate.<anonymous> (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1962428)
+    at processImmediate (node:internal/timers:478:21)
+2024-08-27 02:18:48.474 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-27 02:18:49.728 [error] Canceled: Canceled
+    at new C (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205942)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204704)
+    at d.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:206481)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205473)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23060)
+    at t.executeCommand (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:336277)
+    at l (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:664716)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:665478
+    at i.value (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:21003)
+    at n.B (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:954)
+    at i.value (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:78:56451)
+    at D.B (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+    at D.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:954)
+    at D.resume (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:2028)
+    at Timeout._onTimeout (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:2309)
+    at listOnTimeout (node:internal/timers:573:17)
+    at processTimers (node:internal/timers:514:7) setContext undefined
+2024-08-27 02:18:50.354 [info] Extension host with pid 1629 exiting with code 0

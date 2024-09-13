@@ -1,0 +1,186 @@
+2024-08-26 21:09:27.136 [error] Reading directory to watch failed Error: ENOENT: no such file or directory, scandir '/home/karthi/project/mongodb/start/.pixi/envs'
+    at Object.readdirSync (node:fs:1507:26)
+    at Object.t.readdirSync (node:electron/js2c/node_init:2:11418)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:586747
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:586938
+    at Array.map (<anonymous>)
+    at d.initWatchers (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:586656)
+    at d.ensureWatchersReady (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:543067) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/karthi/project/mongodb/start/.pixi/envs'
+}
+2024-08-26 21:09:27.136 [error] Dir "/home/karthi/project/mongodb/start/.pixi/envs" is not watchable (directory does not exist)
+2024-08-26 21:09:27.136 [info] Default formatter is set to null for workspace /home/karthi/project/mongodb/start
+2024-08-26 21:09:27.136 [error] Unable to check if shell integration is active Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at a.onDidWriteTerminalData (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:32734)
+    at new m (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:816931)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1668732)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1670640
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1668506)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1670640
+    at Object.t.resolve (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1670903)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1654466
+    at e._get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1654232)
+    at e.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1652944)
+    at e.dynamicValue (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1676008)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1670129
+    at c (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1669175)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1670069
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1669588
+    at Array.map (<anonymous>)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1669560
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1668506)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1670640
+    at Object.t.resolve (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1670903)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1654466
+    at e._get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1654232)
+    at e.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:1652944)
+    at a.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:477070)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397424
+    at t.activateComponents (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:395711)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588581
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6409)
+    at m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6372)
+    at m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5829)
+2024-08-26 21:09:27.136 [error] extension activation failed Error: Extension 'ms-python.python' CANNOT use API proposal: terminalShellIntegration.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalShellIntegration.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.onDidStartTerminalShellExecution (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:33147)
+    at t.onDidStartTerminalShellExecution (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:338602)
+    at t.registerTriggerForPipInTerminal (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:662828)
+    at t.registerAllCreateEnvironmentFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:697793)
+    at t.activateFeatures (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:397935)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588640
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2588113)
+    at m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6409)
+    at m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6372)
+    at m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5829)
+2024-08-26 21:09:27.136 [info] Python interpreter path: ~/project/mongodb/start/.myenv/bin/python
+2024-08-26 21:09:27.212 [info] > pyenv which python
+2024-08-26 21:09:27.212 [info] cwd: .
+2024-08-26 21:09:27.570 [error] [
+  'Failed to activate a workspace, Class name = m, completed in 4630ms, has a falsy return value, Arg 1: <Uri:/home/karthi/project/mongodb/start/app.py>, Arg 2: {"started":1724686748213}, Return Value: undefined',
+  Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+      at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+      at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:25438)
+      at T.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:845522)
+      at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2460
+      at Array.map (<anonymous>)
+      at m.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/out/client/extension.js:2:2450)
+]
+2024-08-26 21:09:34.159 [info] Starting Jedi language server for start.
+2024-08-26 21:10:50.523 [info] > pixi --version
+2024-08-26 21:10:50.525 [error] Error: spawn pixi ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-08-26 21:10:50.527 [warning] could not find a pixi interpreter for the interpreter at /home/karthi/project/mongodb/start/.myenv/bin/python
+2024-08-26 21:10:50.924 [info] Send text to terminal: source /home/karthi/project/mongodb/start/.myenv/bin/activate.fish
+2024-08-26 21:10:53.901 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:11:23.167 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:12:49.456 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:14:32.372 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:15:21.894 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/.myenv/lib/python3.12/site-packages/numpy/f2py/setup.cfg
+2024-08-26 21:15:31.765 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/.myenv/lib/python3.12/site-packages/pandas/pyproject.toml
+2024-08-26 21:16:26.574 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:16:41.453 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:17:26.379 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:17:44.526 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:20:12.321 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:22:05.360 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:22:29.424 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:23:06.958 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:23:43.603 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:30:22.018 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:30:35.863 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:32:41.001 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:33:54.164 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:35:53.899 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:39:48.747 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:58:17.978 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:59:30.782 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 21:59:55.783 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:05:15.811 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:05:37.835 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:05:52.582 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:07:04.576 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:08:35.942 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:08:43.857 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:08:58.978 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:13:16.678 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:21:34.270 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:24:13.981 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:28:36.710 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:36:23.998 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:37:16.408 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:37:27.834 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:37:57.154 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:38:32.923 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:42:54.988 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:43:30.911 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:44:34.202 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:45:18.164 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:46:13.573 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:50:33.802 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:51:59.153 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:55:23.694 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 22:56:23.982 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 22:56:44.058 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-26 23:16:23.009 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:17:04.739 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:17:51.553 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:18:41.250 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:19:46.743 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:23:23.181 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:25:21.643 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:29:12.485 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:29:27.271 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:29:49.171 [warning] could not find a pixi interpreter for the interpreter at /home/karthi/project/mongodb/start/.myenv/bin/python
+2024-08-26 23:29:51.642 [info] Send text to terminal: source /home/karthi/project/mongodb/start/.myenv/bin/activate.fish
+2024-08-26 23:34:25.289 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:34:34.779 [warning] could not find a pixi interpreter for the interpreter at /home/karthi/project/mongodb/start/.myenv/bin/python
+2024-08-26 23:34:36.209 [info] Send text to terminal: source /home/karthi/project/mongodb/start/.myenv/bin/activate.fish
+2024-08-26 23:50:54.389 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:53:18.468 [warning] could not find a pixi interpreter for the interpreter at /home/karthi/project/mongodb/start/.myenv/bin/python
+2024-08-26 23:53:19.310 [info] Send text to terminal: source /home/karthi/project/mongodb/start/.myenv/bin/activate.fish
+2024-08-26 23:53:26.695 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:53:48.446 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:54:29.454 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-26 23:58:04.071 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 00:02:18.287 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 00:05:26.623 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 00:08:22.675 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 00:09:44.228 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 00:26:07.727 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 00:27:04.332 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 00:29:48.084 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 00:32:47.758 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-27 00:33:15.669 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-27 00:37:44.151 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-27 00:39:49.036 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-27 00:41:09.697 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-27 00:45:06.292 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-27 01:04:28.030 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 01:19:02.137 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-27 01:30:24.964 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/l.py
+2024-08-27 01:57:00.786 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 01:58:39.790 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 02:18:38.349 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/sim.py
+2024-08-27 02:18:41.716 [info] Discover tests for workspace name: start - uri: /home/karthi/project/mongodb/start/app.py

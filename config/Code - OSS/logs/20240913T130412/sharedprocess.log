@@ -1,0 +1,20 @@
+2024-09-13 13:04:32.193 [info] Getting Manifest... ms-python.python
+2024-09-13 13:04:32.229 [info] Getting Manifest... ms-toolsai.jupyter
+2024-09-13 13:04:33.224 [info] Installing extension: ms-toolsai.jupyter {"productVersion":{"version":"1.93.0","date":"2024-09-07T09:42:20.897Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json","path":"/home/karthi/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-13 13:04:34.344 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.93.0","date":"2024-09-07T09:42:20.897Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json","path":"/home/karthi/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-13 13:04:46.339 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-09-13 13:04:46.340 [info] Extension signature verification is not done: ms-toolsai.jupyter
+2024-09-13 13:04:48.733 [info] Extracted extension to file:///home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.8.1-universal: ms-toolsai.jupyter
+2024-09-13 13:04:49.164 [info] Renamed to /home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.8.1-universal
+2024-09-13 13:04:49.670 [info] Marked extension as uninstalled ms-toolsai.jupyter-2024.7.0-universal
+2024-09-13 13:04:49.750 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json
+2024-09-13 13:05:23.431 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-09-13 13:05:23.432 [info] Extension signature verification is not done: ms-python.python
+2024-09-13 13:05:35.087 [info] Extracted extension to file:///home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal: ms-python.python
+2024-09-13 13:05:35.223 [info] Renamed to /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal
+2024-09-13 13:05:35.448 [info] Marked extension as uninstalled ms-python.python-2024.14.0-universal
+2024-09-13 13:05:35.555 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json

@@ -1,0 +1,346 @@
+-> -*- Start provider -*-
+-> LinePrefix: f
+-> Cursor position: 401
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 430
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: res = movies.f
+-> Cursor position: 353
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: for i in res
+-> Cursor position: 381
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: f
+-> Cursor position: 219
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for c
+-> Cursor position: 223
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for col i
+-> Cursor position: 227
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 270
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for col in database.list_collections
+-> Cursor position: 254
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: for col in database.list_collection_
+-> Cursor position: 254
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: c
+-> Cursor position: 219
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: col = da
+-> Cursor position: 226
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: col = dataabase
+-> Cursor position: 233
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> -*- Start provider -*-
+-> LinePrefix: col = dataabas
+-> Cursor position: 232
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: col = dataaba
+-> Cursor position: 231
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> -*- Start provider -*-
+-> LinePrefix: col = dataab
+-> Cursor position: 230
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> -*- Start provider -*-
+-> LinePrefix: col = dataa
+-> Cursor position: 229
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> -*- Start provider -*-
+-> LinePrefix: col = data
+-> Cursor position: 228
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> -*- Start provider -*-
+-> LinePrefix: col = dat
+-> Cursor position: 227
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: col = da
+-> Cursor position: 226
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> Python completion list: ""
+-> List empty. Abort.
+-> Python completion list: ""
+-> List empty. Abort.
+-> Python completion list: ""
+-> List empty. Abort.
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for
+-> Cursor position: 255
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for v
+-> Cursor position: 257
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for val i
+-> Cursor position: 261
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for val in c
+-> Cursor position: 264
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 288
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: c
+-> Cursor position: 253
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: g
+-> Cursor position: 253
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: f
+-> Cursor position: 253
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for val i
+-> Cursor position: 261
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for val in col.fin
+-> Cursor position: 270
+-> Dont suggest. line is part of object call
+-> -*- Start provider -*-
+-> LinePrefix: print(val i
+-> Cursor position: 298
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: print(val if v
+-> Cursor position: 301
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: print(val if val
+-> Cursor position: 303
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 330
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: print(col
+-> Cursor position: 338
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 330
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: print(c
+-> Cursor position: 336
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: print(col
+-> Cursor position: 338
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: f
+-> Cursor position: 253
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for c
+-> Cursor position: 257
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for col
+-> Cursor position: 259
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for col  i
+-> Cursor position: 262
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for col  in data
+-> Cursor position: 268
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: for col  in datab
+-> Cursor position: 269
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: d
+-> Cursor position: 219
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: i
+-> Cursor position: 219
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if d
+-> Cursor position: 222
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if dat
+-> Cursor position: 224
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if  N
+-> Cursor position: 223
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if  n
+-> Cursor position: 223
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if  database['sample3'] i
+-> Cursor position: 243
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if  database['sample3'] is N
+-> Cursor position: 246
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if  database['sample3'] is Non
+-> Cursor position: 248
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if  database['sample3'] is  n
+-> Cursor position: 247
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: if  database['sample4'] is  n
+-> Cursor position: 247
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: database['s
+-> Cursor position: 279
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: p
+-> Cursor position: 219
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: print(d
+-> Cursor position: 225
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.
+-> -*- Start provider -*-
+-> LinePrefix: print(databa
+-> Cursor position: 230
+-> Python binary is vscode setting custom path. Is valid? false - value: python
+-> Python completion list: ""
+-> List empty. Abort.

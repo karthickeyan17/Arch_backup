@@ -1,0 +1,40 @@
+2024-09-10 00:42:43.198 [info] Getting Manifest... ms-python.debugpy
+2024-09-10 00:42:43.237 [info] Getting Manifest... ms-python.python
+2024-09-10 00:42:43.264 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-09-10 00:42:45.549 [info] Installing extension: ms-toolsai.jupyter-renderers {"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json","path":"/home/karthi/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-10 00:42:45.691 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json","path":"/home/karthi/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-10 00:42:45.803 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json","path":"/home/karthi/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-10 00:42:46.899 [info] Getting Manifest... ms-python.python
+2024-09-10 00:42:48.245 [info] Waiting for already requested installing extension ms-python.python ms-python.debugpy vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json
+2024-09-10 00:43:34.929 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-09-10 00:43:34.932 [info] Extension signature verification is not done: ms-python.debugpy
+2024-09-10 00:43:40.194 [info] Extracted extension to file:///home/karthi/.vscode-oss/extensions/ms-python.debugpy-2024.11.0-dev-linux-x64: ms-python.debugpy
+2024-09-10 00:43:40.495 [info] Renamed to /home/karthi/.vscode-oss/extensions/ms-python.debugpy-2024.11.0-dev-linux-x64
+2024-09-10 00:43:40.939 [info] Marked extension as uninstalled ms-python.debugpy-2024.8.0-linux-x64
+2024-09-10 00:44:04.791 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-09-10 00:44:04.794 [info] Extension signature verification is not done: ms-toolsai.jupyter-renderers
+2024-09-10 00:44:07.722 [info] Extracted extension to file:///home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.19-universal: ms-toolsai.jupyter-renderers
+2024-09-10 00:44:07.869 [info] Renamed to /home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.19-universal
+2024-09-10 00:44:08.013 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/karthi/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/karthi/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)
+2024-09-10 00:44:08.017 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.18-universal
+2024-09-10 00:44:08.077 [info] Extension installed successfully: ms-toolsai.jupyter-renderers vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json
+2024-09-10 00:44:49.746 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-09-10 00:44:49.755 [info] Extension signature verification is not done: ms-python.python
+2024-09-10 00:45:05.577 [info] Extracted extension to file:///home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.0-universal: ms-python.python
+2024-09-10 00:45:05.956 [info] Renamed to /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.0-universal
+2024-09-10 00:45:06.690 [info] Marked extension as uninstalled ms-python.python-2024.12.3-universal
+2024-09-10 00:45:06.821 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json
+2024-09-10 00:45:06.822 [info] Finished waiting for already requested installing extension ms-python.python ms-python.debugpy vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json
+2024-09-10 00:45:06.823 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/karthi/.vscode-oss/extensions/extensions.json

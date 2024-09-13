@@ -1,0 +1,181 @@
+2024-08-27 19:24:26.030 [info] Started local extension host with pid 972.
+2024-08-27 19:24:31.773 [error] Extension 'luma.jupyter' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-27 19:24:31.776 [error] Extension 'luma.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-27 19:24:31.779 [error] Extension 'luma.jupyter' wants API proposal 'notebookDebugOptions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-27 19:24:31.780 [error] Extension 'luma.jupyter' wants API proposal 'notebookEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-27 19:24:31.781 [error] Extension 'luma.jupyter' wants API proposal 'notebookEditorDecorationType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-27 19:24:31.790 [error] Extension 'luma.jupyter' wants API proposal 'notebookEditorEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-27 19:24:31.790 [error] Extension 'luma.jupyter' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-08-27 19:24:31.797 [error] Extension 'luma.jupyter CANNOT USE these API proposals 'notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-27 19:24:31.798 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, contribIssueReporter, debugVisualization'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-27 19:24:31.803 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter, terminalShellIntegration'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-27 19:24:31.805 [error] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookDeprecated, notebookMessaging, notebookMime, contribNotebookStaticPreloads, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, quickPickItemTooltip, notebookExecution, notebookCellExecution, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-27 19:24:31.814 [error] Extension 'ms-toolsai.jupyter-renderers CANNOT USE these API proposals 'contribNotebookStaticPreloads'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-08-27 19:24:31.902 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.experiments.enabled'. This property is already registered.
+2024-08-27 19:24:31.906 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.showVariableViewWhenDebugging'. This property is already registered.
+2024-08-27 19:24:31.909 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.logging.level'. This property is already registered.
+2024-08-27 19:24:31.912 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.experiments.optInto'. This property is already registered.
+2024-08-27 19:24:31.914 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.experiments.optOutFrom'. This property is already registered.
+2024-08-27 19:24:31.915 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.widgetScriptSources'. This property is already registered.
+2024-08-27 19:24:31.920 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.askForLargeDataFrames'. This property is already registered.
+2024-08-27 19:24:31.921 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.askForKernelRestart'. This property is already registered.
+2024-08-27 19:24:31.922 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.exportWithOutputEnabled'. This property is already registered.
+2024-08-27 19:24:31.925 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.jupyterLaunchTimeout'. This property is already registered.
+2024-08-27 19:24:31.927 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.jupyterLaunchRetries'. This property is already registered.
+2024-08-27 19:24:31.928 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.jupyterCommandLineArguments'. This property is already registered.
+2024-08-27 19:24:31.932 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.notebookFileRoot'. This property is already registered.
+2024-08-27 19:24:31.933 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.useDefaultConfigForJupyter'. This property is already registered.
+2024-08-27 19:24:31.934 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.jupyterInterruptTimeout'. This property is already registered.
+2024-08-27 19:24:31.937 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.variableExplorerExclude'. This property is already registered.
+2024-08-27 19:24:31.938 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.themeMatplotlibPlots'. This property is already registered.
+2024-08-27 19:24:31.938 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.allowUnauthorizedRemoteConnection'. This property is already registered.
+2024-08-27 19:24:31.943 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.debugpyDistPath'. This property is already registered.
+2024-08-27 19:24:31.944 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.stopOnFirstLineWhileDebugging'. This property is already registered.
+2024-08-27 19:24:31.944 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.disableJupyterAutoStart'. This property is already registered.
+2024-08-27 19:24:31.945 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.pythonExportMethod'. This property is already registered.
+2024-08-27 19:24:31.949 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.runStartupCommands'. This property is already registered.
+2024-08-27 19:24:31.950 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.debugJustMyCode'. This property is already registered.
+2024-08-27 19:24:31.951 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.showOutlineButtonInNotebookToolbar'. This property is already registered.
+2024-08-27 19:24:31.951 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.pythonCompletionTriggerCharacters'. This property is already registered.
+2024-08-27 19:24:31.954 [warning] [ms-toolsai.jupyter]: Cannot register 'jupyter.logKernelOutputSeparately'. This property is already registered.
+2024-08-27 19:24:32.054 [info] [luma.jupyter]: Command `jupyter.selectNativeJupyterUriFromToolBar` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.057 [info] [ms-toolsai.jupyter]: Command `dataScience.ClearCache` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.058 [info] [ms-toolsai.jupyter]: Command `jupyter.replayPylanceLog` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.065 [info] [ms-toolsai.jupyter]: Command `jupyter.replayPylanceLogStep` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.066 [info] [ms-toolsai.jupyter]: Command `jupyter.filterKernels` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.067 [info] [ms-toolsai.jupyter]: Command `jupyter.runByLine` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.068 [info] [ms-toolsai.jupyter]: Command `jupyter.runAndDebugCell` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.068 [info] [ms-toolsai.jupyter]: Command `jupyter.runByLineNext` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.070 [info] [ms-toolsai.jupyter]: Command `jupyter.runByLineStop` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.071 [info] [ms-toolsai.jupyter]: Command `jupyter.viewOutput` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.072 [info] [ms-toolsai.jupyter]: Command `jupyter.notebookeditor.export` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.073 [info] [ms-toolsai.jupyter]: Command `jupyter.export` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.077 [info] [ms-toolsai.jupyter]: Command `jupyter.exportAsPythonScript` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.077 [info] [ms-toolsai.jupyter]: Command `jupyter.exportToHTML` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.078 [info] [ms-toolsai.jupyter]: Command `jupyter.exportToPDF` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.079 [info] [ms-toolsai.jupyter]: Command `jupyter.selectJupyterInterpreter` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.082 [info] [ms-toolsai.jupyter]: Command `jupyter.runcurrentcell` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.083 [info] [ms-toolsai.jupyter]: Command `jupyter.debugcell` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.084 [info] [ms-toolsai.jupyter]: Command `jupyter.debugstepover` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.085 [info] [ms-toolsai.jupyter]: Command `jupyter.debugstop` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.086 [info] [ms-toolsai.jupyter]: Command `jupyter.debugcontinue` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.086 [info] [ms-toolsai.jupyter]: Command `jupyter.insertCellBelowPosition` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.088 [info] [ms-toolsai.jupyter]: Command `jupyter.insertCellBelow` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.088 [info] [ms-toolsai.jupyter]: Command `jupyter.insertCellAbove` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.089 [info] [ms-toolsai.jupyter]: Command `jupyter.deleteCells` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.090 [info] [ms-toolsai.jupyter]: Command `jupyter.selectCell` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.091 [info] [ms-toolsai.jupyter]: Command `jupyter.selectCellContents` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.093 [info] [ms-toolsai.jupyter]: Command `jupyter.extendSelectionByCellAbove` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.094 [info] [ms-toolsai.jupyter]: Command `jupyter.extendSelectionByCellBelow` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.095 [info] [ms-toolsai.jupyter]: Command `jupyter.moveCellsUp` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.096 [info] [ms-toolsai.jupyter]: Command `jupyter.moveCellsDown` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.097 [info] [ms-toolsai.jupyter]: Command `jupyter.changeCellToMarkdown` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.099 [info] [ms-toolsai.jupyter]: Command `jupyter.changeCellToCode` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.100 [info] [ms-toolsai.jupyter]: Command `jupyter.gotoNextCellInFile` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.101 [info] [ms-toolsai.jupyter]: Command `jupyter.gotoPrevCellInFile` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.102 [info] [ms-toolsai.jupyter]: Command `jupyter.runcurrentcelladvance` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.104 [info] [ms-toolsai.jupyter]: Command `jupyter.runcurrentcellandallbelow.palette` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.105 [info] [ms-toolsai.jupyter]: Command `jupyter.runallcellsabove.palette` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.106 [info] [ms-toolsai.jupyter]: Command `jupyter.debugcurrentcell.palette` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.107 [info] [ms-toolsai.jupyter]: Command `jupyter.execSelectionInteractive` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.109 [info] [ms-toolsai.jupyter]: Command `jupyter.createnewinteractive` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.110 [info] [ms-toolsai.jupyter]: Command `jupyter.runFileInteractive` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.110 [info] [ms-toolsai.jupyter]: Command `jupyter.debugFileInteractive` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.111 [info] [ms-toolsai.jupyter]: Command `jupyter.runallcells` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.112 [info] [ms-toolsai.jupyter]: Command `jupyter.runallcellsabove` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.114 [info] [ms-toolsai.jupyter]: Command `jupyter.runcellandallbelow` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.117 [info] [ms-toolsai.jupyter]: Command `jupyter.runcell` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.118 [info] [ms-toolsai.jupyter]: Command `jupyter.runtoline` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.119 [info] [ms-toolsai.jupyter]: Command `jupyter.runfromline` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.120 [info] [ms-toolsai.jupyter]: Command `jupyter.importnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.122 [info] [ms-toolsai.jupyter]: Command `jupyter.importnotebookfile` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.123 [info] [ms-toolsai.jupyter]: Command `jupyter.exportoutputasnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.123 [info] [ms-toolsai.jupyter]: Command `jupyter.exportfileasnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.124 [info] [ms-toolsai.jupyter]: Command `jupyter.exportfileandoutputasnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.125 [info] [ms-toolsai.jupyter]: Command `jupyter.interruptkernel` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.126 [info] [ms-toolsai.jupyter]: Command `jupyter.restartkernel` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.128 [info] [ms-toolsai.jupyter]: Command `jupyter.notebookeditor.addcellbelow` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.129 [info] [ms-toolsai.jupyter]: Command `jupyter.notebookeditor.removeallcells` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.130 [info] [ms-toolsai.jupyter]: Command `jupyter.expandallcells` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.131 [info] [ms-toolsai.jupyter]: Command `jupyter.collapseallcells` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.135 [info] [ms-toolsai.jupyter]: Command `jupyter.addcellbelow` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.136 [info] [ms-toolsai.jupyter]: Command `jupyter.createnewnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.138 [info] [ms-toolsai.jupyter]: Command `jupyter.scrolltocell` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.141 [info] [ms-toolsai.jupyter]: Command `jupyter.latestExtension` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.143 [info] [ms-toolsai.jupyter]: Command `jupyter.showDataViewer` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.143 [info] [ms-toolsai.jupyter]: Command `jupyter.clearSavedJupyterUris` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.145 [info] [ms-toolsai.jupyter]: Command `jupyter.openVariableView` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.146 [info] [ms-toolsai.jupyter]: Command `jupyter.openOutlineView` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.146 [info] [ms-toolsai.jupyter]: Command `jupyter.refreshDataViewer` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.147 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.clearAllCells` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.148 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.goToCode` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.155 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.exportasnotebook` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.156 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.exportas` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.157 [info] [ms-toolsai.jupyter]: Command `jupyter.interactive.copyCell` already registered by Jupyter (luma.jupyter)
+2024-08-27 19:24:32.183 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-08-27 19:24:32.184 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-08-27 19:24:32.184 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-08-27 19:24:32.335 [error] [ms-toolsai.jupyter]: Cannot register multiple views with same id `jupyterViewVariables`
+2024-08-27 19:24:35.116 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-html
+2024-08-27 19:24:35.119 [error] [EricSia.pythonsnippets3]: Unknown language in `contributes.pythonsnippets3.language`. Provided value: django-txt
+2024-08-27 19:24:36.637 [error] spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python-env-tools/bin/pet ENOENT: Error: spawn /home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-08-27 19:24:40.448 [info] [perf] Render performance baseline is 436ms
+2024-08-27 19:24:40.907 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 114ms.
+2024-08-27 19:24:49.269 [info] Extension host (LocalProcess pid: 972) is unresponsive.
+2024-08-27 19:24:53.432 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-08-27 19:24:58.449 [info] Extension host (LocalProcess pid: 972) is responsive.
+2024-08-27 19:24:58.451 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-08-27 19:24:59.462 [warning] UNRESPONSIVE extension host: 'luma.jupyter' took 73.32006083218621% of 3679.491ms, saved PROFILE here: 'file:///tmp/exthost-2efb43.cpuprofile'
+2024-08-27 19:25:00.896 [error] [Extension Host] error 19:25:00.891: Jupyter Extension: Python extension is not exporting the jupyter API
+2024-08-27 19:25:01.032 [error] [Extension Host] error 19:25:01.029: Jupyter Extension: Error in activating extension, failed in hy Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookKernelSource.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookKernelSource.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.createNotebookControllerDetectionTask (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:48650)
+    at i (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:299:6231)
+    at hy.startRefreshWithPython (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:299:6454)
+    at hy.activate (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:299:4678)
+    at /home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:373:28858
+    at Array.map (<anonymous>)
+    at rI.activate (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:373:28844)
+    at SG (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:436:2062)
+    at Bfe (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:438:454)
+2024-08-27 19:25:01.046 [error] [Extension Host] error 19:25:01.039: Jupyter Extension: Error in activating extension, failed in zy Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookKernelSource.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookKernelSource.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:59143)
+    at Object.registerKernelSourceActionProvider (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:48785)
+    at zy.activate (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:304:115154)
+    at /home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:373:28858
+    at Array.map (<anonymous>)
+    at rI.activate (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:373:28844)
+    at SG (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:436:2062)
+    at Bfe (/home/karthi/.vscode-oss/extensions/ms-toolsai.jupyter-2024.7.0-universal/dist/extension.node.js:438:454)
+2024-08-27 19:25:01.870 [error] [Extension Host] extension activation failed TypeError: s.notebooks.onDidChangeCellMetadata is not a function
+    at u.onDidChangeCellMetadata [as addEventHandlers] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/common/application/notebook.ts:73:32)
+    at new addEventHandlers (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/common/application/notebook.ts:24:14)
+    at Object.t.resolveInstance (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/instantiation.js:21:12)
+    at resolveInstance (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:72:42)
+    at Array.map (<anonymous>)
+    at Object.map [as resolveInstance] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/instantiation.js:40:67)
+    at resolveInstance (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:72:42)
+    at _f (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:34:24)
+    at Array.map (<anonymous>)
+    at map (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:32:34)
+    at Array.map (<anonymous>)
+    at Object.map [as resolveInstance] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/instantiation.js:40:67)
+    at resolveInstance (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:72:42)
+    at Object._f [as resolve] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/resolution/resolver.js:96:12)
+    at resolve (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/container/container.js:319:37)
+    at e.this (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/container/container.js:310:22)
+    at e._get [as get] (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/node_modules/inversify/lib/container/container.js:230:21)
+    at a.get (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/ioc/container.ts:24:89)
+    at get (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/extensionActivation.ts:90:38)
+    at activationPromise (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/extension.ts:67:17)
+    at serviceContainer (/home/karthi/.vscode-oss/extensions/luma.jupyter-2022.3.108-universal/src/client/extension.ts:30:22)
+    at m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6409)
+    at m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:6372)
+    at m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:5829)

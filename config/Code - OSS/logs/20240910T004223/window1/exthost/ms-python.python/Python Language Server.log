@@ -1,0 +1,1013 @@
+2024-09-10 00:44:35.009 [info] [Error - 12:44:35 AM] Server process exited with signal SIGTERM.
+2024-09-10 00:47:36.950 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1"
+
+2024-09-10 00:47:38.441 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3"
+
+2024-09-10 00:47:38.525 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6"
+
+2024-09-10 00:47:39.622 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "10"
+
+2024-09-10 00:47:40.191 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "11"
+
+2024-09-10 00:47:40.316 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "12"
+
+2024-09-10 00:47:48.172 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "14"
+
+2024-09-10 00:47:48.178 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "13"
+
+2024-09-10 00:47:54.999 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "15"
+
+2024-09-10 00:47:55.068 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "16"
+
+2024-09-10 00:47:55.076 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "18"
+
+2024-09-10 00:47:55.085 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "17"
+
+2024-09-10 00:47:55.221 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "19"
+
+2024-09-10 00:47:55.352 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "20"
+
+2024-09-10 00:47:55.397 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "22"
+
+2024-09-10 00:47:55.473 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "23"
+
+2024-09-10 00:47:55.479 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "24"
+
+2024-09-10 00:47:55.998 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "25"
+
+2024-09-10 00:47:56.071 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "26"
+
+2024-09-10 00:47:58.932 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "27"
+WARNING:pygls.protocol:Cancel notification for unknown message id "28"
+WARNING:pygls.protocol:Cancel notification for unknown message id "29"
+WARNING:pygls.protocol:Cancel notification for unknown message id "30"
+WARNING:pygls.protocol:Cancel notification for unknown message id "31"
+WARNING:pygls.protocol:Cancel notification for unknown message id "32"
+
+2024-09-10 00:47:59.791 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "33"
+
+2024-09-10 00:47:59.795 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "34"
+
+2024-09-10 00:48:01.426 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "35"
+
+2024-09-10 00:48:01.444 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "21"
+
+2024-09-10 00:48:01.570 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "36"
+
+2024-09-10 00:48:01.712 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "38"
+
+2024-09-10 00:48:01.724 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "39"
+
+2024-09-10 00:48:02.032 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "40"
+
+2024-09-10 00:48:02.046 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "41"
+
+2024-09-10 00:50:19.161 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "42"
+WARNING:pygls.protocol:Cancel notification for unknown message id "43"
+
+2024-09-10 00:50:19.348 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "44"
+
+2024-09-10 00:50:19.442 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "45"
+
+2024-09-10 00:50:19.555 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "46"
+
+2024-09-10 00:50:19.576 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "47"
+
+2024-09-10 00:50:19.736 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "48"
+
+2024-09-10 00:50:19.799 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "49"
+
+2024-09-10 00:51:12.919 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "50"
+
+2024-09-10 00:51:12.922 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "51"
+
+2024-09-10 00:51:13.682 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "53"
+
+2024-09-10 00:51:14.361 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "54"
+
+2024-09-10 00:51:14.362 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "52"
+
+2024-09-10 00:51:15.077 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "57"
+
+2024-09-10 00:51:15.079 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "58"
+
+2024-09-10 00:51:15.080 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "56"
+
+2024-09-10 00:51:15.783 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "60"
+
+2024-09-10 00:51:15.786 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "61"
+
+2024-09-10 00:51:15.787 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "59"
+
+2024-09-10 00:51:16.673 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "62"
+
+2024-09-10 00:51:17.377 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "63"
+
+2024-09-10 00:51:17.381 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "66"
+
+2024-09-10 00:51:17.383 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "64"
+
+2024-09-10 00:51:17.384 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "65"
+
+2024-09-10 00:51:18.068 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "68"
+
+2024-09-10 00:51:18.072 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "55"
+
+2024-09-10 00:51:18.765 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "69"
+
+2024-09-10 00:51:18.767 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "67"
+
+2024-09-10 00:51:19.464 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "72"
+
+2024-09-10 00:51:19.466 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "73"
+
+2024-09-10 00:51:19.467 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "71"
+
+2024-09-10 00:51:20.175 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "74"
+
+2024-09-10 00:51:20.193 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "75"
+
+2024-09-10 00:51:20.199 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "78"
+
+2024-09-10 00:51:20.200 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "70"
+
+2024-09-10 00:51:21.289 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "76"
+
+2024-09-10 00:51:21.291 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "77"
+
+2024-09-10 00:51:21.313 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "81"
+
+2024-09-10 00:51:21.347 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "82"
+
+2024-09-10 00:51:21.357 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "80"
+
+2024-09-10 00:51:24.307 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "84"
+
+2024-09-10 00:51:24.340 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "85"
+
+2024-09-10 00:51:24.344 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "83"
+
+2024-09-10 00:51:24.353 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "86"
+
+2024-09-10 00:51:38.266 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "88"
+
+2024-09-10 00:51:38.272 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "89"
+
+2024-09-10 00:51:38.280 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "87"
+
+2024-09-10 00:51:39.547 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "90"
+
+2024-09-10 00:51:39.573 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "91"
+
+2024-09-10 00:51:39.580 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "94"
+
+2024-09-10 00:51:39.583 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "79"
+
+2024-09-10 00:51:39.587 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "92"
+
+2024-09-10 00:51:39.590 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "93"
+
+2024-09-10 00:51:39.657 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "96"
+
+2024-09-10 00:51:39.746 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "97"
+
+2024-09-10 00:51:39.749 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "95"
+
+2024-09-10 00:51:39.800 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "100"
+
+2024-09-10 00:51:39.804 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "99"
+
+2024-09-10 00:51:39.842 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "101"
+
+2024-09-10 00:51:39.880 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "102"
+
+2024-09-10 00:51:47.739 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "104"
+
+2024-09-10 00:51:47.740 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "105"
+
+2024-09-10 00:51:47.760 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "103"
+
+2024-09-10 00:51:47.811 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "107"
+
+2024-09-10 00:51:47.812 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "108"
+
+2024-09-10 00:51:47.817 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "106"
+
+2024-09-10 00:51:47.851 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "109"
+
+2024-09-10 00:51:47.909 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "111"
+
+2024-09-10 00:51:47.910 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "110"
+
+2024-09-10 00:51:50.589 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "113"
+WARNING:pygls.protocol:Cancel notification for unknown message id "114"
+
+2024-09-10 00:51:50.590 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "112"
+
+2024-09-10 00:52:13.822 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "115"
+
+2024-09-10 00:52:13.865 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "116"
+
+2024-09-10 00:52:14.087 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "98"
+
+2024-09-10 00:52:14.090 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "118"
+
+2024-09-10 00:52:18.989 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "119"
+
+2024-09-10 00:52:18.992 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "120"
+
+2024-09-10 00:52:18.993 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "121"
+
+2024-09-10 00:52:19.027 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "122"
+
+2024-09-10 00:52:19.030 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "123"
+
+2024-09-10 00:52:19.144 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "125"
+
+2024-09-10 00:52:19.190 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "124"
+
+2024-09-10 00:52:19.205 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "126"
+
+2024-09-10 00:52:21.639 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "127"
+
+2024-09-10 00:52:21.643 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "130"
+
+2024-09-10 00:52:21.645 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "128"
+
+2024-09-10 00:52:21.647 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "117"
+
+2024-09-10 00:52:21.652 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "129"
+
+2024-09-10 00:52:21.688 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "131"
+
+2024-09-10 00:52:21.755 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "133"
+
+2024-09-10 00:52:21.757 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "134"
+
+2024-09-10 00:52:21.758 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "132"
+
+2024-09-10 00:52:21.869 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "137"
+
+2024-09-10 00:52:21.871 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "135"
+
+2024-09-10 00:52:21.903 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "136"
+
+2024-09-10 00:52:21.905 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "139"
+
+2024-09-10 00:52:21.907 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "138"
+
+2024-09-10 00:52:25.138 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "140"
+
+2024-09-10 00:52:25.156 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "141"
+
+2024-09-10 00:52:25.160 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "144"
+
+2024-09-10 00:52:25.162 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "142"
+
+2024-09-10 00:52:25.162 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "143"
+
+2024-09-10 00:52:25.244 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "146"
+
+2024-09-10 00:52:25.443 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "147"
+
+2024-09-10 00:52:25.452 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "145"
+
+2024-09-10 00:52:25.542 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "149"
+
+2024-09-10 00:52:28.435 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "151"
+
+2024-09-10 00:52:28.444 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "152"
+
+2024-09-10 00:52:28.447 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "150"
+
+2024-09-10 00:52:28.532 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "154"
+
+2024-09-10 00:52:28.537 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "155"
+
+2024-09-10 00:52:28.543 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "153"
+
+2024-09-10 00:52:28.604 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "157"
+
+2024-09-10 00:52:28.610 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "156"
+
+2024-09-10 00:52:28.652 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "158"
+
+2024-09-10 00:52:28.690 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "159"
+
+2024-09-10 00:52:28.729 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "160"
+
+2024-09-10 00:52:28.879 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "161"
+
+2024-09-10 00:52:28.882 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "148"
+
+2024-09-10 00:52:28.966 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "162"
+
+2024-09-10 00:52:28.988 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "166"
+
+2024-09-10 00:54:17.749 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "175"
+
+2024-09-10 00:54:17.895 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "176"
+
+2024-09-10 00:54:18.044 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "177"
+
+2024-09-10 00:54:48.207 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "192"
+
+2024-09-10 00:54:48.216 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "193"
+
+2024-09-10 00:54:49.951 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "194"
+
+2024-09-10 00:54:49.955 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "195"
+
+2024-09-10 00:54:54.195 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "196"
+
+2024-09-10 00:54:58.138 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "197"
+
+2024-09-10 00:54:58.230 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "198"
+
+2024-09-10 00:54:58.332 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "199"
+
+2024-09-10 00:54:58.367 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "201"
+
+2024-09-10 00:54:58.422 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "202"
+
+2024-09-10 00:54:58.494 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "203"
+
+2024-09-10 00:54:58.501 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "204"
+
+2024-09-10 00:54:58.570 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "205"
+
+2024-09-10 00:54:58.613 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "206"
+
+2024-09-10 00:54:58.615 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "207"
+
+2024-09-10 00:54:58.665 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "208"
+
+2024-09-10 00:55:28.741 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "209"
+
+2024-09-10 00:55:28.746 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "210"
+
+2024-09-10 00:55:28.904 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "211"
+
+2024-09-10 00:55:28.908 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "212"
+
+2024-09-10 00:55:29.133 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "213"
+
+2024-09-10 00:55:29.143 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "214"
+
+2024-09-10 00:55:34.276 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "215"
+
+2024-09-10 00:55:34.356 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "216"
+
+2024-09-10 00:55:34.413 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "217"
+
+2024-09-10 00:55:36.210 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "218"
+
+2024-09-10 00:55:36.213 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "219"
+
+2024-09-10 00:55:36.372 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "221"
+
+2024-09-10 00:55:36.380 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "222"
+WARNING:pygls.protocol:Cancel notification for unknown message id "220"
+
+2024-09-10 00:55:36.481 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "224"
+WARNING:pygls.protocol:Cancel notification for unknown message id "225"
+WARNING:pygls.protocol:Cancel notification for unknown message id "223"
+
+2024-09-10 00:55:36.604 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "226"
+
+2024-09-10 00:55:36.766 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "227"
+
+2024-09-10 00:55:36.925 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "228"
+
+2024-09-10 00:55:42.148 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "230"
+
+2024-09-10 00:55:42.151 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "229"
+
+2024-09-10 00:55:42.322 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "231"
+
+2024-09-10 00:55:45.184 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "234"
+
+2024-09-10 00:55:46.661 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "235"
+
+2024-09-10 00:55:47.816 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "236"
+
+2024-09-10 00:55:47.820 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "237"
+
+2024-09-10 00:55:47.975 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "233"
+
+2024-09-10 00:55:47.978 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "232"
+
+2024-09-10 00:55:52.754 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "242"
+
+2024-09-10 00:55:52.772 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "243"
+
+2024-09-10 00:55:52.807 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "244"
+
+2024-09-10 00:55:55.435 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "240"
+WARNING:pygls.protocol:Cancel notification for unknown message id "239"
+WARNING:pygls.protocol:Cancel notification for unknown message id "238"
+
+2024-09-10 00:55:55.459 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "245"
+
+2024-09-10 00:55:55.478 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "246"
+
+2024-09-10 00:55:55.485 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "241"
+
+2024-09-10 00:55:55.641 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "247"
+
+2024-09-10 00:55:55.749 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "248"
+
+2024-09-10 00:55:55.839 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "250"
+
+2024-09-10 00:55:55.911 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "251"
+
+2024-09-10 00:55:55.953 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "253"
+
+2024-09-10 00:55:55.960 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "252"
+
+2024-09-10 00:55:55.988 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "249"
+
+2024-09-10 00:55:56.083 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "254"
+
+2024-09-10 00:55:56.117 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "257"
+
+2024-09-10 00:55:56.701 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "256"
+
+2024-09-10 00:55:56.707 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "259"
+
+2024-09-10 00:55:56.709 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "258"
+
+2024-09-10 00:55:56.712 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "255"
+
+2024-09-10 00:55:57.607 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "260"
+
+2024-09-10 00:55:57.609 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "261"
+
+2024-09-10 00:55:57.725 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "262"
+
+2024-09-10 00:55:57.758 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "264"
+
+2024-09-10 00:55:57.795 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "265"
+
+2024-09-10 00:55:57.804 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "266"
+
+2024-09-10 00:55:57.809 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "263"
+
+2024-09-10 00:55:57.983 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "267"
+
+2024-09-10 00:55:58.025 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "269"
+
+2024-09-10 00:55:58.028 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "270"
+
+2024-09-10 00:55:58.030 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "268"
+
+2024-09-10 00:55:58.092 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "271"
+
+2024-09-10 00:55:58.175 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "273"
+
+2024-09-10 00:55:58.225 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "274"
+
+2024-09-10 00:55:58.226 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "275"
+
+2024-09-10 00:55:58.295 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "276"
+
+2024-09-10 00:55:58.297 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "277"
+
+2024-09-10 00:55:58.396 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "278"
+
+2024-09-10 00:55:58.508 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "279"
+WARNING:pygls.protocol:Cancel notification for unknown message id "280"
+
+2024-09-10 00:56:01.672 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "281"
+
+2024-09-10 00:56:01.737 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "282"
+
+2024-09-10 00:56:04.461 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "283"
+
+2024-09-10 00:56:04.466 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "284"
+
+2024-09-10 00:56:04.529 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "285"
+
+2024-09-10 00:56:04.661 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "288"
+
+2024-09-10 00:56:06.277 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "289"
+
+2024-09-10 00:56:06.304 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "286"
+
+2024-09-10 00:56:07.558 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "291"
+
+2024-09-10 00:56:08.914 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "292"
+
+2024-09-10 00:56:11.915 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "290"
+
+2024-09-10 00:56:11.921 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "294"
+
+2024-09-10 00:56:11.926 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "293"
+
+2024-09-10 00:56:12.001 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "287"
+
+2024-09-10 00:56:23.796 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "296"
+
+2024-09-10 00:56:23.829 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "295"
+
+2024-09-10 00:56:25.244 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "298"
+
+2024-09-10 00:56:26.232 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "300"
+
+2024-09-10 00:56:26.312 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "299"
+WARNING:pygls.protocol:Cancel notification for unknown message id "301"
+WARNING:pygls.protocol:Cancel notification for unknown message id "302"
+WARNING:pygls.protocol:Cancel notification for unknown message id "297"
+
+2024-09-10 00:56:26.336 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "303"
+
+2024-09-10 00:56:26.401 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "304"
+
+2024-09-10 00:56:26.404 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "305"
+
+2024-09-10 00:56:26.452 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "307"
+
+2024-09-10 00:56:26.466 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "308"
+
+2024-09-10 00:56:26.529 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "310"
+
+2024-09-10 00:56:33.272 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "309"
+
+2024-09-10 00:56:33.308 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "311"
+
+2024-09-10 00:56:33.318 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "313"
+
+2024-09-10 00:56:33.352 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "312"
+
+2024-09-10 00:56:33.360 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "315"
+
+2024-09-10 00:56:33.368 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "314"
+
+2024-09-10 00:56:33.371 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "306"
+
+2024-09-10 00:56:33.465 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "316"
+
+2024-09-10 00:56:33.723 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "317"
+
+2024-09-10 00:56:33.858 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "319"
+
+2024-09-10 00:56:36.252 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "318"
+
+2024-09-10 00:56:36.255 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "322"
+
+2024-09-10 00:56:36.272 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "320"
+
+2024-09-10 00:56:36.278 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "323"
+
+2024-09-10 00:56:36.281 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "321"
+
+2024-09-10 00:56:36.354 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "324"
+
+2024-09-10 00:56:36.359 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "326"
+
+2024-09-10 00:56:36.362 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "325"
+
+2024-09-10 00:56:38.391 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "327"
+
+2024-09-10 00:56:38.394 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "328"
+
+2024-09-10 00:56:38.461 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "329"
+
+2024-09-10 00:56:38.464 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "330"
+
+2024-09-10 00:56:38.539 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "331"
+
+2024-09-10 00:56:38.622 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "334"
+
+2024-09-10 00:56:38.644 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "333"
+
+2024-09-10 00:56:44.918 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "342"
+
+2024-09-10 00:57:07.487 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "359"
+
+2024-09-10 00:57:14.156 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "365"
+
+2024-09-10 00:57:15.276 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "366"
+
+2024-09-10 00:57:15.296 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "367"
+
+2024-09-10 00:57:42.450 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "371"
+
+2024-09-10 00:57:42.462 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "372"
+
+2024-09-10 00:57:44.426 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "373"
+
+2024-09-10 00:57:46.631 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "374"
+
+2024-09-10 00:57:48.172 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "370"
+
+2024-09-10 00:57:48.178 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "376"
+
+2024-09-10 00:57:48.189 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "375"
+
+2024-09-10 00:57:52.454 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "380"
+
+2024-09-10 00:57:53.867 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "377"
+
+2024-09-10 00:57:53.876 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "381"
+
+2024-09-10 00:57:53.988 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "378"
+WARNING:pygls.protocol:Cancel notification for unknown message id "382"
+
+2024-09-10 00:58:02.298 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "383"
+
+2024-09-10 00:58:02.305 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "385"
+
+2024-09-10 00:58:02.309 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "384"
+
+2024-09-10 00:58:02.384 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "379"
+
+2024-09-10 00:58:05.760 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "387"
+
+2024-09-10 00:58:05.763 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "388"
+
+2024-09-10 00:58:06.800 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "386"
+
+2024-09-10 00:58:06.834 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "389"
+
+2024-09-10 00:58:06.855 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "392"
+
+2024-09-10 00:58:10.134 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "391"
+
+2024-09-10 00:58:11.261 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "395"
+
+2024-09-10 00:58:11.275 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "396"
+
+2024-09-10 00:58:12.291 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "393"
+
+2024-09-10 00:58:12.302 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "397"
+
+2024-09-10 00:58:13.316 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "394"
+
+2024-09-10 00:58:13.321 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "399"
+
+2024-09-10 00:58:13.325 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "398"
+
+2024-09-10 00:58:13.401 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "390"
+
+2024-09-10 00:58:16.447 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "401"
+
+2024-09-10 00:58:16.452 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "402"
+
+2024-09-10 00:58:19.423 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "403"
+
+2024-09-10 00:58:19.427 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "404"
+
+2024-09-10 00:58:22.289 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "405"
+
+2024-09-10 00:58:22.291 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "406"
+
+2024-09-10 00:58:23.247 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "407"
+
+2024-09-10 00:58:23.250 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "408"
+
+2024-09-10 00:58:24.267 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "410"
+
+2024-09-10 00:58:24.270 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "411"
+
+2024-09-10 00:58:24.271 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "409"
+
+2024-09-10 00:58:26.290 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "415"
+
+2024-09-10 00:58:27.504 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "416"
+
+2024-09-10 00:58:27.510 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "413"
+
+2024-09-10 00:58:27.515 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "414"
+
+2024-09-10 00:58:27.521 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "412"
+
+2024-09-10 00:58:28.434 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "417"
+
+2024-09-10 00:58:28.452 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "418"
+
+2024-09-10 00:58:28.463 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "421"
+
+2024-09-10 00:58:28.469 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "419"
+
+2024-09-10 00:58:28.472 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "420"
+
+2024-09-10 00:59:34.159 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "425"
+
+2024-09-10 00:59:34.203 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "426"
+
+2024-09-10 00:59:38.092 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "427"
+
+2024-09-10 00:59:38.251 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "429"
+
+2024-09-10 00:59:38.377 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "422"
+
+2024-09-10 00:59:38.387 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "428"
+
+2024-09-10 00:59:38.395 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "430"
+
+2024-09-10 00:59:44.097 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "423"
+
+2024-09-10 00:59:44.104 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "432"
+
+2024-09-10 00:59:44.108 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "431"
+
+2024-09-10 00:59:44.112 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "424"
+
+2024-09-10 00:59:44.215 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "433"
+
+2024-09-10 00:59:44.344 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "434"
+
+2024-09-10 00:59:44.472 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "436"
+
+2024-09-10 00:59:44.476 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "437"
+
+2024-09-10 00:59:50.782 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "440"
+
+2024-09-10 00:59:51.818 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "441"
+
+2024-09-10 00:59:52.604 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "442"
+
+2024-09-10 00:59:53.365 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "443"
+
+2024-09-10 00:59:53.434 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "444"
+
+2024-09-10 00:59:54.340 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "445"
+
+2024-09-10 00:59:54.348 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "446"
+
+2024-09-10 00:59:54.354 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "447"
+
+2024-09-10 00:59:54.366 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "448"
+
+2024-09-10 00:59:54.392 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "435"
+
+2024-09-10 00:59:54.394 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "449"
+
+2024-09-10 00:59:56.804 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "438"
+
+2024-09-10 00:59:56.810 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "451"
+
+2024-09-10 00:59:56.812 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "450"
+
+2024-09-10 00:59:56.816 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "439"
+
+2024-09-10 00:59:56.872 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "452"
+
+2024-09-10 00:59:57.845 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "453"
+
+2024-09-10 00:59:57.879 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "455"
+
+2024-09-10 01:00:13.123 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "456"
+
+2024-09-10 01:00:13.128 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "457"
+
+2024-09-10 01:00:16.507 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "458"
+
+2024-09-10 01:00:16.526 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "459"
+
+2024-09-10 01:00:22.011 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "454"
+
+2024-09-10 01:00:22.064 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "463"
+
+2024-09-10 01:00:22.098 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "462"
+
+2024-09-10 01:00:22.111 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "460"
+
+2024-09-10 01:00:22.117 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "464"
+
+2024-09-10 01:00:22.234 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "461"
+
+2024-09-10 01:00:24.893 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "465"
+
+2024-09-10 01:00:24.895 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "468"
+
+2024-09-10 01:00:28.321 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "466"
+
+2024-09-10 01:00:28.328 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "470"
+
+2024-09-10 01:00:28.331 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "469"
+
+2024-09-10 01:00:29.697 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "467"
+
+2024-09-10 01:00:32.851 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "471"
+
+2024-09-10 01:08:20.399 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "475"
+
+2024-09-10 01:08:30.423 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "487"
+
+2024-09-10 01:08:32.435 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "489"
+
+2024-09-10 01:08:32.483 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "490"
+
+2024-09-10 01:08:32.564 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "491"
+
+2024-09-10 01:08:32.566 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "488"
+
+2024-09-10 01:08:38.131 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "492"
+
+2024-09-10 01:08:38.178 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "494"
+
+2024-09-10 01:08:38.181 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "495"
+
+2024-09-10 01:08:38.250 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "496"
+
+2024-09-10 01:08:53.387 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "497"
+WARNING:pygls.protocol:Cancel notification for unknown message id "498"
+
+2024-09-10 01:08:58.435 [info] ERROR:pygls.protocol:Failed to handle request 499 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/karthi/project/Dictionary_API/app.py'), range=39:23-39:23, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 558, in code_action
+    inline_refactoring = jedi_script.inline(*jedi_lines)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/api/__init__.py", line 697, in inline
+    names = [d._name for d in self.get_references(line, column, include_builtins=True)]
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/api/__init__.py", line 429, in get_references
+    return _references(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/api/__init__.py", line 423, in _references
+    names = find_references(self._get_module_context(), tree_name, scope == 'file')
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/references.py", line 147, in find_references
+    new = _dictionarize(_find_names(module_context, name_leaf))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/references.py", line 74, in _find_names
+    found_names = set(name.goto())
+                      ^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/names.py", line 206, in goto
+    return values.goto(name, name_context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/base_value.py", line 493, in goto
+    return reduce(add, [c.goto(*args, **kwargs) for c in self._set], [])
+                        ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/base_value.py", line 72, in goto
+    names = finder.filter_name(filters, name_or_str)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/finder.py", line 35, in filter_name
+    for filter in filters:
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/base_value.py", line 62, in _get_value_filters
+    yield from self.get_filters(origin_scope=origin_scope)
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/value/instance.py", line 205, in get_filters
+    class_value = self.get_annotated_class_object()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/value/instance.py", line 348, in get_annotated_class_object
+    return self._get_annotated_class_object() or self.class_value
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/value/instance.py", line 338, in _get_annotated_class_object
+    type_var_dict = infer_type_vars_for_execution(bound_method, args, all_annotations)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/gradual/annotation.py", line 288, in infer_type_vars_for_execution
+    annotation_variables = find_unknown_type_vars(context, annotation_node)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/gradual/annotation.py", line 455, in find_unknown_type_vars
+    check_node(node)
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/gradual/annotation.py", line 452, in check_node
+    found[:] = _filter_type_vars(context.infer_node(node), found)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 224, in infer_node
+    return infer_node(self, node)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 157, in infer_node
+    return _infer_node_if_inferred(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 170, in _infer_node_if_inferred
+    return _infer_node_cached(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 175, in _infer_node_cached
+    return _infer_node(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper
+    return func(context, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 255, in _infer_node
+    return infer_or_test(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 461, in infer_or_test
+    types = context.infer_node(next(iterator))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 224, in infer_node
+    return infer_node(self, node)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 157, in infer_node
+    return _infer_node_if_inferred(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 170, in _infer_node_if_inferred
+    return _infer_node_cached(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 175, in _infer_node_cached
+    return _infer_node(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper
+    return func(context, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 198, in _infer_node
+    value_set = context.infer_node(first_child)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 224, in infer_node
+    return infer_node(self, node)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 157, in infer_node
+    return _infer_node_if_inferred(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 170, in _infer_node_if_inferred
+    return _infer_node_cached(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 175, in _infer_node_cached
+    return _infer_node(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper
+    return func(context, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 185, in _infer_node
+    return infer_atom(context, element)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 305, in infer_atom
+    return context.py__getattribute__(atom, position=position)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 45, in py__getattribute__
+    names = self.goto(name_or_str, position)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 34, in goto
+    names = finder.filter_name(filters, name_or_str)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/finder.py", line 35, in filter_name
+    for filter in filters:
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 486, in get_global_filters
+    yield from context.get_filters(
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 366, in get_filters
+    yield self.get_global_filter(until_position, origin_scope)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 369, in get_global_filter
+    return ParserTreeFilter(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/filters.py", line 138, in __init__
+    super().__init__(parent_context, node_context)
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/filters.py", line 100, in __init__
+    self._parso_cache_node = get_parso_cache_node(
+                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/parser_utils.py", line 287, in get_parso_cache_node
+    return parser_cache[grammar._hashed][path]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+KeyError: PosixPath('/home/karthi/project/Dictionary_API/.myenv/lib/python3.12/site-packages/streamlit/proto/Element_pb2.pyi')
+
+2024-09-10 01:08:58.540 [info] [Error - 1:08:58 AM] Request textDocument/codeAction failed.
+2024-09-10 01:08:58.540 [info]   Message: KeyError: PosixPath('/home/karthi/project/Dictionary_API/.myenv/lib/python3.12/site-packages/streamlit/proto/Element_pb2.pyi')
+  Code: -32602 
+{'traceback': ['  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 558, in code_action\n    inline_refactoring = jedi_script.inline(*jedi_lines)\n                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/api/__init__.py", line 697, in inline\n    names = [d._name for d in self.get_references(line, column, include_builtins=True)]\n                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/api/__init__.py", line 429, in get_references\n    return _references(**kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/api/__init__.py", line 423, in _references\n    names = find_references(self._get_module_context(), tree_name, scope == \'file\')\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/references.py", line 147, in find_references\n    new = _dictionarize(_find_names(module_context, name_leaf))\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/references.py", line 74, in _find_names\n    found_names = set(name.goto())\n                      ^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/names.py", line 206, in goto\n    return values.goto(name, name_context=context)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/base_value.py", line 493, in goto\n    return reduce(add, [c.goto(*args, **kwargs) for c in self._set], [])\n                        ^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/base_value.py", line 72, in goto\n    names = finder.filter_name(filters, name_or_str)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/finder.py", line 35, in filter_name\n    for filter in filters:\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/base_value.py", line 62, in _get_value_filters\n    yield from self.get_filters(origin_scope=origin_scope)\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/value/instance.py", line 205, in get_filters\n    class_value = self.get_annotated_class_object()\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/value/instance.py", line 348, in get_annotated_class_object\n    return self._get_annotated_class_object() or self.class_value\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper\n    rv = function(obj, *args, **kwargs)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/value/instance.py", line 338, in _get_annotated_class_object\n    type_var_dict = infer_type_vars_for_execution(bound_method, args, all_annotations)\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/gradual/annotation.py", line 288, in infer_type_vars_for_execution\n    annotation_variables = find_unknown_type_vars(context, annotation_node)\n                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/gradual/annotation.py", line 455, in find_unknown_type_vars\n    check_node(node)\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/gradual/annotation.py", line 452, in check_node\n    found[:] = _filter_type_vars(context.infer_node(node), found)\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 224, in infer_node\n    return infer_node(self, node)\n           ^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 157, in infer_node\n    return _infer_node_if_inferred(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 170, in _infer_node_if_inferred\n    return _infer_node_cached(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper\n    rv = function(obj, *args, **kwargs)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 175, in _infer_node_cached\n    return _infer_node(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper\n    return func(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper\n    return func(context, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 255, in _infer_node\n    return infer_or_test(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 461, in infer_or_test\n    types = context.infer_node(next(iterator))\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 224, in infer_node\n    return infer_node(self, node)\n           ^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 157, in infer_node\n    return _infer_node_if_inferred(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 170, in _infer_node_if_inferred\n    return _infer_node_cached(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper\n    rv = function(obj, *args, **kwargs)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 175, in _infer_node_cached\n    return _infer_node(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper\n    return func(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper\n    return func(context, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 198, in _infer_node\n    value_set = context.infer_node(first_child)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 224, in infer_node\n    return infer_node(self, node)\n           ^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 157, in infer_node\n    return _infer_node_if_inferred(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 170, in _infer_node_if_inferred\n    return _infer_node_cached(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper\n    rv = function(obj, *args, **kwargs)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 175, in _infer_node_cached\n    return _infer_node(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper\n    return func(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper\n    return func(context, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 185, in _infer_node\n    return infer_atom(context, element)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 305, in infer_atom\n    return context.py__getattribute__(atom, position=position)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 45, in py__getattribute__\n    names = self.goto(name_or_str, position)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 34, in goto\n    names = finder.filter_name(filters, name_or_str)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/finder.py", line 35, in filter_name\n    for filter in filters:\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 486, in get_global_filters\n    yield from context.get_filters(\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 366, in get_filters\n    yield self.get_global_filter(until_position, origin_scope)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/context.py", line 369, in get_global_filter\n    return ParserTreeFilter(\n           ^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/filters.py", line 138, in __init__\n    super().__init__(parent_context, node_context)\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/inference/filters.py", line 100, in __init__\n    self._parso_cache_node = get_parso_cache_node(\n                             ^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/karthi/.vscode-oss/extensions/ms-python.python-2024.12.3-universal/python_files/lib/jedilsp/jedi/parser_utils.py", line 287, in get_parso_cache_node\n    return parser_cache[grammar._hashed][path]\n           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\n']}
+2024-09-10 01:08:58.566 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "499"
+
+2024-09-10 01:08:58.575 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "500"
+
+2024-09-10 01:09:11.814 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "502"
+
+2024-09-10 01:09:12.496 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "503"
+
+2024-09-10 01:09:12.499 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "501"
+
+2024-09-10 01:09:13.745 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "506"
+
+2024-09-10 01:09:13.747 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "507"
+
+2024-09-10 01:09:13.749 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "505"
+
+2024-09-10 01:09:15.305 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "508"
+
+2024-09-10 01:09:16.852 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "509"
+
+2024-09-10 01:09:17.875 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "504"
+WARNING:pygls.protocol:Cancel notification for unknown message id "510"
+
+2024-09-10 01:09:17.898 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "511"
+

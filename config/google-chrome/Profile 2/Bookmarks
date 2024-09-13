@@ -1,0 +1,174 @@
+{
+   "checksum": "a710257db52fb9da5ef50a5df766bf4c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13338574169991211",
+            "date_last_used": "13341573166200850",
+            "guid": "58285fac-7e12-49bf-b80f-c648e3d5fc5d",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13339604250168511",
+            "date_last_used": "13358802116972320",
+            "guid": "2052d847-cfca-4c6b-ae8b-f083c2684367",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "colab.google",
+            "type": "url",
+            "url": "https://colab.google/"
+         }, {
+            "date_added": "13339604286034960",
+            "date_last_used": "13370611984334688",
+            "guid": "1af0c38f-60fd-46a9-a2a0-db0b26c1427b",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "karthickeyan17 (Karthickeyan S) · GitHub",
+            "type": "url",
+            "url": "https://github.com/karthickeyan17"
+         }, {
+            "date_added": "13340124643385965",
+            "date_last_used": "13349518696461076",
+            "guid": "9fff6edf-7edb-4dca-b132-aa5c66d98cc5",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Problems - LeetCode",
+            "type": "url",
+            "url": "https://leetcode.com/problemset/all/"
+         }, {
+            "date_added": "13341434712250035",
+            "date_last_used": "13348000794863851",
+            "guid": "62165e4c-f67d-4a02-9bfc-99503d44fdfa",
+            "id": "11",
+            "name": "https://leetcode.com/skarthickeyan707/",
+            "type": "url",
+            "url": "https://leetcode.com/skarthickeyan707/"
+         }, {
+            "date_added": "13341591137392898",
+            "date_last_used": "13342424820034861",
+            "guid": "0b3e4059-2262-46fb-bd56-0dd3b22162f0",
+            "id": "12",
+            "name": "https://www.hackerrank.com/skarthickeyan707",
+            "type": "url",
+            "url": "https://www.hackerrank.com/skarthickeyan707"
+         }, {
+            "date_added": "13348643842413519",
+            "date_last_used": "0",
+            "guid": "4aac26b5-a429-45b9-843e-a41931b02843",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Problem - 610A - Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/problemset/problem/610/A"
+         }, {
+            "date_added": "13352177331016686",
+            "date_last_used": "0",
+            "guid": "7e492d70-9758-4531-8b9e-ec226cd8e147",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Typing Lessons - Learn To Type And Improve Typing Speed Free - Typing.com",
+            "type": "url",
+            "url": "https://www.typing.com/student/lessons"
+         }, {
+            "date_added": "13354436255089678",
+            "date_last_used": "0",
+            "guid": "df39c3bd-d829-44d1-a815-167dbb75961e",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "trainingtrains_products/ at main · trainingtrains/trainingtrains_products",
+            "type": "url",
+            "url": "https://github.com/trainingtrains/trainingtrains_products?files=1"
+         }, {
+            "date_added": "13357419704160476",
+            "date_last_used": "0",
+            "guid": "890cecdb-fe13-4c25-897b-3bd872c3c70b",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Apply to Elite US Remote Developer Jobs - Turing",
+            "type": "url",
+            "url": "https://developers.turing.com/dashboard/home"
+         }, {
+            "date_added": "13363266762006791",
+            "date_last_used": "0",
+            "guid": "0c00430f-6278-44ba-b2ab-b703f1690be5",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         } ],
+         "date_added": "13370547655137778",
+         "date_last_used": "0",
+         "date_modified": "13363266762006791",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13339611766485992",
+            "date_last_used": "0",
+            "guid": "e6c1f42d-4dd1-4c75-a7e5-1a9c93b8709d",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13340723937450877",
+            "date_last_used": "0",
+            "guid": "d07940ee-8d12-4e00-8b2f-426782ac8e18",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Online Python Compiler - online editor",
+            "type": "url",
+            "url": "https://www.onlinegdb.com/online_python_compiler"
+         } ],
+         "date_added": "13370547655137784",
+         "date_last_used": "0",
+         "date_modified": "13340723937450877",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13370547655137787",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCUFHYurpIQYAEUFHYurpIQYAKUZ2YurpIQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJAJRl5ekhBgARAJRl5ekhBgApOE9i6ukhBgAwgKiWq569iAMSACoYOUFVY1M0eEVxUkN3KzJtZzRiMHVhdz09SAMS7QEIDxLoAQocZ3lEdUlIcTFuUmZWcGRNd2E2Q3BCTkN3eUFBPRJmWjpBRHF0QVp4dHRLYVgxZTBkeDFFVnU0YjJiQ3NXaU1IQ1BtdjFtSmxhaURqd1hYUENFa1VLb1licjFaRGlPS1c5SEtiUTVEM0hCY3FOYWxxaDViUWoxTkNlY0pKcEtZdFVwZz09GAAgACgAMNrura6/mogDOPTq3Y3iMUD06t2N4jFKHHUxNXQyaTltbnNINGtlWEJ0bHQ1Vi9WSkhaTT1aICIe//pYYTVUanFmZXVRV3pUeDBFSzVvcGZBSTFBMUE9ZcjzP7sS7QEIDBLoAQocd1BLekJrU21rS1Rhd09tZWRYc1Zkd1VSd3FnPRJmWjpBRHF0QVp4dHRLYVgxZTBkeDFFVnU0YjJiQ3NXVzhaWTl1RnFnOCtudDNuWVI1L0NTVE1vY2tXemdieis5U1BLRC9YVE9VZFEzTFpGM1RXdTVvYkt5WmZvNXlrWUNpNzJsdz09GAAgACgAMI+Fu6SU1YYDOPSI2qCyMUD0iNqgsjFKHGR2SC9NZGdld2xQNnY2d3lYT1RzVGx6cnpIUT1aICIe/6VCbWxnMmxLd3ZhbkhETVk3M1pRWkdxTHpUQWs9ZS0B98AS7AEIBxLnAQocanlFeUkwb002ZS9IOTVhUHQrQWFxdlJuU013PRJmWjpBRHF0QVp4dHRLYVgxZTBkeDFFVnU0YjJiQ3NXdGRUUXlTbStrYzdITnNXYmhpdm80SjZzNThNdkNzWENDM0RRWWlIdXJKa2twR0p3WnJWc20yOFBqajdNTXpjYTEvdDIvZz09GAAgACgAMNCxmLLcoIcDOIf/jIKnMUCH/4yCpzFKHExLakY3TkF2WUI0TG5LazNhL2NrLzRGcWs4Zz1aHyId2lVtS1dHVkxmeFlrRFJQYjYydWM1Z094SnNnND1lwArtWBLtAQgNEugBChxGRzJZd1lkQS85Y2FRM3N2OEh2RFJqRktyenM9EmZaOkFEcXRBWnh0dEthWDFlMGR4MUVWdTRiMmJDc1c0cUJJd3F4cklnaWJYUzNaemVBeUZNRUt4cmJITHo1Zy9OWSthaXhQajFKbitocW1scm00NHBJYWJDVDRRdlhtdEpCTjRnPT0YACAAKAAwj4W7pJTVhgM474LZw8wxQO+C2cPMMUocVzQ4b3BBcnQxU3liMzYrVWFsMjFpaHJXNDA0PVogIh7/6WxDeG9FdkI0T1c2eUFpT0ZiZFg0WHlhMEx2az1l+aC1AhKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlsZXExS2tNSWhjSkptcTZsT3gyVXBLajllaUswQnVWZ0tnTklnVWw1YWxiVWZZRks1WTNSOU1Vb2dCNUFsSHdla00wSU4YACAAKAAw4dftrOW6iAM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgIEucBChx6MmhUYi9oOE1Uc0NyY3BYSkNEN2lQZHFyRGs9EmZaOkFEcXRBWnh0dEthWDFlMGR4MUVWdTRiMmJDc1dCNlI5SHJEZEdHR3FrWERxeEpPK1BUZ1ZWZVpCN1VwblppMU1WT2pkaGpURVF6VHBBaWRJSld6S2ZNdVZtUW80eEZBSXF3PT0YACAAKAAwj4W7pJTVhgM4uYyk7aoxQLmMpO2qMUocMTFLWXZWTENqYVVHTy91bFlGTXdxQXZMdERnPVofIh3tU3EwcytCOTlweXlNTUhMWjMxZjcvazBuNmtrPWXFTzCDEu0BCBES6AEKHERQOEprM2pEK0YzVVhJU1FTb29GVlRmeHYvWT0SZlo6QURxdEFaeHR0S2FYMWUwZHgxRVZ1NGIyYkNzV1FsSnFISlI0cXpBRlo5RlZiRnVXdkNaeld2T1k3R1NlMmMrcE5NNEE5V0VnSmxuSkFEellVcW9aN1E0Snh2bEdlUTNUb1E9PRgAIAAoADCUypnCu+eGAziXmrmAgzJAl5q5gIMyShwwWDNwUmxKeGF5dEdFZWNnZ3JVSldNTmdIZDg9WiAiHv/+dXV0bHF2b1VMNnlWQmhLQ2Vya2hTSWxUaWFzPWUAAAAAEu0BCBAS6AEKHE16SFYyd0grbTZoOEtqMnV1NlBmTnprKzBmcz0SZlo6QURxdEFaeHR0S2FYMWUwZHgxRVZ1NGIyYkNzV1FpV3ZHNVdRL3g1WDk2T3FtMTZleWpmdFhtdVQzcnUvU05FZmJoRVZJNCtjdGNJS1QyR2Fnc2hzSkx3dVBDbjJRM25YQUE9PRgAIAAoADCPhbuklNWGAzjhjq2c7TFA4Y6tnO0xShxua3ZIVmNWcDJLTENPWU9zcEQ4eU9yVlpEbVk9WiAiHv/9NjFFY1hwZTNzelJxUWZJaWY2SkQya1ZBaFBJPWUZkZAlEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaenhZL2xQb3VVWHV1QnB5QkFlblBUL0tWUEtBNzhLSDJRTkhIRXJ3OVBZZUcvK1dibk5JSGphRXZDL0c0K0NBcFdadlIxSHZjUlF1d3hNYlVNaFl2Z2ZVY3lqNXc9PRgAIAAoADDh1+2s5bqIAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCAoS5wEKHElkU0xpR3JUdnY1YVJYd3BmaFZxSzZuUUtNdz0SZlo6QURxdEFaeHR0S2FYMWUwZHgxRVZ1NGIyYkNzV1p5dzVlcG5KK250VUpxTGJadjU5Umg0ZW44RklZUjlzUEJtdWQvVzhXOElDSTFXVUVVcjUxd2FPL25Oelk1ZnpvYUJBWVE9PRgAIAAoADCPhbuklNWGAzi8sLblrDFAvLC25awxShw2OE1vZWVqR29BL3E0cUlsQWRJalRCVDdqYjQ9Wh8iHf1SVzRZeTBEaG52ZHNMOEFSMUxYdnlseW5mUDg9ZaYnPdsS7AEICRLnAQocaWttK1FKSkJMUW45czBEQUlYNHFOYTdwbUpVPRJmWjpBRHF0QVp4dHRLYVgxZTBkeDFFVnU0YjJiQ3NXNHUvNWpIdEVVUm9GMVVnbnViWHdDam1yVmpFc2pEWFYvblRHZkhyK2o2Y3h5R3prekNvSDRERG9sdGRoaTE4WjMyUHc5UT09GAAgACgAMNrura6/mogDONWkpu2qMUDVpKbtqjFKHFRYY3d3aWJZcUoxWkdnUHVVUWJLMVp1VS9jcz1aHyId9koxZ1FoSC8rbytmdzhHeG8xS0lNQWtGTEVzTT1lyPM/uxLtAQgOEugBChxaSmFQWDVHWE5RWTlOKzM4a0VMUkMzKzZyb1U9EmZaOkFEcXRBWnh0dEthWDFlMGR4MUVWdTRiMmJDc1c5ZU1IbTNRTmM2dS9sZW1TbUU4TGdpd0xtYlhneStaYzF0alFZSGo4OXhjd3o4eGhNK2R4Qmt4MEYwQTAyU3FTc3dFUWhBPT0YACAAKAAwj4W7pJTVhgM4y4bM2NkxQMuGzNjZMUocWDFseTY4T0VEMitsZ1NCelljSVNHWURrN3dVPVogIh7/9FlhOTBaZGpQWSs3T0lnbkUrMnhjL1lIMTRIST1lv1M4MBLsAQgGEucBChxWTExnWks5Nmgwb2JYNnBXbjlhRHJOeTFnWHc9EmZaOkFEcXRBWnh0dEthWDFlMGR4MUVWdTRiMmJDc1dOZmN1Zlk0N01FdTBHTUw3MjFkbm4wNVBEUlFySk1zSFZCMXlhQTVocnA2Wng2cUdXZFc3ZzVreTNueVprd1l0eHVpSUhnPT0YACAAKAAwqYDuj9ykhAM4q7GYg68xQKuxmIOvMUocbUU3MGF3MlAxZ3phcHhEeDJLeE83QnJ3R1ZFPVofIh22a1pmL0w3QzliVEprZHhpak9LaGhIMDc0YlpnPWVnJW3iEuwBCAsS5wEKHFZRRzlrczRqd1ptcTdDL1ZDZjlCWFZpdjkvST0SZlo6QURxdEFaeHR0S2FYMWUwZHgxRVZ1NGIyYkNzV2c1dTc1T1JDdmswRnNyOThxanNYdE0zbGloYkYvMnNlQlpDeE83Vm5YbWN3ZUNWL3ozREFOTFZQQzc2QkZoU0tOU3laWXc9PRgAIAAoADCPhbuklNWGAzi80Y7WsTFAvNGO1rExShxPZ0dMc2FvTEhwQ011NE5DM3NMTXkxSGE3dTg9Wh8iHf9LSGxLbXQvai84L3NKd2FFaDZ2TjhwMlpTNVk9ZaYnPdsS6wEIBRLmAQocNE5icmZycitRUUVVemVUZVdyK1kwWDdOclpvPRJmWjpBRHF0QVp4dHRLYVgxZTBkeDFFVnU0YjJiQ3NXU1RzTDExQjVBVTRlRFBUMUtvTWdTaVNHYjFTYk94aVFYRkduQi8za0t0QWlXTXl3dHRDWnhHeXZIRzNEcW9oY1d0ZWYwUT09GAAgACgAMKzRo+Xz+oEDONbt7vCqMUDW7e7wqjFKHHNjQUNsKzlGeHR4SWZYbUh5K2p1MnZEcitWRT1aHiIcZ0pRbUxjcWk2SkNFOWpWajdZYURlZWtlbXhnPWU4+TkzEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFadzUrNXVVeTI1VmZwd3VES2Z5UUFteDlGbGNsTmNLclQydGNoc2hWREJpUGNxTXdoV05JWStMSUZ2YitSNnJJdlQ5WXhOODFUYzVLV0l1MUNLUFRRQm1OMzk0bkE9PRgAIAAoADDh1+2s5bqIAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

@@ -1,0 +1,48 @@
+{
+   "checksum": "719d5fe2b500a4e0d65892801a3f57ee",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13370547836287049",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13370613651393044",
+            "date_last_used": "0",
+            "guid": "529266b8-0485-49ee-ae59-a3e433386812",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "dotfiles/config/polybar/config at master · reedrw/dotfiles · GitHub",
+            "type": "url",
+            "url": "https://github.com/reedrw/dotfiles/blob/master/config/polybar/config"
+         } ],
+         "date_added": "13370547836287055",
+         "date_last_used": "0",
+         "date_modified": "13370613651393044",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13370547836287059",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCfFXcgrlIQYAEfFXcgrlIQYAKXwfcwrlIQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJAIlGBeUhBgARAIlGBeUhBgApr2NyCuUhBgAwgJKaqtC8iAMSACoYUFBLZ3pTL3ZQbnE4V1l5YVVIenlJdz09SAMS6wEIBRLmAQoccVdLSDkrbk1abGR4SzFIQ3JvRGNxZ0xlMW9BPRJmWjpBRHF0QVp4WEZHQW5qNmZyMEpiQTAvQWxwR0pVM21TQnZEdnFwQXdhanBnQW9HNFlSdXVUaW9TMUNDNFpWTzIrV1ZrUE5idkxiZklOcnhFbzNWVnBJNVR3bUtWZTVORGp0dz09GAAgAigCMJ7y7YLbvIgDOMHf26+eMkDP4NuvnjJKHEh6Q2VKS093cEpCTUNielZ5cytBRWl0SVBlUT1aHiIcT0ZpYXpDVStleitlV2ZqcVJrUjNqTmFZYnpNPWXI8z+7EsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeHRWMWJTWDNJTmlHZ2JQYWxLbTJ4R1VQVHREdUdsYU9KSTl3NGlCZzNzUmNNMHRIWTA4ODRXNTBsdFJBbmV3QnlVaVk0U1NhVWRHMzlBM3I0UGZEM3M1aCtuMXc9PRgAIAAoADCQxbmay7qIAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeHI0RWsvOEJnZlIwSkhhaFBjRmZaZW1oRUtwQTJnSXE2SXNCUTVud0IvWS8yWXFOVFhma2U1dDJoaEl2elZIVzkycnhVSWpjdi9HWVR1clJZSGtrb0JxNkxwMXc9PRgAIAAoADCQxbmay7qIAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaenh3VVp2aXBFWVZEN25COWE0VmREaElMSWJYcTdnZGtyaStwZHF6bE1iNmdmVkVLbWUyVTlEL0FsTUVMK2FMS3ZHbWNNRhgAIAAoADCQxbmay7qIAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}
