@@ -1,0 +1,100 @@
+2024-09-14 23:28:33.345 [warning] Dir "/home/karthi/project/ap/.pixi/envs" is not watchable (directory does not exist)
+2024-09-14 23:28:33.346 [info] Default formatter is set to null for workspace /home/karthi/project/ap
+2024-09-14 23:28:33.346 [error] Unable to check if shell integration is active Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:149:59064)
+    at a.onDidWriteTerminalData (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:40355)
+    at new v (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:904597)
+    at me (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1750940)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754304
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754332
+    at Se (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754399)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754879
+    at we (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754820)
+    at Pe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754854)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1752093
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1753698
+    at Array.reduce (<anonymous>)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1753670
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1753952
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754332
+    at Se (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754399)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754879
+    at we (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754820)
+    at Pe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754854)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1752093
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1781763
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1781784
+    at e._get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1780797)
+    at e._getButThrowIfAsync (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1780857)
+    at e.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1776566)
+    at e.dynamicValue (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1766299)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1752476
+    at Ee (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1752732)
+    at Se (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754448)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754879
+    at we (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754820)
+    at Pe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754854)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1752093
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1752027
+    at Array.map (<anonymous>)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1751998
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1753698
+    at Array.reduce (<anonymous>)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1753670
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1753952
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754332
+    at Se (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754399)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754879
+    at we (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754820)
+    at Pe (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1754854)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1752093
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1781763
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1781784
+    at e._get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1780797)
+    at e._getButThrowIfAsync (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1780857)
+    at e.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:1776566)
+    at a.get (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:523454)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:439421
+    at t.activateComponents (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:437708)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:2707679
+    at e (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:2707211)
+    at m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6409)
+    at m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6372)
+    at m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:5829)
+2024-09-14 23:28:33.346 [info] > conda info --json
+2024-09-14 23:28:33.346 [info] Python interpreter path: ./.my/bin/python
+2024-09-14 23:28:33.346 [info] > pyenv which python
+2024-09-14 23:28:33.346 [info] cwd: .
+2024-09-14 23:28:33.627 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 3366ms, has a falsy return value, Arg 1: <Uri:/home/karthi/project/ap/main.py>, Arg 2: {"started":1726336696995}, Return Value: undefined',
+  Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+      at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:149:59064)
+      at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:33061)
+      at C.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:938870)
+      at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:2457
+      at Array.map (<anonymous>)
+      at v.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:2447)
+]
+2024-09-14 23:28:33.628 [error] Failure during activation. Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:149:59064)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:33061)
+    at C.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:938870)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:2457
+    at Array.map (<anonymous>)
+    at v.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:2447)
+2024-09-14 23:28:33.628 [error] sendStartupTelemetry() failed. Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:149:59064)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:33061)
+    at C.activate (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:938870)
+    at /home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:2457
+    at Array.map (<anonymous>)
+    at v.activateWorkspace (/home/karthi/.vscode-oss/extensions/ms-python.python-2024.14.1-universal/out/client/extension.js:2:2447)
+2024-09-14 23:28:39.684 [info] Starting Jedi language server for ap.

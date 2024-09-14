@@ -1,2 +1,3 @@
-2024/09/11-22:35:45.232 2da4 Creating DB /home/karthi/.config/google-chrome/Profile 2/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
-2024/09/11-22:35:45.371 2da4 Reusing MANIFEST /home/karthi/.config/google-chrome/Profile 2/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/13-15:16:43.012 52d9 Reusing MANIFEST /home/karthi/.config/google-chrome/Profile 2/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/13-15:16:43.012 52d9 Recovering log #3
+2024/09/13-15:16:43.052 52d9 Reusing old log /home/karthi/.config/google-chrome/Profile 2/WebStorage/3/IndexedDB/indexeddb.leveldb/000003.log 

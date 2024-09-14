@@ -86,7 +86,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -983,7 +984,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -992,7 +994,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1904,10 +1907,10 @@
             "backupPath": "/home/karthi/.config/Code - OSS/Backups/0b4620e29c86a9d93ee3e649aa1e4495",
             "uiState": {
                 "mode": 1,
-                "x": 13,
-                "y": 39,
-                "width": 1340,
-                "height": 716
+                "x": 689,
+                "y": 37,
+                "width": 666,
+                "height": 720
             }
         },
         "openedWindows": []

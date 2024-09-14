@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dark Mode for Chrome</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/color-picker.min.css">
+</head>
+<body>
+<section class="tabs-container">
+    <div class="left-side">
+        <div class="heading-box">
+            <h2>Dark Mode for Chrome</h2>
+            <h3 class="subheading">options</h3>
+        </div>
+        <div class='button-list'>
+            <button data-name="site-exclusion" class="tablinks active">Site exclusion</button>
+            <button data-name="page-exclusion" class="tablinks">Page exclusion</button>
+            <button data-name="theme-changer" class="tablinks">Theme changer</button>
+            <button data-name="info" class="tablinks">Info</button>
+        </div>
+    </div>
+    <section id="site-exclusion" class="tab active">
+        <div class="content-wrapper">
+            <hgroup class="content-headings-box">
+                <h1 class="content-header">Site exclusion</h1>
+                <h2 class="content-description">Enter a correct web address to exclude the site from black theme
+                    applying</h2>
+            </hgroup>
+            <div class="main-input">
+                <input type="text" class="input-field domain" placeholder="Enter domain name">
+                <span class="add-domain"></span>
+            </div>
+            <ul class="sites-list"></ul>
+        </div>
+    </section>
+    <section id="page-exclusion" class="tab">
+        <div class="content-wrapper">
+            <hgroup class="content-headings-box">
+                <h1 class="content-header">Page exclusion</h1>
+                <h2 class="content-description">Enter a correct web address to exclude the page from black theme
+                    applying</h2>
+            </hgroup>
+            <div class="main-input">
+                <input type="text" class="input-field page" placeholder="Enter page name">
+                <span class="add-page"></span>
+            </div>
+            <ul class="pages-list"></ul>
+        </div>
+    </section>
+    <section id="theme-changer" class="tab">
+        <div class="content-wrapper">
+            <hgroup class="content-headings-box">
+                <h1 class="content-header">Theme changer</h1>
+                <h2 class="content-description">Create your own custom theme! Save it, rename and apply at any time</h2>
+            </hgroup>
+            <div class="form-box">
+                <ul class="property-list">
+                    <li>
+                        <span class="color-preview"></span>
+                        <span class="value-name">Theme color</span>
+                        <input data-color="#2a2a28" type="text" name="bgColorHex" class="color-input">
+                    </li>
+                    <li>
+                        <span class="color-preview"></span>
+                        <span class="value-name">Text Color</span>
+                        <input data-color="#b60d45" type="text" name="textColor" class="color-input">
+                    </li>
+                    <li>
+                        <span class="color-preview"></span>
+                        <span class="value-name">Border Color</span>
+                        <input data-color="#eee616" type="text" name="tableBorderColor" class="color-input">
+                    </li>
+                </ul>
+                <button class="save-scheme">Save theme</button>
+            </div>
+            <ul class="schemes-list">
+            </ul>
+        </div>
+    </section>
+    <section id="info" class="tab">
+        <div class="info content-wrapper">
+            <div class="content-headings-box">
+                <h1 class="info__main-header content-header">Privacy Policy</h1>
+                <h2 class="info__effective-date content-description"><span>EFFECTIVE DATE: </span>21st of October, 2022
+                </h2>
+            </div>
+
+            <div class="info__clause">
+                <h3 class="info__clause-title">1. Introduction</h3>
+                <p class="info__clause-text">
+                    This Privacy Policy sets forth the privacy practices with respect to all information, data,
+                    graphics, content, software applications; and other Dark Mode for Chrome products or services
+                    provided or otherwise made accessible on or through the Software or the Website. Collectively, the
+                    Software, the Website, and any other Dark Mode for Chrome services are hereinafter referred to as
+                    the "Service".
+                    In this Privacy Policy, "we", "us", "our" and other similar references mean Dark Mode for Chrome and
+                    "your" and other similar references mean any particular user of the Service.
+                    We want to make sure you are aware of our Chrome extension "Dark Mode for Chrome" so that you always
+                    see the whole picture of your interaction with us. Please read this Privacy Policy in full as by
+                    installing our extension or visiting our website you express your acceptance of the practices we
+                    list here.
+                </p>
+            </div>
+            <div class="info__clause">
+                <h3 class="info__clause-title">2. Contact info</h3>
+                <p class="info__clause-text">
+                    If you have any questions about this Privacy Policy, don't hesitate to contact our Support service -
+                    info@darktheme.xyz
+                    <a class="info__clause-link" href="info@darktheme.xyz"></a>
+
+                </p>
+            </div>
+
+            <div class="info__clause">
+                <h3 class="info__clause-title">3. USER ACCOUNTS</h3>
+                <p class="info__clause-text">
+                    You are not required to create a user account or provide any personal information in order to use
+                    Dark Mode for Chrome.
+                </p>
+            </div>
+
+            <div class="info__clause">
+                <h3 class="info__clause-title">4. PERSONAL INFORMATION</h3>
+                <p class="info__clause-text">
+                    Dark Mode for Chrome does not collect any personal information about you (such as your name, email
+                    address, etc.). Further, it does not collect or report back to us (or anyone else) any data
+                    regarding your computer keystrokes or other data unrelated to the services the Extension provides.
+                    We don't call Google APIs to obtain personal information. Moreover, when installing a Dark Mode for Chrome
+                    extension on a personal Google account we are provided with no information regarding who has
+                    completed the installation.
+                    This privacy policy contains no section on sharing of personal information because we have none to
+                    share.
+                </p>
+            </div>
+            <div class="info__clause">
+                <h3 class="info__clause-title">5. COOKIES</h3>
+                <p class="info__clause-text">
+                    The Service uses "cookies" to help personalize your online experience. A cookie is a text file that
+                    is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver
+                    viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server
+                    in the domain that issued the cookie to you. We may use cookies to collect, store, and track
+                    information for statistical purposes to operate our Website and Services.
+                    Most web browsers automatically accept cookies, but you can usually modify your browser setting to
+                    decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully
+                    experience the features of the Website and Services or a Service in total.
+                </p>
+            </div>
+            <div class="info__clause">
+                <h3 class="info__clause-title">6. DATA</h3>
+                <p class="info__clause-text">
+                    Dark Mode for Chrome may change this Privacy Policy. Such changes may be announced to you either by
+                    email or by the posting of the revised policy on the Service.
+                </p>
+            </div>
+
+            <div class="info__clause">
+                <h3 class="info__clause-title">7. ANALITICS DATA</h3>
+                <p class="info__clause-text">
+                    We don't use, collect or process any analytics type (include Google Analytics).
+                </p>
+            </div>
+
+            <div class="info__clause">
+                <h3 class="info__clause-title">8. PRIVACY OF CHILDREN</h3>
+                <p class="info__clause-text">
+                    Another special part of our priority is adding protection for children while using the internet. We
+                    believe parents should be involved in the online activities of their children and suggest that
+                    parents do their best to provide their children with a safe and friendly online environment.
+                </p>
+            </div>
+
+            <div class="info__clause">
+                <h3 class="info__clause-title">9. CHANGES TO THIS PRIVACY POLICY</h3>
+                <p class="info__clause-text">
+                    Dark Mode for Chrome has the discretion to update this privacy policy at any time. When we do, we
+                    will revise the updated date at the bottom of this page and send you an email.
+                </p>
+                <p class="info__clause-text">
+                    We encourage Users to frequently check this page for any changes to stay informed about how we are
+                    helping to protect the personal information we collect. You acknowledge and agree that it is your
+                    responsibility to review this privacy policy periodically and become aware of modifications.
+                </p>
+            </div>
+            <div class="info__clause">
+                <h3 class="info__clause-title">10. YOUR ACCEPTANCE OF THESE TERMS</h3>
+                <p class="info__clause-text">
+                    By using this Site, you signify your acceptance of this policy. If you do not agree to this policy,
+                    please do not use our Site. Your continued use of the Site following the posting of changes to this
+                    policy will be deemed your acceptance of those changes.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+</section>
+<script src="../libs/color-picker.min.js"></script>
+<script src="../scripts/options.js"></script>
+</body>
+</html>

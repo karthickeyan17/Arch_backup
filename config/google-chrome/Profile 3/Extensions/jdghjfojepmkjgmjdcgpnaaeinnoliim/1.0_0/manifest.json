@@ -1,0 +1,32 @@
+{
+   "description": "Complete black theme for zero distraction",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArqlwFh8Kpa5/L0S30FNGO3Jx9LGodsm44vpfe5lyxb/3qwPqmZ1OoQlmI6Lha9leTT1JAJUiwox5BDDW3YkRSC+dtKSVgOeymoIlwjD7fBZcv7A6Ic5WP+SUR0cOQDzY90eL+pNFs6mWpd2tG/CTvB2wCvkFAo+cE9m+g4ZQP5BYREXEM6mYEIvHbW5zzogL/eDTycTGWwGzSz7F9gvxjroArohZquTGe3BWciVRz/x8JtGk0fdRSN9xHnBr5jtLHUjPhYH44oRud0iiFfiXzxHd71n4c+egyDixE6GIv5WW8dwlMZsvGxbC3w15VyETjKYNjnxZb4ezskIP9HQ3vwIDAQAB",
+   "manifest_version": 2,
+   "name": "All Black Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 192, 191, 191 ],
+         "button_background": [ 0, 0, 0, 0.9 ],
+         "frame": [ 0, 0, 0 ],
+         "ntp_background": [ 0, 0, 0 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 228, 228, 228 ],
+         "tab_text": [ 228, 228, 228 ],
+         "toolbar": [ 0, 0, 0 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.29 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

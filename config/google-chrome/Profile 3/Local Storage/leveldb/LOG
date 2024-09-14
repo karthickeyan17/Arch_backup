@@ -1,3 +1,15 @@
-2024/09/13-14:11:35.361 4 Reusing MANIFEST /home/karthi/.config/google-chrome/Profile 3/Local Storage/leveldb/MANIFEST-000001
-2024/09/13-14:11:35.374 4 Recovering log #89
-2024/09/13-14:11:35.392 4 Reusing old log /home/karthi/.config/google-chrome/Profile 3/Local Storage/leveldb/000089.log 
+2024/09/15-02:20:31.404 4 Reusing MANIFEST /home/karthi/.config/google-chrome/Profile 3/Local Storage/leveldb/MANIFEST-000001
+2024/09/15-02:20:31.415 4 Recovering log #115
+2024/09/15-02:20:31.626 4 Reusing old log /home/karthi/.config/google-chrome/Profile 3/Local Storage/leveldb/000115.log 
+2024/09/15-02:22:10.069 5 Level-0 table #118: started
+2024/09/15-02:22:10.119 5 Level-0 table #118: 35142 bytes OK
+2024/09/15-02:22:10.176 5 Delete type=0 #115
+2024/09/15-02:22:10.180 5 Compacting 4@0 + 1@1 files
+2024/09/15-02:22:10.269 5 Generated table #119@0: 1290 keys, 191202 bytes
+2024/09/15-02:22:10.269 5 Compacted 4@0 + 1@1 files => 191202 bytes
+2024/09/15-02:22:10.334 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/15-02:22:10.342 5 Delete type=2 #118
+2024/09/15-02:22:10.343 5 Delete type=2 #115
+2024/09/15-02:22:10.343 5 Delete type=2 #113
+2024/09/15-02:22:10.344 5 Delete type=2 #111
+2024/09/15-02:22:10.344 5 Delete type=2 #108

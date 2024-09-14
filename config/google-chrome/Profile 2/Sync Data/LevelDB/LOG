@@ -1,3 +1,9 @@
-2024/09/12-17:09:19.125 bf7 Reusing MANIFEST /home/karthi/.config/google-chrome/Profile 2/Sync Data/LevelDB/MANIFEST-000001
-2024/09/12-17:09:19.144 bf7 Recovering log #4
-2024/09/12-17:09:19.624 bf7 Reusing old log /home/karthi/.config/google-chrome/Profile 2/Sync Data/LevelDB/000004.log 
+2024/09/13-15:04:19.806 52d9 Reusing MANIFEST /home/karthi/.config/google-chrome/Profile 2/Sync Data/LevelDB/MANIFEST-000001
+2024/09/13-15:04:19.806 52d9 Recovering log #4
+2024/09/13-15:04:20.139 52d9 Reusing old log /home/karthi/.config/google-chrome/Profile 2/Sync Data/LevelDB/000004.log 
+2024/09/13-15:04:37.806 52e6 Level-0 table #8: started
+2024/09/13-15:04:38.987 52e6 Level-0 table #8: 104529 bytes OK
+2024/09/13-15:04:39.853 52e6 Delete type=0 #4
+2024/09/13-15:52:53.928 52d9 Level-0 table #10: started
+2024/09/13-15:52:53.997 52d9 Level-0 table #10: 85206 bytes OK
+2024/09/13-15:52:54.091 52d9 Delete type=0 #7

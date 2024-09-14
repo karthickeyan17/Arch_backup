@@ -1,3 +1,8 @@
-2024/09/13-13:52:04.020 4 Reusing MANIFEST /home/karthi/.config/google-chrome/Profile 3/Local Storage/leveldb/MANIFEST-000001
-2024/09/13-13:52:04.029 4 Recovering log #89
-2024/09/13-13:52:04.040 4 Reusing old log /home/karthi/.config/google-chrome/Profile 3/Local Storage/leveldb/000089.log 
+2024/09/15-00:39:40.935 4 Reusing MANIFEST /home/karthi/.config/google-chrome/Profile 3/Local Storage/leveldb/MANIFEST-000001
+2024/09/15-00:39:40.939 4 Recovering log #112
+2024/09/15-00:39:40.946 4 Level-0 table #115: started
+2024/09/15-00:39:42.689 4 Level-0 table #115: 36444 bytes OK
+2024/09/15-00:39:42.690 4 Recovering log #115
+2024/09/15-00:39:42.692 4 Reusing old log /home/karthi/.config/google-chrome/Profile 3/Local Storage/leveldb/000115.log 
+2024/09/15-00:39:43.344 4 Delete type=2 #116
+2024/09/15-00:39:43.345 4 Delete type=0 #112

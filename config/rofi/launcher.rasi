@@ -1,36 +1,37 @@
 configuration {
-	font:							"Iosevka Nerd Font 10";
-    show-icons:                     true;
-	icon-theme: 					"Papirus";
-    display-drun: 					"";
-    drun-display-format:            "{name}";
-    disable-history:                false;
-    fullscreen:                     false;
-	hide-scrollbar: 				true;
-	sidebar-mode: 					false;
+	font:			"terminus 10";
+        show-icons:		true;
+	icon-theme: 		"Papirus";
+	display-drun: 		"";
+    	drun-display-format: 	"{name}";
+	disable-history: 	false;
+    	fullscreen:       	false;
+	hide-scrollbar: 	true;
+	sidebar-mode: 		false;
 }
 
 @import "colors.rasi"
 
 window {
-    transparency:                   "real";
-    background-color:               @bg;
-    text-color:                     @fg;
-	border:							2px;
-	border-color:					@ac;
-    border-radius:                  0px;
-	width:							450px;
-    location:                       center;
-    x-offset:                       0;
-    y-offset:                       0;
+   	transparency:           "real";
+    	background-color:       @bg;
+    	text-color:             @fg;
+	border:			1px;
+	border-color:		@ac;
+    	border-radius:          0px;
+	width:			350px;
+	orientation:		horizontal;
+    	location:               north;
+   	x-offset:               0;
+    	y-offset:       	36;
 }
 
 prompt {
-    enabled: 						true;
-	padding: 						10px;
-	background-color: 				@al;
-	text-color: 					@ac;
-	font:							"Iosevka Nerd Font 10";
+   	enabled: 		true;
+	padding: 		10px;
+	background-color: 	@al;
+	text-color: 		@ac;
+	font:			"Iosevka Nerd Font 10";
 }
 
 entry {
@@ -46,13 +47,13 @@ entry {
 }
 
 inputbar {
-	children: 						[ prompt, entry ];
+    children: 			    [ prompt, entry ];
     background-color:               @al;
     text-color:                     @fg;
     expand:                         false;
-	border:							0px 0px 1px 0px;
+    border:     		    0px 0px 1px 0px;
     border-radius:                  0px;
-	border-color:					@ac;
+    border-color:                   @ac;
     spacing:                        0px;
 }
 
@@ -69,11 +70,11 @@ listview {
 
 mainbox {
     background-color:               @al;
-	border:							0px;
+    border:			    0px;
     border-radius:                  0px;
-	border-color:					@ac;
+    border-color:		    @ac;
     children:                       [ inputbar, listview ];
-    spacing:                       	10px;
+    spacing:                        10px;
     padding:                        2px 10px 10px 10px;
 }
 
@@ -87,14 +88,14 @@ element {
 
 element-icon {
     background-color:               transparent;
-    text-color:               		inherit;
+    text-color:               	    inherit;
     size:                           24px;
     border:                         0px;
 }
 
 element-text {
     background-color:               transparent;
-    text-color:               		inherit;
+    text-color:               	    inherit;
     expand:                         true;
     horizontal-align:               0;
     vertical-align:                 0.5;
@@ -104,7 +105,7 @@ element-text {
 element selected {
     background-color:               @se;
     text-color:                     @fg;
-	border:							0px 0px 0px 0px;
+    border:                         0px 0px 0px 0px;
     border-radius:                  0px;
-    border-color:                  	@ac;
+    border-color:                   @ac;
 }
